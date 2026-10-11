@@ -1,0 +1,1921 @@
+seed,arm,rho,mbo_opt_found,mbo_gap_best_unif
+0,Exact,0.5,1.0,0.0
+0,SA tuned (ext),0.5,1.0,0.0
+0,Tabu (restarts),0.5,1.0,0.0
+0,Random,0.5,1.0,0.0
+0,QAOA p=2 transferred,0.5,1.0,0.0
+0,"Exact, ADMM with restarts",0.5,1.0,0.0
+0,Exact,1.0,0.0,0.2671741833090461
+0,SA tuned (ext),1.0,0.0,0.2671741833090461
+0,Tabu (restarts),1.0,0.0,0.2671741833090461
+0,Random,1.0,1.0,0.0
+0,QAOA p=2 transferred,1.0,0.0,0.2671741833090461
+0,"Exact, ADMM with restarts",1.0,1.0,0.0
+0,Exact,2.0,0.0,0.2671741833090461
+0,SA tuned (ext),2.0,0.0,0.2671741833090461
+0,Tabu (restarts),2.0,0.0,0.2671741833090461
+0,Random,2.0,1.0,0.0
+0,QAOA p=2 transferred,2.0,0.0,0.2671741833090461
+0,"Exact, ADMM with restarts",2.0,1.0,0.0
+0,Exact,4.0,0.0,0.4843749820429153
+0,SA tuned (ext),4.0,0.0,0.4843749820429153
+0,Tabu (restarts),4.0,0.0,0.4843749820429153
+0,Random,4.0,0.0,0.2237866923004845
+0,QAOA p=2 transferred,4.0,0.0,0.4843749820429153
+0,"Exact, ADMM with restarts",4.0,0.0,0.22534072895083346
+1,Exact,0.5,1.0,0.0
+1,SA tuned (ext),0.5,1.0,0.0
+1,Tabu (restarts),0.5,1.0,0.0
+1,Random,0.5,1.0,0.0
+1,QAOA p=2 transferred,0.5,1.0,0.0
+1,"Exact, ADMM with restarts",0.5,1.0,0.0
+1,Exact,1.0,1.0,0.0
+1,SA tuned (ext),1.0,1.0,0.0
+1,Tabu (restarts),1.0,1.0,0.0
+1,Random,1.0,1.0,0.0
+1,QAOA p=2 transferred,1.0,1.0,0.0
+1,"Exact, ADMM with restarts",1.0,0.0,0.04887182010343847
+1,Exact,2.0,0.0,0.12820514568233954
+1,SA tuned (ext),2.0,0.0,0.12820514568233954
+1,Tabu (restarts),2.0,0.0,0.12820514568233954
+1,Random,2.0,0.0,0.10701322135478808
+1,QAOA p=2 transferred,2.0,0.0,0.12820514568233954
+1,"Exact, ADMM with restarts",2.0,0.0,0.04887182010343847
+1,Exact,4.0,0.0,0.24031947419690539
+1,SA tuned (ext),4.0,0.0,0.24031947419690539
+1,Tabu (restarts),4.0,0.0,0.24031947419690539
+1,Random,4.0,0.0,0.10701322135478808
+1,QAOA p=2 transferred,4.0,0.0,0.24031947419690539
+1,"Exact, ADMM with restarts",4.0,0.0,0.2527634627045203
+2,Exact,0.5,1.0,0.0
+2,SA tuned (ext),0.5,1.0,0.0
+2,Tabu (restarts),0.5,1.0,0.0
+2,Random,0.5,1.0,0.0
+2,QAOA p=2 transferred,0.5,1.0,0.0
+2,"Exact, ADMM with restarts",0.5,1.0,0.0
+2,Exact,1.0,0.0,0.006064795263320189
+2,SA tuned (ext),1.0,0.0,0.006064795263320189
+2,Tabu (restarts),1.0,0.0,0.006064795263320189
+2,Random,1.0,1.0,0.0
+2,QAOA p=2 transferred,1.0,0.0,0.006064795263320189
+2,"Exact, ADMM with restarts",1.0,0.0,0.005397020199891421
+2,Exact,2.0,0.0,0.03548032070109132
+2,SA tuned (ext),2.0,0.0,0.03548032070109132
+2,Tabu (restarts),2.0,0.0,0.03548032070109132
+2,Random,2.0,1.0,0.0
+2,QAOA p=2 transferred,2.0,0.0,0.03548032070109132
+2,"Exact, ADMM with restarts",2.0,0.0,0.03548032070109132
+2,Exact,4.0,0.0,0.4349258829955707
+2,SA tuned (ext),4.0,0.0,0.4349258829955707
+2,Tabu (restarts),4.0,0.0,0.4349258829955707
+2,Random,4.0,0.0,0.13918027634787655
+2,QAOA p=2 transferred,4.0,0.0,0.4349258829955707
+2,"Exact, ADMM with restarts",4.0,0.0,0.10255311823373266
+3,Exact,0.5,0.0,0.0023488995890692623
+3,SA tuned (ext),0.5,0.0,0.0023488995890692623
+3,Tabu (restarts),0.5,0.0,0.0023488995890692623
+3,Random,0.5,0.0,0.0023488995890692623
+3,QAOA p=2 transferred,0.5,0.0,0.0023488995890692623
+3,"Exact, ADMM with restarts",0.5,1.0,0.0
+3,Exact,1.0,0.0,0.0023488995890692623
+3,SA tuned (ext),1.0,0.0,0.0023488995890692623
+3,Tabu (restarts),1.0,0.0,0.0023488995890692623
+3,Random,1.0,1.0,0.0
+3,QAOA p=2 transferred,1.0,0.0,0.0023488995890692623
+3,"Exact, ADMM with restarts",1.0,0.0,0.0023488995890692623
+3,Exact,2.0,0.0,0.0023488995890692623
+3,SA tuned (ext),2.0,0.0,0.0023488995890692623
+3,Tabu (restarts),2.0,0.0,0.0023488995890692623
+3,Random,2.0,0.0,0.0023488995890692623
+3,QAOA p=2 transferred,2.0,0.0,0.0023488995890692623
+3,"Exact, ADMM with restarts",2.0,1.0,0.0
+3,Exact,4.0,0.0,0.0023488995890692623
+3,SA tuned (ext),4.0,0.0,0.0023488995890692623
+3,Tabu (restarts),4.0,0.0,0.0023488995890692623
+3,Random,4.0,1.0,0.0
+3,QAOA p=2 transferred,4.0,0.0,0.0023488995890692623
+3,"Exact, ADMM with restarts",4.0,0.0,0.0023488995890692623
+4,Exact,0.5,1.0,0.0
+4,SA tuned (ext),0.5,1.0,0.0
+4,Tabu (restarts),0.5,1.0,0.0
+4,Random,0.5,1.0,0.0
+4,QAOA p=2 transferred,0.5,1.0,0.0
+4,"Exact, ADMM with restarts",0.5,1.0,0.0
+4,Exact,1.0,0.0,0.15659869182661934
+4,SA tuned (ext),1.0,0.0,0.15659869182661934
+4,Tabu (restarts),1.0,0.0,0.15659869182661934
+4,Random,1.0,1.0,0.0
+4,QAOA p=2 transferred,1.0,0.0,0.15659869182661934
+4,"Exact, ADMM with restarts",1.0,1.0,0.0
+4,Exact,2.0,0.0,0.08863317696622013
+4,SA tuned (ext),2.0,0.0,0.08863317696622013
+4,Tabu (restarts),2.0,0.0,0.08863317696622013
+4,Random,2.0,1.0,0.0
+4,QAOA p=2 transferred,2.0,0.0,0.08863317696622013
+4,"Exact, ADMM with restarts",2.0,1.0,0.0
+4,Exact,4.0,0.0,0.23381013768881323
+4,SA tuned (ext),4.0,0.0,0.23381013768881323
+4,Tabu (restarts),4.0,0.0,0.23381013768881323
+4,Random,4.0,0.0,0.02946935489790144
+4,QAOA p=2 transferred,4.0,0.0,0.23381013768881323
+4,"Exact, ADMM with restarts",4.0,0.0,0.214579459095722
+5,Exact,0.5,1.0,0.0
+5,SA tuned (ext),0.5,1.0,0.0
+5,Tabu (restarts),0.5,1.0,0.0
+5,Random,0.5,1.0,0.0
+5,QAOA p=2 transferred,0.5,1.0,0.0
+5,"Exact, ADMM with restarts",0.5,1.0,0.0
+5,Exact,1.0,0.0,0.047523758139143744
+5,SA tuned (ext),1.0,0.0,0.047523758139143744
+5,Tabu (restarts),1.0,0.0,0.047523758139143744
+5,Random,1.0,1.0,0.0
+5,QAOA p=2 transferred,1.0,0.0,0.047523758139143744
+5,"Exact, ADMM with restarts",1.0,1.0,0.0
+5,Exact,2.0,0.0,0.3919552463597024
+5,SA tuned (ext),2.0,0.0,0.3919552463597024
+5,Tabu (restarts),2.0,0.0,0.21619595469225036
+5,Random,2.0,1.0,0.0
+5,QAOA p=2 transferred,2.0,0.0,0.3919552463597024
+5,"Exact, ADMM with restarts",2.0,1.0,0.0
+5,Exact,4.0,0.0,0.3919552463597024
+5,SA tuned (ext),4.0,0.0,0.3919552463597024
+5,Tabu (restarts),4.0,0.0,0.3919552463597024
+5,Random,4.0,0.0,0.19407382916694482
+5,QAOA p=2 transferred,4.0,0.0,0.3919552463597024
+5,"Exact, ADMM with restarts",4.0,0.0,0.21619595469225036
+6,Exact,0.5,1.0,0.0
+6,SA tuned (ext),0.5,1.0,0.0
+6,Tabu (restarts),0.5,1.0,0.0
+6,Random,0.5,1.0,0.0
+6,QAOA p=2 transferred,0.5,1.0,0.0
+6,"Exact, ADMM with restarts",0.5,1.0,0.0
+6,Exact,1.0,0.0,0.09876004977600097
+6,SA tuned (ext),1.0,0.0,0.09876004977600097
+6,Tabu (restarts),1.0,0.0,0.09876004977600097
+6,Random,1.0,1.0,0.0
+6,QAOA p=2 transferred,1.0,0.0,0.09876004977600097
+6,"Exact, ADMM with restarts",1.0,1.0,0.0
+6,Exact,2.0,1.0,0.0
+6,SA tuned (ext),2.0,1.0,0.0
+6,Tabu (restarts),2.0,1.0,0.0
+6,Random,2.0,0.0,0.09153297645149541
+6,QAOA p=2 transferred,2.0,1.0,0.0
+6,"Exact, ADMM with restarts",2.0,0.0,0.027414554121948848
+6,Exact,4.0,0.0,0.34250536653940616
+6,SA tuned (ext),4.0,0.0,0.34250536653940616
+6,Tabu (restarts),4.0,0.0,0.34250536653940616
+6,Random,4.0,0.0,0.09153297645149541
+6,QAOA p=2 transferred,4.0,0.0,0.34250536653940616
+6,"Exact, ADMM with restarts",4.0,0.0,0.09153297645149541
+7,Exact,0.5,1.0,0.0
+7,SA tuned (ext),0.5,1.0,0.0
+7,Tabu (restarts),0.5,1.0,0.0
+7,Random,0.5,1.0,0.0
+7,QAOA p=2 transferred,0.5,1.0,0.0
+7,"Exact, ADMM with restarts",0.5,1.0,0.0
+7,Exact,1.0,1.0,0.0
+7,SA tuned (ext),1.0,1.0,0.0
+7,Tabu (restarts),1.0,1.0,0.0
+7,Random,1.0,1.0,0.0
+7,QAOA p=2 transferred,1.0,1.0,0.0
+7,"Exact, ADMM with restarts",1.0,0.0,0.0518275771207303
+7,Exact,2.0,1.0,0.0
+7,SA tuned (ext),2.0,1.0,0.0
+7,Tabu (restarts),2.0,1.0,0.0
+7,Random,2.0,1.0,0.0
+7,QAOA p=2 transferred,2.0,1.0,0.0
+7,"Exact, ADMM with restarts",2.0,1.0,0.0
+7,Exact,4.0,0.0,0.0518275771207303
+7,SA tuned (ext),4.0,0.0,0.0518275771207303
+7,Tabu (restarts),4.0,0.0,0.0518275771207303
+7,Random,4.0,1.0,0.0
+7,QAOA p=2 transferred,4.0,0.0,0.0518275771207303
+7,"Exact, ADMM with restarts",4.0,0.0,0.04973283893907478
+8,Exact,0.5,1.0,0.0
+8,SA tuned (ext),0.5,1.0,0.0
+8,Tabu (restarts),0.5,1.0,0.0
+8,Random,0.5,1.0,0.0
+8,QAOA p=2 transferred,0.5,1.0,0.0
+8,"Exact, ADMM with restarts",0.5,1.0,0.0
+8,Exact,1.0,1.0,0.0
+8,SA tuned (ext),1.0,1.0,0.0
+8,Tabu (restarts),1.0,1.0,0.0
+8,Random,1.0,1.0,0.0
+8,QAOA p=2 transferred,1.0,1.0,0.0
+8,"Exact, ADMM with restarts",1.0,1.0,0.0
+8,Exact,2.0,1.0,0.0
+8,SA tuned (ext),2.0,1.0,0.0
+8,Tabu (restarts),2.0,1.0,0.0
+8,Random,2.0,1.0,0.0
+8,QAOA p=2 transferred,2.0,1.0,0.0
+8,"Exact, ADMM with restarts",2.0,1.0,0.0
+8,Exact,4.0,0.0,0.40462544497394476
+8,SA tuned (ext),4.0,0.0,0.40462544497394476
+8,Tabu (restarts),4.0,0.0,0.40462544497394476
+8,Random,4.0,1.0,0.0
+8,QAOA p=2 transferred,4.0,0.0,0.40462544497394476
+8,"Exact, ADMM with restarts",4.0,0.0,0.051752732651203275
+9,Exact,0.5,1.0,0.0
+9,SA tuned (ext),0.5,1.0,0.0
+9,Tabu (restarts),0.5,1.0,0.0
+9,Random,0.5,1.0,0.0
+9,QAOA p=2 transferred,0.5,1.0,0.0
+9,"Exact, ADMM with restarts",0.5,1.0,0.0
+9,Exact,1.0,0.0,0.014063658838545426
+9,SA tuned (ext),1.0,0.0,0.014063658838545426
+9,Tabu (restarts),1.0,0.0,0.014063658838545426
+9,Random,1.0,1.0,0.0
+9,QAOA p=2 transferred,1.0,0.0,0.014063658838545426
+9,"Exact, ADMM with restarts",1.0,1.0,0.0
+9,Exact,2.0,0.0,0.05154581912266264
+9,SA tuned (ext),2.0,0.0,0.05154581912266264
+9,Tabu (restarts),2.0,0.0,0.05154581912266264
+9,Random,2.0,1.0,0.0
+9,QAOA p=2 transferred,2.0,0.0,0.05154581912266264
+9,"Exact, ADMM with restarts",2.0,1.0,0.0
+9,Exact,4.0,0.0,0.22728388842596234
+9,SA tuned (ext),4.0,0.0,0.22728388842596234
+9,Tabu (restarts),4.0,0.0,0.22728388842596234
+9,Random,4.0,1.0,0.0
+9,QAOA p=2 transferred,4.0,0.0,0.22728388842596234
+9,"Exact, ADMM with restarts",4.0,0.0,0.10118051111617052
+10,Exact,0.5,1.0,0.0
+10,SA tuned (ext),0.5,1.0,0.0
+10,Tabu (restarts),0.5,1.0,0.0
+10,Random,0.5,1.0,0.0
+10,QAOA p=2 transferred,0.5,1.0,0.0
+10,"Exact, ADMM with restarts",0.5,1.0,0.0
+10,Exact,1.0,1.0,0.0
+10,SA tuned (ext),1.0,1.0,0.0
+10,Tabu (restarts),1.0,1.0,0.0
+10,Random,1.0,1.0,0.0
+10,QAOA p=2 transferred,1.0,1.0,0.0
+10,"Exact, ADMM with restarts",1.0,1.0,0.0
+10,Exact,2.0,0.0,0.12178326410258584
+10,SA tuned (ext),2.0,0.0,0.12178326410258584
+10,Tabu (restarts),2.0,0.0,0.12178326410258584
+10,Random,2.0,1.0,0.0
+10,QAOA p=2 transferred,2.0,0.0,0.12178326410258584
+10,"Exact, ADMM with restarts",2.0,0.0,0.07426880494755711
+10,Exact,4.0,0.0,0.27253446284051064
+10,SA tuned (ext),4.0,0.0,0.27253446284051064
+10,Tabu (restarts),4.0,0.0,0.27253446284051064
+10,Random,4.0,1.0,0.0
+10,QAOA p=2 transferred,4.0,0.0,0.27253446284051064
+10,"Exact, ADMM with restarts",4.0,0.0,0.24685205112169273
+11,Exact,0.5,1.0,0.0
+11,SA tuned (ext),0.5,1.0,0.0
+11,Tabu (restarts),0.5,1.0,0.0
+11,Random,0.5,1.0,0.0
+11,QAOA p=2 transferred,0.5,1.0,0.0
+11,"Exact, ADMM with restarts",0.5,1.0,0.0
+11,Exact,1.0,0.0,0.041828774862037545
+11,SA tuned (ext),1.0,0.0,0.041828774862037545
+11,Tabu (restarts),1.0,0.0,0.041828774862037545
+11,Random,1.0,1.0,0.0
+11,QAOA p=2 transferred,1.0,0.0,0.041828774862037545
+11,"Exact, ADMM with restarts",1.0,0.0,0.041828774862037545
+11,Exact,2.0,0.0,0.4820839318517084
+11,SA tuned (ext),2.0,0.0,0.4820839318517084
+11,Tabu (restarts),2.0,0.0,0.4820839318517084
+11,Random,2.0,1.0,0.0
+11,QAOA p=2 transferred,2.0,0.0,0.4820839318517084
+11,"Exact, ADMM with restarts",2.0,0.0,0.15815524829580593
+11,Exact,4.0,0.0,0.6875328925265732
+11,SA tuned (ext),4.0,0.0,0.6875328925265732
+11,Tabu (restarts),4.0,0.0,0.6875328925265732
+11,Random,4.0,0.0,0.24171447541078708
+11,QAOA p=2 transferred,4.0,0.0,0.6875328925265732
+11,"Exact, ADMM with restarts",4.0,0.0,0.2980113661299156
+12,Exact,0.5,1.0,0.0
+12,SA tuned (ext),0.5,1.0,0.0
+12,Tabu (restarts),0.5,1.0,0.0
+12,Random,0.5,1.0,0.0
+12,QAOA p=2 transferred,0.5,1.0,0.0
+12,"Exact, ADMM with restarts",0.5,1.0,0.0
+12,Exact,1.0,1.0,0.0
+12,SA tuned (ext),1.0,1.0,0.0
+12,Tabu (restarts),1.0,1.0,0.0
+12,Random,1.0,1.0,0.0
+12,QAOA p=2 transferred,1.0,1.0,0.0
+12,"Exact, ADMM with restarts",1.0,1.0,0.0
+12,Exact,2.0,1.0,0.0
+12,SA tuned (ext),2.0,1.0,0.0
+12,Tabu (restarts),2.0,1.0,0.0
+12,Random,2.0,0.0,0.07725757399453957
+12,QAOA p=2 transferred,2.0,1.0,0.0
+12,"Exact, ADMM with restarts",2.0,1.0,0.0
+12,Exact,4.0,0.0,0.10582974962300945
+12,SA tuned (ext),4.0,0.0,0.10582974962300945
+12,Tabu (restarts),4.0,0.0,0.10582974962300945
+12,Random,4.0,0.0,0.07725757399453957
+12,QAOA p=2 transferred,4.0,0.0,0.10582974962300945
+12,"Exact, ADMM with restarts",4.0,0.0,0.07725757399453957
+13,Exact,0.5,1.0,0.0
+13,SA tuned (ext),0.5,1.0,0.0
+13,Tabu (restarts),0.5,1.0,0.0
+13,Random,0.5,1.0,0.0
+13,QAOA p=2 transferred,0.5,1.0,0.0
+13,"Exact, ADMM with restarts",0.5,1.0,0.0
+13,Exact,1.0,0.0,0.022634675132846487
+13,SA tuned (ext),1.0,0.0,0.022634675132846487
+13,Tabu (restarts),1.0,0.0,0.022634675132846487
+13,Random,1.0,1.0,0.0
+13,QAOA p=2 transferred,1.0,0.0,0.022634675132846487
+13,"Exact, ADMM with restarts",1.0,1.0,0.0
+13,Exact,2.0,0.0,0.06418582088730268
+13,SA tuned (ext),2.0,0.0,0.06418582088730268
+13,Tabu (restarts),2.0,0.0,0.06418582088730268
+13,Random,2.0,0.0,0.022634675132846487
+13,QAOA p=2 transferred,2.0,0.0,0.06418582088730268
+13,"Exact, ADMM with restarts",2.0,1.0,0.0
+13,Exact,4.0,0.0,0.48387179661086793
+13,SA tuned (ext),4.0,0.0,0.48387179661086793
+13,Tabu (restarts),4.0,0.0,0.48387179661086793
+13,Random,4.0,0.0,0.05546436517335496
+13,QAOA p=2 transferred,4.0,0.0,0.48387179661086793
+13,"Exact, ADMM with restarts",4.0,1.0,0.0
+14,Exact,0.5,0.0,0.03788012325334219
+14,SA tuned (ext),0.5,0.0,0.03788012325334219
+14,Tabu (restarts),0.5,0.0,0.03788012325334219
+14,Random,0.5,1.0,0.0
+14,QAOA p=2 transferred,0.5,0.0,0.03788012325334219
+14,"Exact, ADMM with restarts",0.5,1.0,0.0
+14,Exact,1.0,0.0,0.09923181595366809
+14,SA tuned (ext),1.0,0.0,0.09923181595366809
+14,Tabu (restarts),1.0,0.0,0.09923181595366809
+14,Random,1.0,0.0,0.03788012325334219
+14,QAOA p=2 transferred,1.0,0.0,0.09923181595366809
+14,"Exact, ADMM with restarts",1.0,1.0,0.0
+14,Exact,2.0,0.0,0.09923181595366809
+14,SA tuned (ext),2.0,0.0,0.09923181595366809
+14,Tabu (restarts),2.0,0.0,0.09923181595366809
+14,Random,2.0,0.0,0.03788012325334219
+14,QAOA p=2 transferred,2.0,0.0,0.09923181595366809
+14,"Exact, ADMM with restarts",2.0,1.0,0.0
+14,Exact,4.0,0.0,0.17883649947777963
+14,SA tuned (ext),4.0,0.0,0.17883649947777963
+14,Tabu (restarts),4.0,0.0,0.17883649947777963
+14,Random,4.0,0.0,0.07917712222666501
+14,QAOA p=2 transferred,4.0,0.0,0.17883649947777963
+14,"Exact, ADMM with restarts",4.0,0.0,0.1338978080642744
+15,Exact,0.5,1.0,0.0
+15,SA tuned (ext),0.5,1.0,0.0
+15,Tabu (restarts),0.5,1.0,0.0
+15,Random,0.5,1.0,0.0
+15,QAOA p=2 transferred,0.5,1.0,0.0
+15,"Exact, ADMM with restarts",0.5,1.0,0.0
+15,Exact,1.0,0.0,0.025554414518315367
+15,SA tuned (ext),1.0,0.0,0.025554414518315367
+15,Tabu (restarts),1.0,0.0,0.025554414518315367
+15,Random,1.0,1.0,0.0
+15,QAOA p=2 transferred,1.0,0.0,0.025554414518315367
+15,"Exact, ADMM with restarts",1.0,1.0,0.0
+15,Exact,2.0,0.0,0.025554414518315367
+15,SA tuned (ext),2.0,0.0,0.025554414518315367
+15,Tabu (restarts),2.0,0.0,0.025554414518315367
+15,Random,2.0,1.0,0.0
+15,QAOA p=2 transferred,2.0,0.0,0.025554414518315367
+15,"Exact, ADMM with restarts",2.0,0.0,0.025554414518315367
+15,Exact,4.0,0.0,0.35412398458299915
+15,SA tuned (ext),4.0,0.0,0.35412398458299915
+15,Tabu (restarts),4.0,0.0,0.35412398458299915
+15,Random,4.0,0.0,0.025554414518315367
+15,QAOA p=2 transferred,4.0,0.0,0.35412398458299915
+15,"Exact, ADMM with restarts",4.0,0.0,0.025554414518315367
+16,Exact,0.5,1.0,0.0
+16,SA tuned (ext),0.5,1.0,0.0
+16,Tabu (restarts),0.5,1.0,0.0
+16,Random,0.5,1.0,0.0
+16,QAOA p=2 transferred,0.5,1.0,0.0
+16,"Exact, ADMM with restarts",0.5,1.0,0.0
+16,Exact,1.0,0.0,0.17513683240505873
+16,SA tuned (ext),1.0,0.0,0.17513683240505873
+16,Tabu (restarts),1.0,0.0,0.17513683240505873
+16,Random,1.0,1.0,0.0
+16,QAOA p=2 transferred,1.0,0.0,0.17513683240505873
+16,"Exact, ADMM with restarts",1.0,1.0,0.0
+16,Exact,2.0,0.0,0.17513683240505873
+16,SA tuned (ext),2.0,0.0,0.17513683240505873
+16,Tabu (restarts),2.0,0.0,0.17513683240505873
+16,Random,2.0,1.0,0.0
+16,QAOA p=2 transferred,2.0,0.0,0.17513683240505873
+16,"Exact, ADMM with restarts",2.0,1.0,0.0
+16,Exact,4.0,0.0,0.17513683240505873
+16,SA tuned (ext),4.0,0.0,0.17513683240505873
+16,Tabu (restarts),4.0,0.0,0.17513683240505873
+16,Random,4.0,1.0,0.0
+16,QAOA p=2 transferred,4.0,0.0,0.17513683240505873
+16,"Exact, ADMM with restarts",4.0,0.0,0.20963069517699884
+17,Exact,0.5,1.0,0.0
+17,SA tuned (ext),0.5,1.0,0.0
+17,Tabu (restarts),0.5,1.0,0.0
+17,Random,0.5,1.0,0.0
+17,QAOA p=2 transferred,0.5,1.0,0.0
+17,"Exact, ADMM with restarts",0.5,0.0,0.01158520081286922
+17,Exact,1.0,0.0,0.01158520081286922
+17,SA tuned (ext),1.0,0.0,0.01158520081286922
+17,Tabu (restarts),1.0,0.0,0.01158520081286922
+17,Random,1.0,1.0,0.0
+17,QAOA p=2 transferred,1.0,0.0,0.01158520081286922
+17,"Exact, ADMM with restarts",1.0,0.0,0.01158520081286922
+17,Exact,2.0,0.0,0.04732878746998526
+17,SA tuned (ext),2.0,0.0,0.04732878746998526
+17,Tabu (restarts),2.0,0.0,0.04732878746998526
+17,Random,2.0,0.0,0.020642488601069434
+17,QAOA p=2 transferred,2.0,0.0,0.04732878746998526
+17,"Exact, ADMM with restarts",2.0,0.0,0.04732878746998526
+17,Exact,4.0,0.0,0.3059569875723999
+17,SA tuned (ext),4.0,0.0,0.3059569875723999
+17,Tabu (restarts),4.0,0.0,0.3059569875723999
+17,Random,4.0,1.0,0.0
+17,QAOA p=2 transferred,4.0,0.0,0.3059569875723999
+17,"Exact, ADMM with restarts",4.0,0.0,0.28216335996773906
+18,Exact,0.5,0.0,0.014669920736330316
+18,SA tuned (ext),0.5,0.0,0.014669920736330316
+18,Tabu (restarts),0.5,0.0,0.014669920736330316
+18,Random,0.5,1.0,0.0
+18,QAOA p=2 transferred,0.5,0.0,0.014669920736330316
+18,"Exact, ADMM with restarts",0.5,1.0,0.0
+18,Exact,1.0,0.0,0.04270077322820618
+18,SA tuned (ext),1.0,0.0,0.04270077322820618
+18,Tabu (restarts),1.0,0.0,0.04270077322820618
+18,Random,1.0,1.0,0.0
+18,QAOA p=2 transferred,1.0,0.0,0.04270077322820618
+18,"Exact, ADMM with restarts",1.0,1.0,0.0
+18,Exact,2.0,0.0,0.04270077322820618
+18,SA tuned (ext),2.0,0.0,0.04270077322820618
+18,Tabu (restarts),2.0,0.0,0.04270077322820618
+18,Random,2.0,0.0,0.014669920736330316
+18,QAOA p=2 transferred,2.0,0.0,0.04270077322820618
+18,"Exact, ADMM with restarts",2.0,0.0,0.13246672541688606
+18,Exact,4.0,0.0,0.09275671773947367
+18,SA tuned (ext),4.0,0.0,0.09275671773947367
+18,Tabu (restarts),4.0,0.0,0.09275671773947367
+18,Random,4.0,0.0,0.014669920736330316
+18,QAOA p=2 transferred,4.0,0.0,0.09275671773947367
+18,"Exact, ADMM with restarts",4.0,0.0,0.08740259903526335
+19,Exact,0.5,0.0,0.13676884139394324
+19,SA tuned (ext),0.5,0.0,0.13676884139394324
+19,Tabu (restarts),0.5,0.0,0.13676884139394324
+19,Random,0.5,1.0,0.0
+19,QAOA p=2 transferred,0.5,0.0,0.13676884139394324
+19,"Exact, ADMM with restarts",0.5,0.0,0.13676884139394324
+19,Exact,1.0,0.0,0.2127868877563788
+19,SA tuned (ext),1.0,0.0,0.2127868877563788
+19,Tabu (restarts),1.0,0.0,0.2127868877563788
+19,Random,1.0,1.0,0.0
+19,QAOA p=2 transferred,1.0,0.0,0.2127868877563788
+19,"Exact, ADMM with restarts",1.0,0.0,0.2127868877563788
+19,Exact,2.0,0.0,0.2127868877563788
+19,SA tuned (ext),2.0,0.0,0.2127868877563788
+19,Tabu (restarts),2.0,0.0,0.2127868877563788
+19,Random,2.0,0.0,0.13676884139394324
+19,QAOA p=2 transferred,2.0,0.0,0.2127868877563788
+19,"Exact, ADMM with restarts",2.0,0.0,0.2127868877563788
+19,Exact,4.0,0.0,0.44708904164485874
+19,SA tuned (ext),4.0,0.0,0.44708904164485874
+19,Tabu (restarts),4.0,0.0,0.44708904164485874
+19,Random,4.0,0.0,0.13676884139394324
+19,QAOA p=2 transferred,4.0,0.0,0.44708904164485874
+19,"Exact, ADMM with restarts",4.0,0.0,0.221205311967181
+20,Exact,0.5,1.0,0.0
+20,SA tuned (ext),0.5,1.0,0.0
+20,Tabu (restarts),0.5,1.0,0.0
+20,Random,0.5,1.0,0.0
+20,QAOA p=2 transferred,0.5,1.0,0.0
+20,"Exact, ADMM with restarts",0.5,1.0,0.0
+20,Exact,1.0,0.0,0.024891965873528498
+20,SA tuned (ext),1.0,0.0,0.024891965873528498
+20,Tabu (restarts),1.0,0.0,0.024891965873528498
+20,Random,1.0,1.0,0.0
+20,QAOA p=2 transferred,1.0,0.0,0.024891965873528498
+20,"Exact, ADMM with restarts",1.0,1.0,0.0
+20,Exact,2.0,0.0,0.224116228939724
+20,SA tuned (ext),2.0,0.0,0.224116228939724
+20,Tabu (restarts),2.0,0.0,0.224116228939724
+20,Random,2.0,0.0,0.024891965873528498
+20,QAOA p=2 transferred,2.0,0.0,0.224116228939724
+20,"Exact, ADMM with restarts",2.0,0.0,0.224116228939724
+20,Exact,4.0,0.0,0.2903798537013673
+20,SA tuned (ext),4.0,0.0,0.2903798537013673
+20,Tabu (restarts),4.0,0.0,0.2903798537013673
+20,Random,4.0,0.0,0.12511632672160333
+20,QAOA p=2 transferred,4.0,0.0,0.2903798537013673
+20,"Exact, ADMM with restarts",4.0,0.0,0.30939687710491187
+21,Exact,0.5,1.0,0.0
+21,SA tuned (ext),0.5,1.0,0.0
+21,Tabu (restarts),0.5,1.0,0.0
+21,Random,0.5,1.0,0.0
+21,QAOA p=2 transferred,0.5,1.0,0.0
+21,"Exact, ADMM with restarts",0.5,1.0,0.0
+21,Exact,1.0,1.0,0.0
+21,SA tuned (ext),1.0,1.0,0.0
+21,Tabu (restarts),1.0,1.0,0.0
+21,Random,1.0,1.0,0.0
+21,QAOA p=2 transferred,1.0,1.0,0.0
+21,"Exact, ADMM with restarts",1.0,1.0,0.0
+21,Exact,2.0,1.0,0.0
+21,SA tuned (ext),2.0,1.0,0.0
+21,Tabu (restarts),2.0,1.0,0.0
+21,Random,2.0,1.0,0.0
+21,QAOA p=2 transferred,2.0,1.0,0.0
+21,"Exact, ADMM with restarts",2.0,0.0,0.04815486193040133
+21,Exact,4.0,0.0,0.2088887414798657
+21,SA tuned (ext),4.0,0.0,0.2088887414798657
+21,Tabu (restarts),4.0,0.0,0.2088887414798657
+21,Random,4.0,1.0,0.0
+21,QAOA p=2 transferred,4.0,0.0,0.2088887414798657
+21,"Exact, ADMM with restarts",4.0,0.0,0.04815486193040133
+22,Exact,0.5,1.0,0.0
+22,SA tuned (ext),0.5,1.0,0.0
+22,Tabu (restarts),0.5,1.0,0.0
+22,Random,0.5,1.0,0.0
+22,QAOA p=2 transferred,0.5,1.0,0.0
+22,"Exact, ADMM with restarts",0.5,1.0,0.0
+22,Exact,1.0,1.0,0.0
+22,SA tuned (ext),1.0,1.0,0.0
+22,Tabu (restarts),1.0,1.0,0.0
+22,Random,1.0,1.0,0.0
+22,QAOA p=2 transferred,1.0,1.0,0.0
+22,"Exact, ADMM with restarts",1.0,1.0,0.0
+22,Exact,2.0,1.0,0.0
+22,SA tuned (ext),2.0,1.0,0.0
+22,Tabu (restarts),2.0,1.0,0.0
+22,Random,2.0,1.0,0.0
+22,QAOA p=2 transferred,2.0,1.0,0.0
+22,"Exact, ADMM with restarts",2.0,1.0,0.0
+22,Exact,4.0,1.0,0.0
+22,SA tuned (ext),4.0,1.0,0.0
+22,Tabu (restarts),4.0,1.0,0.0
+22,Random,4.0,0.0,0.056544642132273996
+22,QAOA p=2 transferred,4.0,1.0,0.0
+22,"Exact, ADMM with restarts",4.0,1.0,0.0
+23,Exact,0.5,1.0,0.0
+23,SA tuned (ext),0.5,1.0,0.0
+23,Tabu (restarts),0.5,1.0,0.0
+23,Random,0.5,1.0,0.0
+23,QAOA p=2 transferred,0.5,1.0,0.0
+23,"Exact, ADMM with restarts",0.5,1.0,0.0
+23,Exact,1.0,1.0,0.0
+23,SA tuned (ext),1.0,1.0,0.0
+23,Tabu (restarts),1.0,1.0,0.0
+23,Random,1.0,1.0,0.0
+23,QAOA p=2 transferred,1.0,1.0,0.0
+23,"Exact, ADMM with restarts",1.0,0.0,0.014184626428149315
+23,Exact,2.0,1.0,0.0
+23,SA tuned (ext),2.0,1.0,0.0
+23,Tabu (restarts),2.0,1.0,0.0
+23,Random,2.0,1.0,0.0
+23,QAOA p=2 transferred,2.0,1.0,0.0
+23,"Exact, ADMM with restarts",2.0,1.0,0.0
+23,Exact,4.0,0.0,0.1880954114121433
+23,SA tuned (ext),4.0,0.0,0.1880954114121433
+23,Tabu (restarts),4.0,0.0,0.1880954114121433
+23,Random,4.0,1.0,0.0
+23,QAOA p=2 transferred,4.0,0.0,0.1880954114121433
+23,"Exact, ADMM with restarts",4.0,0.0,0.11930902837818055
+24,Exact,0.5,1.0,0.0
+24,SA tuned (ext),0.5,1.0,0.0
+24,Tabu (restarts),0.5,1.0,0.0
+24,Random,0.5,1.0,0.0
+24,QAOA p=2 transferred,0.5,1.0,0.0
+24,"Exact, ADMM with restarts",0.5,1.0,0.0
+24,Exact,1.0,1.0,0.0
+24,SA tuned (ext),1.0,1.0,0.0
+24,Tabu (restarts),1.0,1.0,0.0
+24,Random,1.0,1.0,0.0
+24,QAOA p=2 transferred,1.0,1.0,0.0
+24,"Exact, ADMM with restarts",1.0,1.0,0.0
+24,Exact,2.0,1.0,0.0
+24,SA tuned (ext),2.0,1.0,0.0
+24,Tabu (restarts),2.0,1.0,0.0
+24,Random,2.0,1.0,0.0
+24,QAOA p=2 transferred,2.0,1.0,0.0
+24,"Exact, ADMM with restarts",2.0,1.0,0.0
+24,Exact,4.0,0.0,0.4349996797282718
+24,SA tuned (ext),4.0,0.0,0.4349996797282718
+24,Tabu (restarts),4.0,0.0,0.3920417816091057
+24,Random,4.0,0.0,0.01481154026420282
+24,QAOA p=2 transferred,4.0,0.0,0.4349996797282718
+24,"Exact, ADMM with restarts",4.0,1.0,0.0
+25,Exact,0.5,1.0,0.0
+25,SA tuned (ext),0.5,1.0,0.0
+25,Tabu (restarts),0.5,1.0,0.0
+25,Random,0.5,1.0,0.0
+25,QAOA p=2 transferred,0.5,1.0,0.0
+25,"Exact, ADMM with restarts",0.5,1.0,0.0
+25,Exact,1.0,0.0,0.05493021653106254
+25,SA tuned (ext),1.0,0.0,0.05493021653106254
+25,Tabu (restarts),1.0,0.0,0.05493021653106254
+25,Random,1.0,1.0,0.0
+25,QAOA p=2 transferred,1.0,0.0,0.05493021653106254
+25,"Exact, ADMM with restarts",1.0,0.0,0.05493021653106254
+25,Exact,2.0,0.0,0.43328111959009663
+25,SA tuned (ext),2.0,0.0,0.43328111959009663
+25,Tabu (restarts),2.0,0.0,0.43328111959009663
+25,Random,2.0,1.0,0.0
+25,QAOA p=2 transferred,2.0,0.0,0.43328111959009663
+25,"Exact, ADMM with restarts",2.0,0.0,0.05493021653106254
+25,Exact,4.0,0.0,0.9044696323457777
+25,SA tuned (ext),4.0,0.0,0.9044696323457777
+25,Tabu (restarts),4.0,0.0,0.9044696323457777
+25,Random,4.0,0.0,0.09433154667084219
+25,QAOA p=2 transferred,4.0,0.0,0.9044696323457777
+25,"Exact, ADMM with restarts",4.0,0.0,0.3169523739194295
+26,Exact,0.5,1.0,0.0
+26,SA tuned (ext),0.5,1.0,0.0
+26,Tabu (restarts),0.5,1.0,0.0
+26,Random,0.5,1.0,0.0
+26,QAOA p=2 transferred,0.5,1.0,0.0
+26,"Exact, ADMM with restarts",0.5,1.0,0.0
+26,Exact,1.0,1.0,0.0
+26,SA tuned (ext),1.0,1.0,0.0
+26,Tabu (restarts),1.0,1.0,0.0
+26,Random,1.0,0.0,0.07448679015601517
+26,QAOA p=2 transferred,1.0,1.0,0.0
+26,"Exact, ADMM with restarts",1.0,1.0,0.0
+26,Exact,2.0,0.0,0.16750655615174523
+26,SA tuned (ext),2.0,0.0,0.16750655615174523
+26,Tabu (restarts),2.0,0.0,0.16750655615174523
+26,Random,2.0,0.0,0.07637902354112175
+26,QAOA p=2 transferred,2.0,0.0,0.16750655615174523
+26,"Exact, ADMM with restarts",2.0,0.0,0.08944345880348056
+26,Exact,4.0,0.0,0.6890000952902458
+26,SA tuned (ext),4.0,0.0,0.6890000952902458
+26,Tabu (restarts),4.0,0.0,0.6890000952902458
+26,Random,4.0,0.0,0.07637902354112175
+26,QAOA p=2 transferred,4.0,0.0,0.6890000952902458
+26,"Exact, ADMM with restarts",4.0,0.0,0.08944345880348056
+27,Exact,0.5,1.0,0.0
+27,SA tuned (ext),0.5,1.0,0.0
+27,Tabu (restarts),0.5,1.0,0.0
+27,Random,0.5,1.0,0.0
+27,QAOA p=2 transferred,0.5,1.0,0.0
+27,"Exact, ADMM with restarts",0.5,1.0,0.0
+27,Exact,1.0,1.0,0.0
+27,SA tuned (ext),1.0,1.0,0.0
+27,Tabu (restarts),1.0,1.0,0.0
+27,Random,1.0,1.0,0.0
+27,QAOA p=2 transferred,1.0,1.0,0.0
+27,"Exact, ADMM with restarts",1.0,1.0,0.0
+27,Exact,2.0,1.0,0.0
+27,SA tuned (ext),2.0,1.0,0.0
+27,Tabu (restarts),2.0,1.0,0.0
+27,Random,2.0,1.0,0.0
+27,QAOA p=2 transferred,2.0,1.0,0.0
+27,"Exact, ADMM with restarts",2.0,1.0,0.0
+27,Exact,4.0,1.0,0.0
+27,SA tuned (ext),4.0,1.0,0.0
+27,Tabu (restarts),4.0,1.0,0.0
+27,Random,4.0,1.0,0.0
+27,QAOA p=2 transferred,4.0,1.0,0.0
+27,"Exact, ADMM with restarts",4.0,0.0,0.12830557236774945
+28,Exact,0.5,1.0,0.0
+28,SA tuned (ext),0.5,1.0,0.0
+28,Tabu (restarts),0.5,1.0,0.0
+28,Random,0.5,1.0,0.0
+28,QAOA p=2 transferred,0.5,1.0,0.0
+28,"Exact, ADMM with restarts",0.5,1.0,0.0
+28,Exact,1.0,1.0,0.0
+28,SA tuned (ext),1.0,1.0,0.0
+28,Tabu (restarts),1.0,1.0,0.0
+28,Random,1.0,1.0,0.0
+28,QAOA p=2 transferred,1.0,1.0,0.0
+28,"Exact, ADMM with restarts",1.0,1.0,0.0
+28,Exact,2.0,0.0,0.11686420467632364
+28,SA tuned (ext),2.0,0.0,0.11686420467632364
+28,Tabu (restarts),2.0,0.0,0.11686420467632364
+28,Random,2.0,1.0,0.0
+28,QAOA p=2 transferred,2.0,0.0,0.11686420467632364
+28,"Exact, ADMM with restarts",2.0,1.0,0.0
+28,Exact,4.0,0.0,0.11686420467632364
+28,SA tuned (ext),4.0,0.0,0.11686420467632364
+28,Tabu (restarts),4.0,0.0,0.11686420467632364
+28,Random,4.0,0.0,0.11686420467632364
+28,QAOA p=2 transferred,4.0,0.0,0.11686420467632364
+28,"Exact, ADMM with restarts",4.0,0.0,0.13733761947504075
+29,Exact,0.5,1.0,0.0
+29,SA tuned (ext),0.5,1.0,0.0
+29,Tabu (restarts),0.5,1.0,0.0
+29,Random,0.5,1.0,0.0
+29,QAOA p=2 transferred,0.5,1.0,0.0
+29,"Exact, ADMM with restarts",0.5,1.0,0.0
+29,Exact,1.0,1.0,0.0
+29,SA tuned (ext),1.0,1.0,0.0
+29,Tabu (restarts),1.0,1.0,0.0
+29,Random,1.0,0.0,0.06482747981962385
+29,QAOA p=2 transferred,1.0,1.0,0.0
+29,"Exact, ADMM with restarts",1.0,1.0,0.0
+29,Exact,2.0,1.0,0.0
+29,SA tuned (ext),2.0,1.0,0.0
+29,Tabu (restarts),2.0,1.0,0.0
+29,Random,2.0,1.0,0.0
+29,QAOA p=2 transferred,2.0,1.0,0.0
+29,"Exact, ADMM with restarts",2.0,0.0,0.0905429838288982
+29,Exact,4.0,0.0,0.4362468411037034
+29,SA tuned (ext),4.0,0.0,0.4362468411037034
+29,Tabu (restarts),4.0,0.0,0.4362468411037034
+29,Random,4.0,0.0,0.18915387924030685
+29,QAOA p=2 transferred,4.0,0.0,0.4362468411037034
+29,"Exact, ADMM with restarts",4.0,0.0,0.19620924552948182
+30,Exact,0.5,0.0,0.054519790556482366
+30,SA tuned (ext),0.5,0.0,0.054519790556482366
+30,Tabu (restarts),0.5,0.0,0.054519790556482366
+30,Random,0.5,0.0,0.025878198961698934
+30,QAOA p=2 transferred,0.5,0.0,0.054519790556482366
+30,"Exact, ADMM with restarts",0.5,1.0,0.0
+30,Exact,1.0,0.0,0.054519790556482366
+30,SA tuned (ext),1.0,0.0,0.054519790556482366
+30,Tabu (restarts),1.0,0.0,0.054519790556482366
+30,Random,1.0,0.0,0.02620824278334101
+30,QAOA p=2 transferred,1.0,0.0,0.054519790556482366
+30,"Exact, ADMM with restarts",1.0,1.0,0.0
+30,Exact,2.0,0.0,0.13787122357677029
+30,SA tuned (ext),2.0,0.0,0.13787122357677029
+30,Tabu (restarts),2.0,0.0,0.13787122357677029
+30,Random,2.0,0.0,0.02620824278334101
+30,QAOA p=2 transferred,2.0,0.0,0.13787122357677029
+30,"Exact, ADMM with restarts",2.0,0.0,0.059538116621627904
+30,Exact,4.0,0.0,0.5005482854447856
+30,SA tuned (ext),4.0,0.0,0.5005482854447856
+30,Tabu (restarts),4.0,0.0,0.5005482854447856
+30,Random,4.0,0.0,0.02620824278334101
+30,QAOA p=2 transferred,4.0,0.0,0.5005482854447856
+30,"Exact, ADMM with restarts",4.0,0.0,0.13787122357677029
+31,Exact,0.5,0.0,0.0077577688627216545
+31,SA tuned (ext),0.5,0.0,0.0077577688627216545
+31,Tabu (restarts),0.5,0.0,0.0077577688627216545
+31,Random,0.5,1.0,0.0
+31,QAOA p=2 transferred,0.5,0.0,0.0077577688627216545
+31,"Exact, ADMM with restarts",0.5,1.0,0.0
+31,Exact,1.0,0.0,0.0077577688627216545
+31,SA tuned (ext),1.0,0.0,0.0077577688627216545
+31,Tabu (restarts),1.0,0.0,0.0077577688627216545
+31,Random,1.0,1.0,0.0
+31,QAOA p=2 transferred,1.0,0.0,0.0077577688627216545
+31,"Exact, ADMM with restarts",1.0,1.0,0.0
+31,Exact,2.0,0.0,0.0077577688627216545
+31,SA tuned (ext),2.0,0.0,0.0077577688627216545
+31,Tabu (restarts),2.0,0.0,0.0077577688627216545
+31,Random,2.0,1.0,0.0
+31,QAOA p=2 transferred,2.0,0.0,0.0077577688627216545
+31,"Exact, ADMM with restarts",2.0,1.0,0.0
+31,Exact,4.0,0.0,0.5589193847300677
+31,SA tuned (ext),4.0,0.0,0.5589193847300677
+31,Tabu (restarts),4.0,0.0,0.5589193847300677
+31,Random,4.0,1.0,0.0
+31,QAOA p=2 transferred,4.0,0.0,0.5589193847300677
+31,"Exact, ADMM with restarts",4.0,1.0,0.0
+32,Exact,0.5,1.0,0.0
+32,SA tuned (ext),0.5,1.0,0.0
+32,Tabu (restarts),0.5,1.0,0.0
+32,Random,0.5,1.0,0.0
+32,QAOA p=2 transferred,0.5,1.0,0.0
+32,"Exact, ADMM with restarts",0.5,1.0,0.0
+32,Exact,1.0,1.0,0.0
+32,SA tuned (ext),1.0,1.0,0.0
+32,Tabu (restarts),1.0,1.0,0.0
+32,Random,1.0,1.0,0.0
+32,QAOA p=2 transferred,1.0,1.0,0.0
+32,"Exact, ADMM with restarts",1.0,1.0,0.0
+32,Exact,2.0,1.0,0.0
+32,SA tuned (ext),2.0,1.0,0.0
+32,Tabu (restarts),2.0,1.0,0.0
+32,Random,2.0,1.0,0.0
+32,QAOA p=2 transferred,2.0,1.0,0.0
+32,"Exact, ADMM with restarts",2.0,1.0,0.0
+32,Exact,4.0,0.0,0.7062268324232762
+32,SA tuned (ext),4.0,0.0,0.7062268324232762
+32,Tabu (restarts),4.0,0.0,0.7062268324232762
+32,Random,4.0,1.0,0.0
+32,QAOA p=2 transferred,4.0,0.0,0.7062268324232762
+32,"Exact, ADMM with restarts",4.0,0.0,0.2919779396686134
+33,Exact,0.5,1.0,0.0
+33,SA tuned (ext),0.5,1.0,0.0
+33,Tabu (restarts),0.5,1.0,0.0
+33,Random,0.5,1.0,0.0
+33,QAOA p=2 transferred,0.5,1.0,0.0
+33,"Exact, ADMM with restarts",0.5,1.0,0.0
+33,Exact,1.0,0.0,0.010379541583470204
+33,SA tuned (ext),1.0,0.0,0.010379541583470204
+33,Tabu (restarts),1.0,0.0,0.010379541583470204
+33,Random,1.0,1.0,0.0
+33,QAOA p=2 transferred,1.0,0.0,0.010379541583470204
+33,"Exact, ADMM with restarts",1.0,1.0,0.0
+33,Exact,2.0,0.0,0.1168576302644384
+33,SA tuned (ext),2.0,0.0,0.1168576302644384
+33,Tabu (restarts),2.0,0.0,0.1168576302644384
+33,Random,2.0,0.0,0.1168576302644384
+33,QAOA p=2 transferred,2.0,0.0,0.1168576302644384
+33,"Exact, ADMM with restarts",2.0,1.0,0.0
+33,Exact,4.0,0.0,0.8387246533238617
+33,SA tuned (ext),4.0,0.0,0.8387246533238617
+33,Tabu (restarts),4.0,0.0,0.8387246533238617
+33,Random,4.0,0.0,0.1168576302644384
+33,QAOA p=2 transferred,4.0,0.0,0.8387246533238617
+33,"Exact, ADMM with restarts",4.0,0.0,0.4039802700274425
+34,Exact,0.5,1.0,0.0
+34,SA tuned (ext),0.5,1.0,0.0
+34,Tabu (restarts),0.5,1.0,0.0
+34,Random,0.5,0.0,0.029846592301845963
+34,QAOA p=2 transferred,0.5,1.0,0.0
+34,"Exact, ADMM with restarts",0.5,1.0,0.0
+34,Exact,1.0,1.0,0.0
+34,SA tuned (ext),1.0,1.0,0.0
+34,Tabu (restarts),1.0,1.0,0.0
+34,Random,1.0,0.0,0.029846592301845963
+34,QAOA p=2 transferred,1.0,1.0,0.0
+34,"Exact, ADMM with restarts",1.0,1.0,0.0
+34,Exact,2.0,1.0,0.0
+34,SA tuned (ext),2.0,1.0,0.0
+34,Tabu (restarts),2.0,1.0,0.0
+34,Random,2.0,0.0,0.029846592301845963
+34,QAOA p=2 transferred,2.0,1.0,0.0
+34,"Exact, ADMM with restarts",2.0,1.0,0.0
+34,Exact,4.0,1.0,0.0
+34,SA tuned (ext),4.0,1.0,0.0
+34,Tabu (restarts),4.0,1.0,0.0
+34,Random,4.0,0.0,0.17274030868310694
+34,QAOA p=2 transferred,4.0,1.0,0.0
+34,"Exact, ADMM with restarts",4.0,0.0,0.19055631159225098
+35,Exact,0.5,1.0,0.0
+35,SA tuned (ext),0.5,1.0,0.0
+35,Tabu (restarts),0.5,1.0,0.0
+35,Random,0.5,1.0,0.0
+35,QAOA p=2 transferred,0.5,1.0,0.0
+35,"Exact, ADMM with restarts",0.5,1.0,0.0
+35,Exact,1.0,1.0,0.0
+35,SA tuned (ext),1.0,1.0,0.0
+35,Tabu (restarts),1.0,1.0,0.0
+35,Random,1.0,1.0,0.0
+35,QAOA p=2 transferred,1.0,1.0,0.0
+35,"Exact, ADMM with restarts",1.0,1.0,0.0
+35,Exact,2.0,0.0,0.06443444741684745
+35,SA tuned (ext),2.0,0.0,0.06443444741684745
+35,Tabu (restarts),2.0,0.0,0.06443444741684745
+35,Random,2.0,0.0,0.035582262445317064
+35,QAOA p=2 transferred,2.0,0.0,0.06443444741684745
+35,"Exact, ADMM with restarts",2.0,1.0,0.0
+35,Exact,4.0,0.0,0.2193876874179102
+35,SA tuned (ext),4.0,0.0,0.2193876874179102
+35,Tabu (restarts),4.0,0.0,0.2193876874179102
+35,Random,4.0,0.0,0.035582262445317064
+35,QAOA p=2 transferred,4.0,0.0,0.2193876874179102
+35,"Exact, ADMM with restarts",4.0,0.0,0.035582262445317064
+36,Exact,0.5,1.0,0.0
+36,SA tuned (ext),0.5,1.0,0.0
+36,Tabu (restarts),0.5,1.0,0.0
+36,Random,0.5,1.0,0.0
+36,QAOA p=2 transferred,0.5,1.0,0.0
+36,"Exact, ADMM with restarts",0.5,1.0,0.0
+36,Exact,1.0,1.0,0.0
+36,SA tuned (ext),1.0,1.0,0.0
+36,Tabu (restarts),1.0,1.0,0.0
+36,Random,1.0,1.0,0.0
+36,QAOA p=2 transferred,1.0,1.0,0.0
+36,"Exact, ADMM with restarts",1.0,1.0,0.0
+36,Exact,2.0,1.0,0.0
+36,SA tuned (ext),2.0,1.0,0.0
+36,Tabu (restarts),2.0,1.0,0.0
+36,Random,2.0,1.0,0.0
+36,QAOA p=2 transferred,2.0,1.0,0.0
+36,"Exact, ADMM with restarts",2.0,1.0,0.0
+36,Exact,4.0,1.0,0.0
+36,SA tuned (ext),4.0,1.0,0.0
+36,Tabu (restarts),4.0,1.0,0.0
+36,Random,4.0,1.0,0.0
+36,QAOA p=2 transferred,4.0,1.0,0.0
+36,"Exact, ADMM with restarts",4.0,0.0,0.32102986533571176
+37,Exact,0.5,1.0,0.0
+37,SA tuned (ext),0.5,1.0,0.0
+37,Tabu (restarts),0.5,1.0,0.0
+37,Random,0.5,1.0,0.0
+37,QAOA p=2 transferred,0.5,1.0,0.0
+37,"Exact, ADMM with restarts",0.5,1.0,0.0
+37,Exact,1.0,1.0,0.0
+37,SA tuned (ext),1.0,1.0,0.0
+37,Tabu (restarts),1.0,1.0,0.0
+37,Random,1.0,1.0,0.0
+37,QAOA p=2 transferred,1.0,1.0,0.0
+37,"Exact, ADMM with restarts",1.0,1.0,0.0
+37,Exact,2.0,0.0,0.09302876265239404
+37,SA tuned (ext),2.0,0.0,0.09302876265239404
+37,Tabu (restarts),2.0,0.0,0.09302876265239404
+37,Random,2.0,0.0,0.09302876265239404
+37,QAOA p=2 transferred,2.0,0.0,0.09302876265239404
+37,"Exact, ADMM with restarts",2.0,1.0,0.0
+37,Exact,4.0,0.0,0.2935077804446879
+37,SA tuned (ext),4.0,0.0,0.2935077804446879
+37,Tabu (restarts),4.0,0.0,0.2935077804446879
+37,Random,4.0,0.0,0.09302876265239404
+37,QAOA p=2 transferred,4.0,0.0,0.2935077804446879
+37,"Exact, ADMM with restarts",4.0,0.0,0.0818335098204341
+38,Exact,0.5,0.0,0.08426030395351596
+38,SA tuned (ext),0.5,0.0,0.08426030395351596
+38,Tabu (restarts),0.5,0.0,0.08426030395351596
+38,Random,0.5,0.0,0.08426030395351596
+38,QAOA p=2 transferred,0.5,0.0,0.08426030395351596
+38,"Exact, ADMM with restarts",0.5,0.0,0.08426030395351596
+38,Exact,1.0,0.0,0.12762721987357542
+38,SA tuned (ext),1.0,0.0,0.12762721987357542
+38,Tabu (restarts),1.0,0.0,0.12762721987357542
+38,Random,1.0,0.0,0.08426030395351596
+38,QAOA p=2 transferred,1.0,0.0,0.12762721987357542
+38,"Exact, ADMM with restarts",1.0,0.0,0.08426030395351596
+38,Exact,2.0,0.0,0.217853807780097
+38,SA tuned (ext),2.0,0.0,0.217853807780097
+38,Tabu (restarts),2.0,0.0,0.217853807780097
+38,Random,2.0,0.0,0.08426030395351596
+38,QAOA p=2 transferred,2.0,0.0,0.217853807780097
+38,"Exact, ADMM with restarts",2.0,0.0,0.217853807780097
+38,Exact,4.0,0.0,0.217853807780097
+38,SA tuned (ext),4.0,0.0,0.217853807780097
+38,Tabu (restarts),4.0,0.0,0.217853807780097
+38,Random,4.0,0.0,0.12762721987357542
+38,QAOA p=2 transferred,4.0,0.0,0.217853807780097
+38,"Exact, ADMM with restarts",4.0,0.0,0.2824409399728441
+39,Exact,0.5,1.0,0.0
+39,SA tuned (ext),0.5,1.0,0.0
+39,Tabu (restarts),0.5,1.0,0.0
+39,Random,0.5,1.0,0.0
+39,QAOA p=2 transferred,0.5,1.0,0.0
+39,"Exact, ADMM with restarts",0.5,1.0,0.0
+39,Exact,1.0,0.0,0.046869340251818485
+39,SA tuned (ext),1.0,0.0,0.046869340251818485
+39,Tabu (restarts),1.0,0.0,0.046869340251818485
+39,Random,1.0,1.0,0.0
+39,QAOA p=2 transferred,1.0,0.0,0.046869340251818485
+39,"Exact, ADMM with restarts",1.0,1.0,0.0
+39,Exact,2.0,0.0,0.3316968707762951
+39,SA tuned (ext),2.0,0.0,0.3316968707762951
+39,Tabu (restarts),2.0,0.0,0.3316968707762951
+39,Random,2.0,1.0,0.0
+39,QAOA p=2 transferred,2.0,0.0,0.3316968707762951
+39,"Exact, ADMM with restarts",2.0,1.0,0.0
+39,Exact,4.0,0.0,0.3316968707762951
+39,SA tuned (ext),4.0,0.0,0.3316968707762951
+39,Tabu (restarts),4.0,0.0,0.3316968707762951
+39,Random,4.0,0.0,0.046869340251818485
+39,QAOA p=2 transferred,4.0,0.0,0.3316968707762951
+39,"Exact, ADMM with restarts",4.0,0.0,0.10810353770561155
+40,Exact,0.5,1.0,0.0
+40,SA tuned (ext),0.5,1.0,0.0
+40,Tabu (restarts),0.5,1.0,0.0
+40,Random,0.5,1.0,0.0
+40,QAOA p=2 transferred,0.5,1.0,0.0
+40,"Exact, ADMM with restarts",0.5,0.0,0.004418195654043158
+40,Exact,1.0,1.0,0.0
+40,SA tuned (ext),1.0,1.0,0.0
+40,Tabu (restarts),1.0,1.0,0.0
+40,Random,1.0,1.0,0.0
+40,QAOA p=2 transferred,1.0,1.0,0.0
+40,"Exact, ADMM with restarts",1.0,1.0,0.0
+40,Exact,2.0,1.0,0.0
+40,SA tuned (ext),2.0,1.0,0.0
+40,Tabu (restarts),2.0,1.0,0.0
+40,Random,2.0,1.0,0.0
+40,QAOA p=2 transferred,2.0,1.0,0.0
+40,"Exact, ADMM with restarts",2.0,1.0,0.0
+40,Exact,4.0,0.0,0.3959464610895483
+40,SA tuned (ext),4.0,0.0,0.3959464610895483
+40,Tabu (restarts),4.0,0.0,0.3959464610895483
+40,Random,4.0,0.0,0.004418195654043158
+40,QAOA p=2 transferred,4.0,0.0,0.3959464610895483
+40,"Exact, ADMM with restarts",4.0,1.0,0.0
+41,Exact,0.5,0.0,0.03402057691165978
+41,SA tuned (ext),0.5,0.0,0.03402057691165978
+41,Tabu (restarts),0.5,0.0,0.03402057691165978
+41,Random,0.5,0.0,0.03402057691165978
+41,QAOA p=2 transferred,0.5,0.0,0.03402057691165978
+41,"Exact, ADMM with restarts",0.5,0.0,0.1690672960672927
+41,Exact,1.0,0.0,0.2056608305579045
+41,SA tuned (ext),1.0,0.0,0.2056608305579045
+41,Tabu (restarts),1.0,0.0,0.2056608305579045
+41,Random,1.0,0.0,0.03402057691165978
+41,QAOA p=2 transferred,1.0,0.0,0.2056608305579045
+41,"Exact, ADMM with restarts",1.0,0.0,0.1690672960672927
+41,Exact,2.0,0.0,0.3813258285703713
+41,SA tuned (ext),2.0,0.0,0.3813258285703713
+41,Tabu (restarts),2.0,0.0,0.3813258285703713
+41,Random,2.0,0.0,0.03402057691165978
+41,QAOA p=2 transferred,2.0,0.0,0.3813258285703713
+41,"Exact, ADMM with restarts",2.0,0.0,0.26476170198648796
+41,Exact,4.0,0.0,0.9213960786631984
+41,SA tuned (ext),4.0,0.0,0.9213960786631984
+41,Tabu (restarts),4.0,0.0,0.9213960786631984
+41,Random,4.0,0.0,0.07364879865134401
+41,QAOA p=2 transferred,4.0,0.0,0.9213960786631984
+41,"Exact, ADMM with restarts",4.0,0.0,0.6465646322849705
+42,Exact,0.5,1.0,0.0
+42,SA tuned (ext),0.5,1.0,0.0
+42,Tabu (restarts),0.5,1.0,0.0
+42,Random,0.5,1.0,0.0
+42,QAOA p=2 transferred,0.5,1.0,0.0
+42,"Exact, ADMM with restarts",0.5,1.0,0.0
+42,Exact,1.0,1.0,0.0
+42,SA tuned (ext),1.0,1.0,0.0
+42,Tabu (restarts),1.0,1.0,0.0
+42,Random,1.0,1.0,0.0
+42,QAOA p=2 transferred,1.0,1.0,0.0
+42,"Exact, ADMM with restarts",1.0,1.0,0.0
+42,Exact,2.0,0.0,0.18410823952703456
+42,SA tuned (ext),2.0,0.0,0.18410823952703456
+42,Tabu (restarts),2.0,0.0,0.18410823952703456
+42,Random,2.0,1.0,0.0
+42,QAOA p=2 transferred,2.0,0.0,0.18410823952703456
+42,"Exact, ADMM with restarts",2.0,0.0,0.13432369123589413
+42,Exact,4.0,0.0,0.18410823952703456
+42,SA tuned (ext),4.0,0.0,0.18410823952703456
+42,Tabu (restarts),4.0,0.0,0.18410823952703456
+42,Random,4.0,1.0,0.0
+42,QAOA p=2 transferred,4.0,0.0,0.18410823952703456
+42,"Exact, ADMM with restarts",4.0,0.0,0.13432369123589413
+43,Exact,0.5,0.0,0.018533370129522317
+43,SA tuned (ext),0.5,0.0,0.018533370129522317
+43,Tabu (restarts),0.5,0.0,0.018533370129522317
+43,Random,0.5,1.0,0.0
+43,QAOA p=2 transferred,0.5,0.0,0.018533370129522317
+43,"Exact, ADMM with restarts",0.5,1.0,0.0
+43,Exact,1.0,0.0,0.018533370129522317
+43,SA tuned (ext),1.0,0.0,0.018533370129522317
+43,Tabu (restarts),1.0,0.0,0.018533370129522317
+43,Random,1.0,0.0,0.018533370129522317
+43,QAOA p=2 transferred,1.0,0.0,0.018533370129522317
+43,"Exact, ADMM with restarts",1.0,1.0,0.0
+43,Exact,2.0,0.0,0.018533370129522317
+43,SA tuned (ext),2.0,0.0,0.018533370129522317
+43,Tabu (restarts),2.0,0.0,0.018533370129522317
+43,Random,2.0,0.0,0.018533370129522317
+43,QAOA p=2 transferred,2.0,0.0,0.018533370129522317
+43,"Exact, ADMM with restarts",2.0,0.0,0.018533370129522317
+43,Exact,4.0,0.0,0.018533370129522317
+43,SA tuned (ext),4.0,0.0,0.018533370129522317
+43,Tabu (restarts),4.0,0.0,0.018533370129522317
+43,Random,4.0,0.0,0.028046684565712868
+43,QAOA p=2 transferred,4.0,0.0,0.018533370129522317
+43,"Exact, ADMM with restarts",4.0,0.0,0.018533370129522317
+44,Exact,0.5,1.0,0.0
+44,SA tuned (ext),0.5,1.0,0.0
+44,Tabu (restarts),0.5,1.0,0.0
+44,Random,0.5,0.0,0.09439569537793208
+44,QAOA p=2 transferred,0.5,1.0,0.0
+44,"Exact, ADMM with restarts",0.5,1.0,0.0
+44,Exact,1.0,1.0,0.0
+44,SA tuned (ext),1.0,1.0,0.0
+44,Tabu (restarts),1.0,1.0,0.0
+44,Random,1.0,0.0,0.09439569537793208
+44,QAOA p=2 transferred,1.0,1.0,0.0
+44,"Exact, ADMM with restarts",1.0,1.0,0.0
+44,Exact,2.0,0.0,0.28159719268102107
+44,SA tuned (ext),2.0,0.0,0.11308007383163723
+44,Tabu (restarts),2.0,0.0,0.28159719268102107
+44,Random,2.0,0.0,0.09439569537793208
+44,QAOA p=2 transferred,2.0,0.0,0.28159719268102107
+44,"Exact, ADMM with restarts",2.0,1.0,0.0
+44,Exact,4.0,0.0,0.11308007383163723
+44,SA tuned (ext),4.0,0.0,0.11308007383163723
+44,Tabu (restarts),4.0,0.0,0.11308007383163723
+44,Random,4.0,0.0,0.11308007383163723
+44,QAOA p=2 transferred,4.0,0.0,0.11308007383163723
+44,"Exact, ADMM with restarts",4.0,0.0,0.21955626184690508
+45,Exact,0.5,0.0,0.00968454011467388
+45,SA tuned (ext),0.5,0.0,0.00968454011467388
+45,Tabu (restarts),0.5,0.0,0.00968454011467388
+45,Random,0.5,1.0,0.0
+45,QAOA p=2 transferred,0.5,0.0,0.00968454011467388
+45,"Exact, ADMM with restarts",0.5,1.0,0.0
+45,Exact,1.0,0.0,0.00968454011467388
+45,SA tuned (ext),1.0,0.0,0.00968454011467388
+45,Tabu (restarts),1.0,0.0,0.00968454011467388
+45,Random,1.0,1.0,0.0
+45,QAOA p=2 transferred,1.0,0.0,0.00968454011467388
+45,"Exact, ADMM with restarts",1.0,1.0,0.0
+45,Exact,2.0,0.0,0.1389110893166529
+45,SA tuned (ext),2.0,0.0,0.1389110893166529
+45,Tabu (restarts),2.0,0.0,0.1389110893166529
+45,Random,2.0,0.0,0.00968454011467388
+45,QAOA p=2 transferred,2.0,0.0,0.1389110893166529
+45,"Exact, ADMM with restarts",2.0,0.0,0.11279371000133337
+45,Exact,4.0,0.0,0.3519803742637566
+45,SA tuned (ext),4.0,0.0,0.3519803742637566
+45,Tabu (restarts),4.0,0.0,0.3519803742637566
+45,Random,4.0,1.0,0.0
+45,QAOA p=2 transferred,4.0,0.0,0.3519803742637566
+45,"Exact, ADMM with restarts",4.0,0.0,0.11279371000133337
+46,Exact,0.5,0.0,0.03436310097355673
+46,SA tuned (ext),0.5,0.0,0.03436310097355673
+46,Tabu (restarts),0.5,0.0,0.03436310097355673
+46,Random,0.5,1.0,0.0
+46,QAOA p=2 transferred,0.5,0.0,0.03436310097355673
+46,"Exact, ADMM with restarts",0.5,1.0,0.0
+46,Exact,1.0,0.0,0.03436310097355673
+46,SA tuned (ext),1.0,0.0,0.03436310097355673
+46,Tabu (restarts),1.0,0.0,0.03436310097355673
+46,Random,1.0,1.0,0.0
+46,QAOA p=2 transferred,1.0,0.0,0.03436310097355673
+46,"Exact, ADMM with restarts",1.0,1.0,0.0
+46,Exact,2.0,0.0,0.11134848869092219
+46,SA tuned (ext),2.0,0.0,0.11134848869092219
+46,Tabu (restarts),2.0,0.0,0.11134848869092219
+46,Random,2.0,1.0,0.0
+46,QAOA p=2 transferred,2.0,0.0,0.11134848869092219
+46,"Exact, ADMM with restarts",2.0,1.0,0.0
+46,Exact,4.0,0.0,0.6551243703176424
+46,SA tuned (ext),4.0,0.0,0.6551243703176424
+46,Tabu (restarts),4.0,0.0,0.6551243703176424
+46,Random,4.0,1.0,0.0
+46,QAOA p=2 transferred,4.0,0.0,0.6551243703176424
+46,"Exact, ADMM with restarts",4.0,0.0,0.03436310097355673
+47,Exact,0.5,1.0,0.0
+47,SA tuned (ext),0.5,1.0,0.0
+47,Tabu (restarts),0.5,1.0,0.0
+47,Random,0.5,0.0,0.042792216361447456
+47,QAOA p=2 transferred,0.5,1.0,0.0
+47,"Exact, ADMM with restarts",0.5,1.0,0.0
+47,Exact,1.0,1.0,0.0
+47,SA tuned (ext),1.0,1.0,0.0
+47,Tabu (restarts),1.0,1.0,0.0
+47,Random,1.0,0.0,0.042792216361447456
+47,QAOA p=2 transferred,1.0,1.0,0.0
+47,"Exact, ADMM with restarts",1.0,1.0,0.0
+47,Exact,2.0,0.0,0.17613097133823233
+47,SA tuned (ext),2.0,0.0,0.17613097133823233
+47,Tabu (restarts),2.0,0.0,0.17613097133823233
+47,Random,2.0,0.0,0.1038240800431872
+47,QAOA p=2 transferred,2.0,0.0,0.17613097133823233
+47,"Exact, ADMM with restarts",2.0,0.0,0.1507762379548939
+47,Exact,4.0,0.0,0.17613097133823233
+47,SA tuned (ext),4.0,0.0,0.17613097133823233
+47,Tabu (restarts),4.0,0.0,0.17613097133823233
+47,Random,4.0,0.0,0.1038240800431872
+47,QAOA p=2 transferred,4.0,0.0,0.17613097133823233
+47,"Exact, ADMM with restarts",4.0,0.0,0.1507762379548939
+48,Exact,0.5,1.0,0.0
+48,SA tuned (ext),0.5,1.0,0.0
+48,Tabu (restarts),0.5,1.0,0.0
+48,Random,0.5,1.0,0.0
+48,QAOA p=2 transferred,0.5,1.0,0.0
+48,"Exact, ADMM with restarts",0.5,1.0,0.0
+48,Exact,1.0,1.0,0.0
+48,SA tuned (ext),1.0,1.0,0.0
+48,Tabu (restarts),1.0,1.0,0.0
+48,Random,1.0,1.0,0.0
+48,QAOA p=2 transferred,1.0,1.0,0.0
+48,"Exact, ADMM with restarts",1.0,0.0,0.05941346702874491
+48,Exact,2.0,0.0,0.05941346702874491
+48,SA tuned (ext),2.0,1.0,0.0
+48,Tabu (restarts),2.0,0.0,0.05941346702874491
+48,Random,2.0,0.0,0.05941346702874491
+48,QAOA p=2 transferred,2.0,0.0,0.05941346702874491
+48,"Exact, ADMM with restarts",2.0,0.0,0.05941346702874491
+48,Exact,4.0,0.0,0.18968170633525108
+48,SA tuned (ext),4.0,0.0,0.18968170633525108
+48,Tabu (restarts),4.0,0.0,0.18968170633525108
+48,Random,4.0,0.0,0.15122151806145193
+48,QAOA p=2 transferred,4.0,0.0,0.18968170633525108
+48,"Exact, ADMM with restarts",4.0,0.0,0.27068231673223575
+49,Exact,0.5,1.0,0.0
+49,SA tuned (ext),0.5,1.0,0.0
+49,Tabu (restarts),0.5,1.0,0.0
+49,Random,0.5,1.0,0.0
+49,QAOA p=2 transferred,0.5,1.0,0.0
+49,"Exact, ADMM with restarts",0.5,1.0,0.0
+49,Exact,1.0,1.0,0.0
+49,SA tuned (ext),1.0,1.0,0.0
+49,Tabu (restarts),1.0,1.0,0.0
+49,Random,1.0,1.0,0.0
+49,QAOA p=2 transferred,1.0,1.0,0.0
+49,"Exact, ADMM with restarts",1.0,1.0,0.0
+49,Exact,2.0,0.0,0.03309226844426553
+49,SA tuned (ext),2.0,0.0,0.03309226844426553
+49,Tabu (restarts),2.0,0.0,0.03309226844426553
+49,Random,2.0,1.0,0.0
+49,QAOA p=2 transferred,2.0,0.0,0.03309226844426553
+49,"Exact, ADMM with restarts",2.0,1.0,0.0
+49,Exact,4.0,0.0,0.5784505623583927
+49,SA tuned (ext),4.0,0.0,0.5784505623583927
+49,Tabu (restarts),4.0,0.0,0.5784505623583927
+49,Random,4.0,0.0,0.03309226844426553
+49,QAOA p=2 transferred,4.0,0.0,0.5784505623583927
+49,"Exact, ADMM with restarts",4.0,0.0,0.33072591965865683
+50,Exact,0.5,1.0,0.0
+50,SA tuned (ext),0.5,1.0,0.0
+50,Tabu (restarts),0.5,1.0,0.0
+50,Random,0.5,0.0,0.03152949571007205
+50,QAOA p=2 transferred,0.5,1.0,0.0
+50,"Exact, ADMM with restarts",0.5,1.0,0.0
+50,Exact,1.0,1.0,0.0
+50,SA tuned (ext),1.0,1.0,0.0
+50,Tabu (restarts),1.0,1.0,0.0
+50,Random,1.0,0.0,0.03984602733787495
+50,QAOA p=2 transferred,1.0,1.0,0.0
+50,"Exact, ADMM with restarts",1.0,1.0,0.0
+50,Exact,2.0,1.0,0.0
+50,SA tuned (ext),2.0,1.0,0.0
+50,Tabu (restarts),2.0,1.0,0.0
+50,Random,2.0,0.0,0.03984602733787495
+50,QAOA p=2 transferred,2.0,1.0,0.0
+50,"Exact, ADMM with restarts",2.0,1.0,0.0
+50,Exact,4.0,1.0,0.0
+50,SA tuned (ext),4.0,1.0,0.0
+50,Tabu (restarts),4.0,1.0,0.0
+50,Random,4.0,0.0,0.04513106008087984
+50,QAOA p=2 transferred,4.0,1.0,0.0
+50,"Exact, ADMM with restarts",4.0,0.0,0.04513106008087984
+51,Exact,0.5,1.0,0.0
+51,SA tuned (ext),0.5,1.0,0.0
+51,Tabu (restarts),0.5,1.0,0.0
+51,Random,0.5,1.0,0.0
+51,QAOA p=2 transferred,0.5,1.0,0.0
+51,"Exact, ADMM with restarts",0.5,1.0,0.0
+51,Exact,1.0,1.0,0.0
+51,SA tuned (ext),1.0,1.0,0.0
+51,Tabu (restarts),1.0,1.0,0.0
+51,Random,1.0,1.0,0.0
+51,QAOA p=2 transferred,1.0,1.0,0.0
+51,"Exact, ADMM with restarts",1.0,1.0,0.0
+51,Exact,2.0,1.0,0.0
+51,SA tuned (ext),2.0,1.0,0.0
+51,Tabu (restarts),2.0,1.0,0.0
+51,Random,2.0,1.0,0.0
+51,QAOA p=2 transferred,2.0,1.0,0.0
+51,"Exact, ADMM with restarts",2.0,1.0,0.0
+51,Exact,4.0,0.0,0.45660900993843734
+51,SA tuned (ext),4.0,0.0,0.45660900993843734
+51,Tabu (restarts),4.0,0.0,0.45660900993843734
+51,Random,4.0,1.0,0.0
+51,QAOA p=2 transferred,4.0,0.0,0.45660900993843734
+51,"Exact, ADMM with restarts",4.0,0.0,0.20169924956315047
+52,Exact,0.5,1.0,0.0
+52,SA tuned (ext),0.5,1.0,0.0
+52,Tabu (restarts),0.5,1.0,0.0
+52,Random,0.5,1.0,0.0
+52,QAOA p=2 transferred,0.5,1.0,0.0
+52,"Exact, ADMM with restarts",0.5,1.0,0.0
+52,Exact,1.0,1.0,0.0
+52,SA tuned (ext),1.0,1.0,0.0
+52,Tabu (restarts),1.0,1.0,0.0
+52,Random,1.0,1.0,0.0
+52,QAOA p=2 transferred,1.0,1.0,0.0
+52,"Exact, ADMM with restarts",1.0,1.0,0.0
+52,Exact,2.0,0.0,0.1794431092521333
+52,SA tuned (ext),2.0,0.0,0.1794431092521333
+52,Tabu (restarts),2.0,0.0,0.1794431092521333
+52,Random,2.0,1.0,0.0
+52,QAOA p=2 transferred,2.0,0.0,0.1794431092521333
+52,"Exact, ADMM with restarts",2.0,0.0,0.1794431092521333
+52,Exact,4.0,0.0,0.6094467061209423
+52,SA tuned (ext),4.0,0.0,0.6094467061209423
+52,Tabu (restarts),4.0,0.0,0.6094467061209423
+52,Random,4.0,1.0,0.0
+52,QAOA p=2 transferred,4.0,0.0,0.6094467061209423
+52,"Exact, ADMM with restarts",4.0,0.0,0.4491931413613668
+53,Exact,0.5,0.0,0.003272673049371495
+53,SA tuned (ext),0.5,0.0,0.003272673049371495
+53,Tabu (restarts),0.5,0.0,0.003272673049371495
+53,Random,0.5,1.0,0.0
+53,QAOA p=2 transferred,0.5,0.0,0.003272673049371495
+53,"Exact, ADMM with restarts",0.5,0.0,0.003272673049371495
+53,Exact,1.0,0.0,0.003272673049371495
+53,SA tuned (ext),1.0,0.0,0.003272673049371495
+53,Tabu (restarts),1.0,0.0,0.003272673049371495
+53,Random,1.0,1.0,0.0
+53,QAOA p=2 transferred,1.0,0.0,0.003272673049371495
+53,"Exact, ADMM with restarts",1.0,0.0,0.003272673049371495
+53,Exact,2.0,0.0,0.14418203392667092
+53,SA tuned (ext),2.0,0.0,0.14418203392667092
+53,Tabu (restarts),2.0,0.0,0.14418203392667092
+53,Random,2.0,1.0,0.0
+53,QAOA p=2 transferred,2.0,0.0,0.14418203392667092
+53,"Exact, ADMM with restarts",2.0,0.0,0.003272673049371495
+53,Exact,4.0,0.0,0.3488881841429118
+53,SA tuned (ext),4.0,0.0,0.3488881841429118
+53,Tabu (restarts),4.0,0.0,0.3488881841429118
+53,Random,4.0,0.0,0.14418203392667092
+53,QAOA p=2 transferred,4.0,0.0,0.3488881841429118
+53,"Exact, ADMM with restarts",4.0,0.0,0.003272673049371495
+54,Exact,0.5,0.0,0.012522741824230629
+54,SA tuned (ext),0.5,0.0,0.012522741824230629
+54,Tabu (restarts),0.5,0.0,0.012522741824230629
+54,Random,0.5,1.0,0.0
+54,QAOA p=2 transferred,0.5,0.0,0.012522741824230629
+54,"Exact, ADMM with restarts",0.5,0.0,0.012522741824230629
+54,Exact,1.0,0.0,0.012522741824230629
+54,SA tuned (ext),1.0,0.0,0.012522741824230629
+54,Tabu (restarts),1.0,0.0,0.012522741824230629
+54,Random,1.0,1.0,0.0
+54,QAOA p=2 transferred,1.0,0.0,0.012522741824230629
+54,"Exact, ADMM with restarts",1.0,0.0,0.012522741824230629
+54,Exact,2.0,0.0,0.012522741824230629
+54,SA tuned (ext),2.0,0.0,0.012522741824230629
+54,Tabu (restarts),2.0,0.0,0.012522741824230629
+54,Random,2.0,1.0,0.0
+54,QAOA p=2 transferred,2.0,0.0,0.012522741824230629
+54,"Exact, ADMM with restarts",2.0,0.0,0.012522741824230629
+54,Exact,4.0,0.0,0.3721807862989333
+54,SA tuned (ext),4.0,0.0,0.3721807862989333
+54,Tabu (restarts),4.0,0.0,0.3721807862989333
+54,Random,4.0,0.0,0.012522741824230629
+54,QAOA p=2 transferred,4.0,0.0,0.3721807862989333
+54,"Exact, ADMM with restarts",4.0,0.0,0.012522741824230629
+55,Exact,0.5,1.0,0.0
+55,SA tuned (ext),0.5,1.0,0.0
+55,Tabu (restarts),0.5,1.0,0.0
+55,Random,0.5,1.0,0.0
+55,QAOA p=2 transferred,0.5,1.0,0.0
+55,"Exact, ADMM with restarts",0.5,1.0,0.0
+55,Exact,1.0,1.0,0.0
+55,SA tuned (ext),1.0,1.0,0.0
+55,Tabu (restarts),1.0,1.0,0.0
+55,Random,1.0,1.0,0.0
+55,QAOA p=2 transferred,1.0,1.0,0.0
+55,"Exact, ADMM with restarts",1.0,1.0,0.0
+55,Exact,2.0,1.0,0.0
+55,SA tuned (ext),2.0,1.0,0.0
+55,Tabu (restarts),2.0,1.0,0.0
+55,Random,2.0,1.0,0.0
+55,QAOA p=2 transferred,2.0,1.0,0.0
+55,"Exact, ADMM with restarts",2.0,1.0,0.0
+55,Exact,4.0,0.0,0.35048569121055106
+55,SA tuned (ext),4.0,0.0,0.35048569121055106
+55,Tabu (restarts),4.0,0.0,0.35048569121055106
+55,Random,4.0,1.0,0.0
+55,QAOA p=2 transferred,4.0,0.0,0.35048569121055106
+55,"Exact, ADMM with restarts",4.0,1.0,0.0
+56,Exact,0.5,1.0,0.0
+56,SA tuned (ext),0.5,1.0,0.0
+56,Tabu (restarts),0.5,1.0,0.0
+56,Random,0.5,1.0,0.0
+56,QAOA p=2 transferred,0.5,1.0,0.0
+56,"Exact, ADMM with restarts",0.5,1.0,0.0
+56,Exact,1.0,0.0,0.07004443115657107
+56,SA tuned (ext),1.0,0.0,0.07004443115657107
+56,Tabu (restarts),1.0,0.0,0.07004443115657107
+56,Random,1.0,0.0,0.07004443115657107
+56,QAOA p=2 transferred,1.0,0.0,0.07004443115657107
+56,"Exact, ADMM with restarts",1.0,1.0,0.0
+56,Exact,2.0,0.0,0.07004443115657107
+56,SA tuned (ext),2.0,0.0,0.07004443115657107
+56,Tabu (restarts),2.0,0.0,0.07004443115657107
+56,Random,2.0,0.0,0.07004443115657107
+56,QAOA p=2 transferred,2.0,0.0,0.07004443115657107
+56,"Exact, ADMM with restarts",2.0,1.0,0.0
+56,Exact,4.0,0.0,0.2873960823332519
+56,SA tuned (ext),4.0,0.0,0.23787499471101073
+56,Tabu (restarts),4.0,0.0,0.2873960823332519
+56,Random,4.0,0.0,0.07004443115657107
+56,QAOA p=2 transferred,4.0,0.0,0.2873960823332519
+56,"Exact, ADMM with restarts",4.0,0.0,0.07800418255017494
+57,Exact,0.5,1.0,0.0
+57,SA tuned (ext),0.5,1.0,0.0
+57,Tabu (restarts),0.5,1.0,0.0
+57,Random,0.5,0.0,0.08367969391417064
+57,QAOA p=2 transferred,0.5,1.0,0.0
+57,"Exact, ADMM with restarts",0.5,1.0,0.0
+57,Exact,1.0,0.0,0.08936867452255808
+57,SA tuned (ext),1.0,0.0,0.08936867452255808
+57,Tabu (restarts),1.0,0.0,0.08936867452255808
+57,Random,1.0,0.0,0.08367969391417064
+57,QAOA p=2 transferred,1.0,0.0,0.08936867452255808
+57,"Exact, ADMM with restarts",1.0,1.0,0.0
+57,Exact,2.0,0.0,0.15250784173016538
+57,SA tuned (ext),2.0,0.0,0.1874271876247338
+57,Tabu (restarts),2.0,0.0,0.15250784173016538
+57,Random,2.0,0.0,0.08936867452255808
+57,QAOA p=2 transferred,2.0,0.0,0.15250784173016538
+57,"Exact, ADMM with restarts",2.0,0.0,0.1874271876247338
+57,Exact,4.0,0.0,0.536469780222516
+57,SA tuned (ext),4.0,0.0,0.536469780222516
+57,Tabu (restarts),4.0,0.0,0.536469780222516
+57,Random,4.0,0.0,0.08936867452255808
+57,QAOA p=2 transferred,4.0,0.0,0.536469780222516
+57,"Exact, ADMM with restarts",4.0,0.0,0.319197615827001
+58,Exact,0.5,1.0,0.0
+58,SA tuned (ext),0.5,1.0,0.0
+58,Tabu (restarts),0.5,1.0,0.0
+58,Random,0.5,0.0,0.0006548946087856044
+58,QAOA p=2 transferred,0.5,1.0,0.0
+58,"Exact, ADMM with restarts",0.5,1.0,0.0
+58,Exact,1.0,1.0,0.0
+58,SA tuned (ext),1.0,1.0,0.0
+58,Tabu (restarts),1.0,1.0,0.0
+58,Random,1.0,0.0,0.0006548946087856044
+58,QAOA p=2 transferred,1.0,1.0,0.0
+58,"Exact, ADMM with restarts",1.0,1.0,0.0
+58,Exact,2.0,1.0,0.0
+58,SA tuned (ext),2.0,1.0,0.0
+58,Tabu (restarts),2.0,1.0,0.0
+58,Random,2.0,0.0,0.0006548946087856044
+58,QAOA p=2 transferred,2.0,1.0,0.0
+58,"Exact, ADMM with restarts",2.0,0.0,0.018323307442194736
+58,Exact,4.0,1.0,0.0
+58,SA tuned (ext),4.0,1.0,0.0
+58,Tabu (restarts),4.0,1.0,0.0
+58,Random,4.0,0.0,0.021425554020385217
+58,QAOA p=2 transferred,4.0,1.0,0.0
+58,"Exact, ADMM with restarts",4.0,0.0,0.04193547150114433
+59,Exact,0.5,1.0,0.0
+59,SA tuned (ext),0.5,1.0,0.0
+59,Tabu (restarts),0.5,1.0,0.0
+59,Random,0.5,1.0,0.0
+59,QAOA p=2 transferred,0.5,1.0,0.0
+59,"Exact, ADMM with restarts",0.5,1.0,0.0
+59,Exact,1.0,0.0,0.011792069759578815
+59,SA tuned (ext),1.0,0.0,0.011792069759578815
+59,Tabu (restarts),1.0,0.0,0.011792069759578815
+59,Random,1.0,1.0,0.0
+59,QAOA p=2 transferred,1.0,0.0,0.011792069759578815
+59,"Exact, ADMM with restarts",1.0,1.0,0.0
+59,Exact,2.0,0.0,0.06679663541320431
+59,SA tuned (ext),2.0,0.0,0.06679663541320431
+59,Tabu (restarts),2.0,0.0,0.06679663541320431
+59,Random,2.0,1.0,0.0
+59,QAOA p=2 transferred,2.0,0.0,0.06679663541320431
+59,"Exact, ADMM with restarts",2.0,0.0,0.06679663541320431
+59,Exact,4.0,0.0,0.37909057376323674
+59,SA tuned (ext),4.0,0.0,0.37909057376323674
+59,Tabu (restarts),4.0,0.0,0.37909057376323674
+59,Random,4.0,1.0,0.0
+59,QAOA p=2 transferred,4.0,0.0,0.37909057376323674
+59,"Exact, ADMM with restarts",4.0,0.0,0.2714475337282787
+60,Exact,0.5,1.0,0.0
+60,SA tuned (ext),0.5,1.0,0.0
+60,Tabu (restarts),0.5,1.0,0.0
+60,Random,0.5,1.0,0.0
+60,QAOA p=2 transferred,0.5,1.0,0.0
+60,"Exact, ADMM with restarts",0.5,1.0,0.0
+60,Exact,1.0,1.0,0.0
+60,SA tuned (ext),1.0,1.0,0.0
+60,Tabu (restarts),1.0,1.0,0.0
+60,Random,1.0,1.0,0.0
+60,QAOA p=2 transferred,1.0,1.0,0.0
+60,"Exact, ADMM with restarts",1.0,1.0,0.0
+60,Exact,2.0,1.0,0.0
+60,SA tuned (ext),2.0,1.0,0.0
+60,Tabu (restarts),2.0,1.0,0.0
+60,Random,2.0,0.0,0.12641672855537256
+60,QAOA p=2 transferred,2.0,1.0,0.0
+60,"Exact, ADMM with restarts",2.0,1.0,0.0
+60,Exact,4.0,0.0,0.22808785802640302
+60,SA tuned (ext),4.0,0.0,0.22808785802640302
+60,Tabu (restarts),4.0,0.0,0.22808785802640302
+60,Random,4.0,0.0,0.12641672855537256
+60,QAOA p=2 transferred,4.0,0.0,0.22808785802640302
+60,"Exact, ADMM with restarts",4.0,0.0,0.22808785802640302
+61,Exact,0.5,1.0,0.0
+61,SA tuned (ext),0.5,1.0,0.0
+61,Tabu (restarts),0.5,1.0,0.0
+61,Random,0.5,1.0,0.0
+61,QAOA p=2 transferred,0.5,1.0,0.0
+61,"Exact, ADMM with restarts",0.5,1.0,0.0
+61,Exact,1.0,0.0,0.021330693601188413
+61,SA tuned (ext),1.0,0.0,0.021330693601188413
+61,Tabu (restarts),1.0,0.0,0.021330693601188413
+61,Random,1.0,1.0,0.0
+61,QAOA p=2 transferred,1.0,0.0,0.021330693601188413
+61,"Exact, ADMM with restarts",1.0,1.0,0.0
+61,Exact,2.0,0.0,0.021330693601188413
+61,SA tuned (ext),2.0,0.0,0.021330693601188413
+61,Tabu (restarts),2.0,0.0,0.021330693601188413
+61,Random,2.0,1.0,0.0
+61,QAOA p=2 transferred,2.0,0.0,0.021330693601188413
+61,"Exact, ADMM with restarts",2.0,1.0,0.0
+61,Exact,4.0,0.0,0.41743731600292344
+61,SA tuned (ext),4.0,0.0,0.41743731600292344
+61,Tabu (restarts),4.0,0.0,0.41743731600292344
+61,Random,4.0,1.0,0.0
+61,QAOA p=2 transferred,4.0,0.0,0.41743731600292344
+61,"Exact, ADMM with restarts",4.0,0.0,0.021330693601188413
+62,Exact,0.5,0.0,0.06667378693686958
+62,SA tuned (ext),0.5,0.0,0.06667378693686958
+62,Tabu (restarts),0.5,0.0,0.06667378693686958
+62,Random,0.5,0.0,0.06667378693686958
+62,QAOA p=2 transferred,0.5,0.0,0.06667378693686958
+62,"Exact, ADMM with restarts",0.5,0.0,0.06667378693686958
+62,Exact,1.0,0.0,0.06667378693686958
+62,SA tuned (ext),1.0,0.0,0.06667378693686958
+62,Tabu (restarts),1.0,0.0,0.06667378693686958
+62,Random,1.0,0.0,0.06667378693686958
+62,QAOA p=2 transferred,1.0,0.0,0.06667378693686958
+62,"Exact, ADMM with restarts",1.0,0.0,0.06667378693686958
+62,Exact,2.0,0.0,0.06667378693686958
+62,SA tuned (ext),2.0,0.0,0.06667378693686958
+62,Tabu (restarts),2.0,0.0,0.06667378693686958
+62,Random,2.0,0.0,0.06667378693686958
+62,QAOA p=2 transferred,2.0,0.0,0.06667378693686958
+62,"Exact, ADMM with restarts",2.0,0.0,0.18854742073356007
+62,Exact,4.0,0.0,0.5665693221197577
+62,SA tuned (ext),4.0,0.0,0.5665693221197577
+62,Tabu (restarts),4.0,0.0,0.5665693221197577
+62,Random,4.0,0.0,0.06667378693686958
+62,QAOA p=2 transferred,4.0,0.0,0.5665693221197577
+62,"Exact, ADMM with restarts",4.0,0.0,0.23923423424148588
+63,Exact,0.5,1.0,0.0
+63,SA tuned (ext),0.5,1.0,0.0
+63,Tabu (restarts),0.5,1.0,0.0
+63,Random,0.5,1.0,0.0
+63,QAOA p=2 transferred,0.5,1.0,0.0
+63,"Exact, ADMM with restarts",0.5,1.0,0.0
+63,Exact,1.0,1.0,0.0
+63,SA tuned (ext),1.0,1.0,0.0
+63,Tabu (restarts),1.0,1.0,0.0
+63,Random,1.0,1.0,0.0
+63,QAOA p=2 transferred,1.0,1.0,0.0
+63,"Exact, ADMM with restarts",1.0,1.0,0.0
+63,Exact,2.0,1.0,0.0
+63,SA tuned (ext),2.0,1.0,0.0
+63,Tabu (restarts),2.0,1.0,0.0
+63,Random,2.0,1.0,0.0
+63,QAOA p=2 transferred,2.0,1.0,0.0
+63,"Exact, ADMM with restarts",2.0,0.0,0.03082971666396167
+63,Exact,4.0,1.0,0.0
+63,SA tuned (ext),4.0,1.0,0.0
+63,Tabu (restarts),4.0,1.0,0.0
+63,Random,4.0,1.0,0.0
+63,QAOA p=2 transferred,4.0,1.0,0.0
+63,"Exact, ADMM with restarts",4.0,0.0,0.03082971666396167
+64,Exact,0.5,1.0,0.0
+64,SA tuned (ext),0.5,1.0,0.0
+64,Tabu (restarts),0.5,1.0,0.0
+64,Random,0.5,1.0,0.0
+64,QAOA p=2 transferred,0.5,1.0,0.0
+64,"Exact, ADMM with restarts",0.5,1.0,0.0
+64,Exact,1.0,1.0,0.0
+64,SA tuned (ext),1.0,1.0,0.0
+64,Tabu (restarts),1.0,1.0,0.0
+64,Random,1.0,1.0,0.0
+64,QAOA p=2 transferred,1.0,1.0,0.0
+64,"Exact, ADMM with restarts",1.0,1.0,0.0
+64,Exact,2.0,0.0,0.09451386093144522
+64,SA tuned (ext),2.0,0.0,0.09451386093144522
+64,Tabu (restarts),2.0,0.0,0.09451386093144522
+64,Random,2.0,0.0,0.09451386093144522
+64,QAOA p=2 transferred,2.0,0.0,0.09451386093144522
+64,"Exact, ADMM with restarts",2.0,1.0,0.0
+64,Exact,4.0,0.0,0.4795670117114007
+64,SA tuned (ext),4.0,0.0,0.4795670117114007
+64,Tabu (restarts),4.0,0.0,0.4795670117114007
+64,Random,4.0,0.0,0.09451386093144522
+64,QAOA p=2 transferred,4.0,0.0,0.4795670117114007
+64,"Exact, ADMM with restarts",4.0,1.0,0.0
+65,Exact,0.5,1.0,0.0
+65,SA tuned (ext),0.5,1.0,0.0
+65,Tabu (restarts),0.5,1.0,0.0
+65,Random,0.5,1.0,0.0
+65,QAOA p=2 transferred,0.5,1.0,0.0
+65,"Exact, ADMM with restarts",0.5,1.0,0.0
+65,Exact,1.0,1.0,0.0
+65,SA tuned (ext),1.0,1.0,0.0
+65,Tabu (restarts),1.0,1.0,0.0
+65,Random,1.0,1.0,0.0
+65,QAOA p=2 transferred,1.0,1.0,0.0
+65,"Exact, ADMM with restarts",1.0,1.0,0.0
+65,Exact,2.0,0.0,0.30421296170923245
+65,SA tuned (ext),2.0,0.0,0.30421296170923245
+65,Tabu (restarts),2.0,0.0,0.046096915252347936
+65,Random,2.0,1.0,0.0
+65,QAOA p=2 transferred,2.0,0.0,0.30421296170923245
+65,"Exact, ADMM with restarts",2.0,1.0,0.0
+65,Exact,4.0,0.0,0.8075434545057244
+65,SA tuned (ext),4.0,0.0,0.8075434545057244
+65,Tabu (restarts),4.0,0.0,0.8075434545057244
+65,Random,4.0,0.0,0.2554534620466046
+65,QAOA p=2 transferred,4.0,0.0,0.8075434545057244
+65,"Exact, ADMM with restarts",4.0,0.0,0.40584894425665907
+66,Exact,0.5,1.0,0.0
+66,SA tuned (ext),0.5,1.0,0.0
+66,Tabu (restarts),0.5,1.0,0.0
+66,Random,0.5,1.0,0.0
+66,QAOA p=2 transferred,0.5,1.0,0.0
+66,"Exact, ADMM with restarts",0.5,1.0,0.0
+66,Exact,1.0,1.0,0.0
+66,SA tuned (ext),1.0,1.0,0.0
+66,Tabu (restarts),1.0,1.0,0.0
+66,Random,1.0,1.0,0.0
+66,QAOA p=2 transferred,1.0,1.0,0.0
+66,"Exact, ADMM with restarts",1.0,1.0,0.0
+66,Exact,2.0,0.0,0.11298365949806825
+66,SA tuned (ext),2.0,0.0,0.11298365949806825
+66,Tabu (restarts),2.0,0.0,0.11298365949806825
+66,Random,2.0,1.0,0.0
+66,QAOA p=2 transferred,2.0,0.0,0.11298365949806825
+66,"Exact, ADMM with restarts",2.0,0.0,0.11298365949806825
+66,Exact,4.0,0.0,0.11298365949806825
+66,SA tuned (ext),4.0,0.0,0.11298365949806825
+66,Tabu (restarts),4.0,0.0,0.11298365949806825
+66,Random,4.0,0.0,0.04979894260283498
+66,QAOA p=2 transferred,4.0,0.0,0.11298365949806825
+66,"Exact, ADMM with restarts",4.0,1.0,0.0
+67,Exact,0.5,1.0,0.0
+67,SA tuned (ext),0.5,1.0,0.0
+67,Tabu (restarts),0.5,1.0,0.0
+67,Random,0.5,1.0,0.0
+67,QAOA p=2 transferred,0.5,1.0,0.0
+67,"Exact, ADMM with restarts",0.5,1.0,0.0
+67,Exact,1.0,1.0,0.0
+67,SA tuned (ext),1.0,1.0,0.0
+67,Tabu (restarts),1.0,1.0,0.0
+67,Random,1.0,1.0,0.0
+67,QAOA p=2 transferred,1.0,1.0,0.0
+67,"Exact, ADMM with restarts",1.0,1.0,0.0
+67,Exact,2.0,0.0,0.12638571572074497
+67,SA tuned (ext),2.0,0.0,0.12638571572074497
+67,Tabu (restarts),2.0,0.0,0.12638571572074497
+67,Random,2.0,1.0,0.0
+67,QAOA p=2 transferred,2.0,0.0,0.12638571572074497
+67,"Exact, ADMM with restarts",2.0,0.0,0.00835123768528297
+67,Exact,4.0,0.0,0.12638571572074497
+67,SA tuned (ext),4.0,0.0,0.12638571572074497
+67,Tabu (restarts),4.0,0.0,0.12638571572074497
+67,Random,4.0,0.0,0.09660916682223751
+67,QAOA p=2 transferred,4.0,0.0,0.12638571572074497
+67,"Exact, ADMM with restarts",4.0,0.0,0.0716171556483325
+68,Exact,0.5,0.0,0.04921515095218309
+68,SA tuned (ext),0.5,0.0,0.04921515095218309
+68,Tabu (restarts),0.5,0.0,0.04921515095218309
+68,Random,0.5,1.0,0.0
+68,QAOA p=2 transferred,0.5,0.0,0.04921515095218309
+68,"Exact, ADMM with restarts",0.5,1.0,0.0
+68,Exact,1.0,0.0,0.04921515095218309
+68,SA tuned (ext),1.0,0.0,0.04921515095218309
+68,Tabu (restarts),1.0,0.0,0.04921515095218309
+68,Random,1.0,1.0,0.0
+68,QAOA p=2 transferred,1.0,0.0,0.04921515095218309
+68,"Exact, ADMM with restarts",1.0,0.0,0.04184031774579603
+68,Exact,2.0,0.0,0.07023284656611797
+68,SA tuned (ext),2.0,0.0,0.07023284656611797
+68,Tabu (restarts),2.0,0.0,0.07023284656611797
+68,Random,2.0,1.0,0.0
+68,QAOA p=2 transferred,2.0,0.0,0.07023284656611797
+68,"Exact, ADMM with restarts",2.0,0.0,0.04184031774579603
+68,Exact,4.0,0.0,0.6053474095393837
+68,SA tuned (ext),4.0,0.0,0.6053474095393837
+68,Tabu (restarts),4.0,0.0,0.6053474095393837
+68,Random,4.0,0.0,0.04921515095218309
+68,QAOA p=2 transferred,4.0,0.0,0.6053474095393837
+68,"Exact, ADMM with restarts",4.0,0.0,0.13300884994214593
+69,Exact,0.5,1.0,0.0
+69,SA tuned (ext),0.5,1.0,0.0
+69,Tabu (restarts),0.5,1.0,0.0
+69,Random,0.5,1.0,0.0
+69,QAOA p=2 transferred,0.5,1.0,0.0
+69,"Exact, ADMM with restarts",0.5,1.0,0.0
+69,Exact,1.0,0.0,0.060748307042737024
+69,SA tuned (ext),1.0,0.0,0.060748307042737024
+69,Tabu (restarts),1.0,0.0,0.060748307042737024
+69,Random,1.0,1.0,0.0
+69,QAOA p=2 transferred,1.0,0.0,0.060748307042737024
+69,"Exact, ADMM with restarts",1.0,1.0,0.0
+69,Exact,2.0,0.0,0.22716832348994198
+69,SA tuned (ext),2.0,0.0,0.22716832348994198
+69,Tabu (restarts),2.0,0.0,0.22716832348994198
+69,Random,2.0,1.0,0.0
+69,QAOA p=2 transferred,2.0,0.0,0.22716832348994198
+69,"Exact, ADMM with restarts",2.0,0.0,0.060748307042737024
+69,Exact,4.0,0.0,0.33860457645719955
+69,SA tuned (ext),4.0,0.0,0.33860457645719955
+69,Tabu (restarts),4.0,0.0,0.33860457645719955
+69,Random,4.0,0.0,0.1645728786190907
+69,QAOA p=2 transferred,4.0,0.0,0.33860457645719955
+69,"Exact, ADMM with restarts",4.0,0.0,0.22716832348994198
+70,Exact,0.5,0.0,0.0023035128225052134
+70,SA tuned (ext),0.5,0.0,0.0023035128225052134
+70,Tabu (restarts),0.5,0.0,0.0023035128225052134
+70,Random,0.5,1.0,0.0
+70,QAOA p=2 transferred,0.5,0.0,0.0023035128225052134
+70,"Exact, ADMM with restarts",0.5,0.0,0.0023035128225052134
+70,Exact,1.0,0.0,0.0023035128225052134
+70,SA tuned (ext),1.0,0.0,0.0023035128225052134
+70,Tabu (restarts),1.0,0.0,0.0023035128225052134
+70,Random,1.0,1.0,0.0
+70,QAOA p=2 transferred,1.0,0.0,0.0023035128225052134
+70,"Exact, ADMM with restarts",1.0,0.0,0.0023035128225052134
+70,Exact,2.0,0.0,0.0023035128225052134
+70,SA tuned (ext),2.0,0.0,0.0023035128225052134
+70,Tabu (restarts),2.0,0.0,0.0023035128225052134
+70,Random,2.0,1.0,0.0
+70,QAOA p=2 transferred,2.0,0.0,0.0023035128225052134
+70,"Exact, ADMM with restarts",2.0,0.0,0.09920844108418536
+70,Exact,4.0,0.0,0.0023035128225052134
+70,SA tuned (ext),4.0,0.0,0.0023035128225052134
+70,Tabu (restarts),4.0,0.0,0.0023035128225052134
+70,Random,4.0,1.0,0.0
+70,QAOA p=2 transferred,4.0,0.0,0.0023035128225052134
+70,"Exact, ADMM with restarts",4.0,0.0,0.09920844108418536
+71,Exact,0.5,0.0,0.010973727372929854
+71,SA tuned (ext),0.5,0.0,0.010973727372929854
+71,Tabu (restarts),0.5,0.0,0.010973727372929854
+71,Random,0.5,1.0,0.0
+71,QAOA p=2 transferred,0.5,0.0,0.010973727372929854
+71,"Exact, ADMM with restarts",0.5,1.0,0.0
+71,Exact,1.0,0.0,0.010973727372929854
+71,SA tuned (ext),1.0,0.0,0.010973727372929854
+71,Tabu (restarts),1.0,0.0,0.010973727372929854
+71,Random,1.0,0.0,0.010973727372929854
+71,QAOA p=2 transferred,1.0,0.0,0.010973727372929854
+71,"Exact, ADMM with restarts",1.0,1.0,0.0
+71,Exact,2.0,0.0,0.010973727372929854
+71,SA tuned (ext),2.0,0.0,0.010973727372929854
+71,Tabu (restarts),2.0,0.0,0.010973727372929854
+71,Random,2.0,0.0,0.010973727372929854
+71,QAOA p=2 transferred,2.0,0.0,0.010973727372929854
+71,"Exact, ADMM with restarts",2.0,1.0,0.0
+71,Exact,4.0,0.0,0.15240191684044987
+71,SA tuned (ext),4.0,0.0,0.15240191684044987
+71,Tabu (restarts),4.0,0.0,0.15240191684044987
+71,Random,4.0,0.0,0.010973727372929854
+71,QAOA p=2 transferred,4.0,0.0,0.15240191684044987
+71,"Exact, ADMM with restarts",4.0,1.0,0.0
+72,Exact,0.5,1.0,0.0
+72,SA tuned (ext),0.5,1.0,0.0
+72,Tabu (restarts),0.5,1.0,0.0
+72,Random,0.5,1.0,0.0
+72,QAOA p=2 transferred,0.5,1.0,0.0
+72,"Exact, ADMM with restarts",0.5,1.0,0.0
+72,Exact,1.0,1.0,0.0
+72,SA tuned (ext),1.0,1.0,0.0
+72,Tabu (restarts),1.0,1.0,0.0
+72,Random,1.0,1.0,0.0
+72,QAOA p=2 transferred,1.0,1.0,0.0
+72,"Exact, ADMM with restarts",1.0,1.0,0.0
+72,Exact,2.0,1.0,0.0
+72,SA tuned (ext),2.0,1.0,0.0
+72,Tabu (restarts),2.0,1.0,0.0
+72,Random,2.0,1.0,0.0
+72,QAOA p=2 transferred,2.0,1.0,0.0
+72,"Exact, ADMM with restarts",2.0,1.0,0.0
+72,Exact,4.0,0.0,0.4743955541950164
+72,SA tuned (ext),4.0,0.0,0.4743955541950164
+72,Tabu (restarts),4.0,0.0,0.4743955541950164
+72,Random,4.0,0.0,0.0793361872374473
+72,QAOA p=2 transferred,4.0,0.0,0.4743955541950164
+72,"Exact, ADMM with restarts",4.0,0.0,0.19160364059086502
+73,Exact,0.5,1.0,0.0
+73,SA tuned (ext),0.5,1.0,0.0
+73,Tabu (restarts),0.5,1.0,0.0
+73,Random,0.5,1.0,0.0
+73,QAOA p=2 transferred,0.5,1.0,0.0
+73,"Exact, ADMM with restarts",0.5,1.0,0.0
+73,Exact,1.0,1.0,0.0
+73,SA tuned (ext),1.0,1.0,0.0
+73,Tabu (restarts),1.0,1.0,0.0
+73,Random,1.0,1.0,0.0
+73,QAOA p=2 transferred,1.0,1.0,0.0
+73,"Exact, ADMM with restarts",1.0,1.0,0.0
+73,Exact,2.0,1.0,0.0
+73,SA tuned (ext),2.0,1.0,0.0
+73,Tabu (restarts),2.0,1.0,0.0
+73,Random,2.0,1.0,0.0
+73,QAOA p=2 transferred,2.0,1.0,0.0
+73,"Exact, ADMM with restarts",2.0,1.0,0.0
+73,Exact,4.0,0.0,0.27024096224589006
+73,SA tuned (ext),4.0,0.0,0.27024096224589006
+73,Tabu (restarts),4.0,0.0,0.27024096224589006
+73,Random,4.0,1.0,0.0
+73,QAOA p=2 transferred,4.0,0.0,0.27024096224589006
+73,"Exact, ADMM with restarts",4.0,0.0,0.11692746387740524
+74,Exact,0.5,1.0,0.0
+74,SA tuned (ext),0.5,1.0,0.0
+74,Tabu (restarts),0.5,1.0,0.0
+74,Random,0.5,0.0,0.07938959196787723
+74,QAOA p=2 transferred,0.5,1.0,0.0
+74,"Exact, ADMM with restarts",0.5,1.0,0.0
+74,Exact,1.0,1.0,0.0
+74,SA tuned (ext),1.0,1.0,0.0
+74,Tabu (restarts),1.0,1.0,0.0
+74,Random,1.0,0.0,0.07938959196787723
+74,QAOA p=2 transferred,1.0,1.0,0.0
+74,"Exact, ADMM with restarts",1.0,1.0,0.0
+74,Exact,2.0,1.0,0.0
+74,SA tuned (ext),2.0,1.0,0.0
+74,Tabu (restarts),2.0,1.0,0.0
+74,Random,2.0,0.0,0.07938959196787723
+74,QAOA p=2 transferred,2.0,1.0,0.0
+74,"Exact, ADMM with restarts",2.0,1.0,0.0
+74,Exact,4.0,0.0,0.22556489235730007
+74,SA tuned (ext),4.0,0.0,0.22556489235730007
+74,Tabu (restarts),4.0,0.0,0.22556489235730007
+74,Random,4.0,0.0,0.07938959196787723
+74,QAOA p=2 transferred,4.0,0.0,0.22556489235730007
+74,"Exact, ADMM with restarts",4.0,1.0,0.0
+75,Exact,0.5,1.0,0.0
+75,SA tuned (ext),0.5,1.0,0.0
+75,Tabu (restarts),0.5,1.0,0.0
+75,Random,0.5,1.0,0.0
+75,QAOA p=2 transferred,0.5,1.0,0.0
+75,"Exact, ADMM with restarts",0.5,1.0,0.0
+75,Exact,1.0,0.0,0.03856443744347952
+75,SA tuned (ext),1.0,1.0,0.0
+75,Tabu (restarts),1.0,0.0,0.03856443744347952
+75,Random,1.0,1.0,0.0
+75,QAOA p=2 transferred,1.0,0.0,0.03856443744347952
+75,"Exact, ADMM with restarts",1.0,1.0,0.0
+75,Exact,2.0,1.0,0.0
+75,SA tuned (ext),2.0,1.0,0.0
+75,Tabu (restarts),2.0,1.0,0.0
+75,Random,2.0,1.0,0.0
+75,QAOA p=2 transferred,2.0,1.0,0.0
+75,"Exact, ADMM with restarts",2.0,1.0,0.0
+75,Exact,4.0,0.0,0.5096705902162014
+75,SA tuned (ext),4.0,0.0,0.5096705902162014
+75,Tabu (restarts),4.0,0.0,0.5096705902162014
+75,Random,4.0,0.0,0.2727919814240306
+75,QAOA p=2 transferred,4.0,0.0,0.5096705902162014
+75,"Exact, ADMM with restarts",4.0,1.0,0.0
+76,Exact,0.5,0.0,0.01465010085938239
+76,SA tuned (ext),0.5,0.0,0.01465010085938239
+76,Tabu (restarts),0.5,0.0,0.01465010085938239
+76,Random,0.5,1.0,0.0
+76,QAOA p=2 transferred,0.5,0.0,0.01465010085938239
+76,"Exact, ADMM with restarts",0.5,0.0,0.01465010085938239
+76,Exact,1.0,0.0,0.01465010085938239
+76,SA tuned (ext),1.0,0.0,0.01465010085938239
+76,Tabu (restarts),1.0,0.0,0.01465010085938239
+76,Random,1.0,1.0,0.0
+76,QAOA p=2 transferred,1.0,0.0,0.01465010085938239
+76,"Exact, ADMM with restarts",1.0,1.0,0.0
+76,Exact,2.0,0.0,0.05832617301656771
+76,SA tuned (ext),2.0,0.0,0.05832617301656771
+76,Tabu (restarts),2.0,0.0,0.05832617301656771
+76,Random,2.0,1.0,0.0
+76,QAOA p=2 transferred,2.0,0.0,0.05832617301656771
+76,"Exact, ADMM with restarts",2.0,0.0,0.05832617301656771
+76,Exact,4.0,0.0,0.01465010085938239
+76,SA tuned (ext),4.0,0.0,0.01465010085938239
+76,Tabu (restarts),4.0,0.0,0.2663852716521769
+76,Random,4.0,0.0,0.26370563160148613
+76,QAOA p=2 transferred,4.0,0.0,0.01465010085938239
+76,"Exact, ADMM with restarts",4.0,0.0,0.21282107181445123
+77,Exact,0.5,1.0,0.0
+77,SA tuned (ext),0.5,1.0,0.0
+77,Tabu (restarts),0.5,1.0,0.0
+77,Random,0.5,1.0,0.0
+77,QAOA p=2 transferred,0.5,1.0,0.0
+77,"Exact, ADMM with restarts",0.5,1.0,0.0
+77,Exact,1.0,0.0,0.11879305113560487
+77,SA tuned (ext),1.0,0.0,0.11879305113560487
+77,Tabu (restarts),1.0,0.0,0.11879305113560487
+77,Random,1.0,1.0,0.0
+77,QAOA p=2 transferred,1.0,0.0,0.11879305113560487
+77,"Exact, ADMM with restarts",1.0,1.0,0.0
+77,Exact,2.0,0.0,0.1313431297386979
+77,SA tuned (ext),2.0,0.0,0.1313431297386979
+77,Tabu (restarts),2.0,0.0,0.1313431297386979
+77,Random,2.0,0.0,0.020466061923418224
+77,QAOA p=2 transferred,2.0,0.0,0.1313431297386979
+77,"Exact, ADMM with restarts",2.0,1.0,0.0
+77,Exact,4.0,0.0,0.3576827848423075
+77,SA tuned (ext),4.0,0.0,0.3576827848423075
+77,Tabu (restarts),4.0,0.0,0.3576827848423075
+77,Random,4.0,0.0,0.11879305113560487
+77,QAOA p=2 transferred,4.0,0.0,0.3576827848423075
+77,"Exact, ADMM with restarts",4.0,0.0,0.1313431297386979
+78,Exact,0.5,1.0,0.0
+78,SA tuned (ext),0.5,1.0,0.0
+78,Tabu (restarts),0.5,1.0,0.0
+78,Random,0.5,1.0,0.0
+78,QAOA p=2 transferred,0.5,1.0,0.0
+78,"Exact, ADMM with restarts",0.5,1.0,0.0
+78,Exact,1.0,1.0,0.0
+78,SA tuned (ext),1.0,1.0,0.0
+78,Tabu (restarts),1.0,1.0,0.0
+78,Random,1.0,1.0,0.0
+78,QAOA p=2 transferred,1.0,1.0,0.0
+78,"Exact, ADMM with restarts",1.0,1.0,0.0
+78,Exact,2.0,1.0,0.0
+78,SA tuned (ext),2.0,1.0,0.0
+78,Tabu (restarts),2.0,1.0,0.0
+78,Random,2.0,1.0,0.0
+78,QAOA p=2 transferred,2.0,1.0,0.0
+78,"Exact, ADMM with restarts",2.0,0.0,0.05102538205477513
+78,Exact,4.0,0.0,0.19812008801656986
+78,SA tuned (ext),4.0,0.0,0.19812008801656986
+78,Tabu (restarts),4.0,0.0,0.19812008801656986
+78,Random,4.0,1.0,0.0
+78,QAOA p=2 transferred,4.0,0.0,0.19812008801656986
+78,"Exact, ADMM with restarts",4.0,0.0,0.18258683479032
+79,Exact,0.5,1.0,0.0
+79,SA tuned (ext),0.5,1.0,0.0
+79,Tabu (restarts),0.5,1.0,0.0
+79,Random,0.5,1.0,0.0
+79,QAOA p=2 transferred,0.5,1.0,0.0
+79,"Exact, ADMM with restarts",0.5,1.0,0.0
+79,Exact,1.0,1.0,0.0
+79,SA tuned (ext),1.0,1.0,0.0
+79,Tabu (restarts),1.0,1.0,0.0
+79,Random,1.0,1.0,0.0
+79,QAOA p=2 transferred,1.0,1.0,0.0
+79,"Exact, ADMM with restarts",1.0,1.0,0.0
+79,Exact,2.0,1.0,0.0
+79,SA tuned (ext),2.0,1.0,0.0
+79,Tabu (restarts),2.0,1.0,0.0
+79,Random,2.0,1.0,0.0
+79,QAOA p=2 transferred,2.0,1.0,0.0
+79,"Exact, ADMM with restarts",2.0,1.0,0.0
+79,Exact,4.0,0.0,0.18366268968041846
+79,SA tuned (ext),4.0,0.0,0.18366268968041846
+79,Tabu (restarts),4.0,0.0,0.18366268968041846
+79,Random,4.0,0.0,0.09801491053002057
+79,QAOA p=2 transferred,4.0,0.0,0.18366268968041846
+79,"Exact, ADMM with restarts",4.0,1.0,0.0

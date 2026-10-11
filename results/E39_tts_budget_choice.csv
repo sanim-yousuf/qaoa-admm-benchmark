@@ -1,0 +1,51 @@
+,0
+Wishart|Local search|12,3072
+Wishart|Local search|14,6144
+Wishart|Local search|16,512
+Wishart|Local search|18,12288
+Wishart|Local search|20,32768
+Wishart|PT|12,768
+Wishart|PT|14,1536
+Wishart|PT|16,3072
+Wishart|PT|18,6144
+Wishart|PT|20,12288
+Wishart|SA (tuned temperatures)|12,48
+Wishart|SA (tuned temperatures)|14,128
+Wishart|SA (tuned temperatures)|16,96
+Wishart|SA (tuned temperatures)|18,256
+Wishart|SA (tuned temperatures)|20,256
+Wishart|SDP + LS|12,16
+Wishart|SDP + LS|14,16
+Wishart|SDP + LS|16,256
+Wishart|SDP + LS|18,24
+Wishart|SDP + LS|20,1536
+Wishart|Tabu (restarts)|12,384
+Wishart|Tabu (restarts)|14,3072
+Wishart|Tabu (restarts)|16,8192
+Wishart|Tabu (restarts)|18,2048
+Wishart|Tabu (restarts)|20,2048
+main|Local search|12,384
+main|Local search|14,512
+main|Local search|16,1024
+main|Local search|18,1536
+main|Local search|20,1536
+main|PT|12,512
+main|PT|14,512
+main|PT|16,768
+main|PT|18,1024
+main|PT|20,1536
+main|SA (tuned temperatures)|12,64
+main|SA (tuned temperatures)|14,64
+main|SA (tuned temperatures)|16,96
+main|SA (tuned temperatures)|18,96
+main|SA (tuned temperatures)|20,128
+main|SDP + LS|12,16
+main|SDP + LS|14,16
+main|SDP + LS|16,24
+main|SDP + LS|18,24
+main|SDP + LS|20,24
+main|Tabu (restarts)|12,192
+main|Tabu (restarts)|14,256
+main|Tabu (restarts)|16,384
+main|Tabu (restarts)|18,384
+main|Tabu (restarts)|20,768

@@ -1,0 +1,25 @@
+comparison,metric,mean_diff,lo,hi,P,n
+S10 transferred - SA,hit,0.034375,0.017708333333333336,0.053125,1.52587890625e-05,80
+S10 transferred - SDP,hit,0.006250000000000001,0.001041666666666667,0.014583333333333337,0.125,80
+S10 transferred - Random,hit,0.8229166666666667,0.7989583333333334,0.8447916666666668,1.6543612251060553e-24,80
+S10 optimized QAOA - Random,hit,0.375,0.32708333333333334,0.4208333333333334,6.0218748593860415e-21,80
+S10 ADMM level: transferred - SA,mbo_opt_found,-0.05,-0.1125,0.0,0.21875,80
+S10 ADMM level: Random - SA,mbo_opt_found,0.2,0.0871875000000001,0.325,0.0037191659212112427,80
+R25 transferred - SA tuned,hit,0.0072916666666666685,0.002083333333333334,0.01354166666666667,0.03125,80
+R25 transferred - Tabu,hit,0.010416666666666668,0.0041666666666666675,0.01875,0.0078125,80
+R25 transferred - Local search,hit,0.001041666666666667,0.0,0.0031250000000000015,1.0,80
+R25 transferred - SA restarts,hit,0.01666666666666667,0.006250000000000003,0.029166666666666667,0.001953125,80
+R26 n=12 transferred - SA tuned,hit,0.05,0.0,0.15,1.0,20
+R26 n=12 transferred - Random,hit,0.75,0.55,0.9,6.103515625e-05,20
+R26 n=14 transferred - SA tuned,hit,-0.05,-0.15,0.0,1.0,20
+R26 n=14 transferred - Random,hit,0.95,0.85,1.0,3.814697265625e-06,20
+R26 n=16 transferred - SA tuned,hit,0.05,0.0,0.15,1.0,20
+R26 n=16 transferred - Random,hit,1.0,1.0,1.0,1.9073486328125e-06,20
+R26 n=18 transferred - SA tuned,hit,0.05,-0.15,0.25,1.0,20
+R26 n=18 transferred - Random,hit,0.9,0.75,1.0,7.62939453125e-06,20
+R26 n=20 transferred - SA tuned,hit,0.0,-0.2,0.2,1.0,20
+R26 n=20 transferred - Random,hit,0.8,0.6,0.95,3.0517578125e-05,20
+R26 n=22 transferred - SA tuned,hit,-0.1,-0.4,0.2,1.0,10
+R26 n=22 transferred - Random,hit,0.8,0.5,1.0,0.0078125,10
+R26 n=24 transferred - SA tuned,hit,0.0,0.0,0.0,1.0,10
+R26 n=24 transferred - Random,hit,0.9,0.7,1.0,0.00390625,10

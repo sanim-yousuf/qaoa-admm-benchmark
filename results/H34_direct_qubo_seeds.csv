@@ -1,0 +1,1121 @@
+family,seed,arm,mbo_opt_found,mbo_gap_best_unif
+main,0,SA tuned (ext),1.0,0.0
+main,0,Tabu,1.0,0.0
+main,0,Local search,1.0,0.0
+main,0,Random,1.0,0.0
+main,0,SDP,1.0,0.0
+main,0,QAOA p=2 transferred,1.0,0.0
+main,0,QAOA p=3 transferred,1.0,0.0
+main,1,SA tuned (ext),1.0,0.0
+main,1,Tabu,1.0,0.0
+main,1,Local search,1.0,0.0
+main,1,Random,1.0,0.0
+main,1,SDP,1.0,0.0
+main,1,QAOA p=2 transferred,1.0,0.0
+main,1,QAOA p=3 transferred,1.0,0.0
+main,2,SA tuned (ext),1.0,0.0
+main,2,Tabu,1.0,0.0
+main,2,Local search,1.0,0.0
+main,2,Random,1.0,0.0
+main,2,SDP,1.0,0.0
+main,2,QAOA p=2 transferred,1.0,0.0
+main,2,QAOA p=3 transferred,1.0,0.0
+main,3,SA tuned (ext),1.0,0.0
+main,3,Tabu,1.0,0.0
+main,3,Local search,1.0,0.0
+main,3,Random,1.0,0.0
+main,3,SDP,1.0,0.0
+main,3,QAOA p=2 transferred,1.0,0.0
+main,3,QAOA p=3 transferred,1.0,0.0
+main,4,SA tuned (ext),1.0,0.0
+main,4,Tabu,1.0,0.0
+main,4,Local search,1.0,0.0
+main,4,Random,1.0,0.0
+main,4,SDP,1.0,0.0
+main,4,QAOA p=2 transferred,1.0,0.0
+main,4,QAOA p=3 transferred,1.0,0.0
+main,5,SA tuned (ext),1.0,0.0
+main,5,Tabu,1.0,0.0
+main,5,Local search,1.0,0.0
+main,5,Random,1.0,0.0
+main,5,SDP,1.0,0.0
+main,5,QAOA p=2 transferred,1.0,0.0
+main,5,QAOA p=3 transferred,1.0,0.0
+main,6,SA tuned (ext),1.0,0.0
+main,6,Tabu,1.0,0.0
+main,6,Local search,1.0,0.0
+main,6,Random,1.0,0.0
+main,6,SDP,0.0,0.0013469374020194686
+main,6,QAOA p=2 transferred,1.0,0.0
+main,6,QAOA p=3 transferred,1.0,0.0
+main,7,SA tuned (ext),1.0,0.0
+main,7,Tabu,1.0,0.0
+main,7,Local search,1.0,0.0
+main,7,Random,1.0,0.0
+main,7,SDP,1.0,0.0
+main,7,QAOA p=2 transferred,1.0,0.0
+main,7,QAOA p=3 transferred,1.0,0.0
+main,8,SA tuned (ext),1.0,0.0
+main,8,Tabu,1.0,0.0
+main,8,Local search,1.0,0.0
+main,8,Random,1.0,0.0
+main,8,SDP,1.0,0.0
+main,8,QAOA p=2 transferred,1.0,0.0
+main,8,QAOA p=3 transferred,1.0,0.0
+main,9,SA tuned (ext),1.0,0.0
+main,9,Tabu,1.0,0.0
+main,9,Local search,1.0,0.0
+main,9,Random,0.0,0.002650751041610509
+main,9,SDP,1.0,0.0
+main,9,QAOA p=2 transferred,1.0,0.0
+main,9,QAOA p=3 transferred,1.0,0.0
+main,10,SA tuned (ext),1.0,0.0
+main,10,Tabu,1.0,0.0
+main,10,Local search,1.0,0.0
+main,10,Random,0.0,0.05221184006987032
+main,10,SDP,1.0,0.0
+main,10,QAOA p=2 transferred,1.0,0.0
+main,10,QAOA p=3 transferred,1.0,0.0
+main,11,SA tuned (ext),1.0,0.0
+main,11,Tabu,1.0,0.0
+main,11,Local search,1.0,0.0
+main,11,Random,1.0,0.0
+main,11,SDP,1.0,0.0
+main,11,QAOA p=2 transferred,1.0,0.0
+main,11,QAOA p=3 transferred,1.0,0.0
+main,12,SA tuned (ext),1.0,0.0
+main,12,Tabu,1.0,0.0
+main,12,Local search,1.0,0.0
+main,12,Random,1.0,0.0
+main,12,SDP,1.0,0.0
+main,12,QAOA p=2 transferred,1.0,0.0
+main,12,QAOA p=3 transferred,1.0,0.0
+main,13,SA tuned (ext),1.0,0.0
+main,13,Tabu,1.0,0.0
+main,13,Local search,1.0,0.0
+main,13,Random,1.0,0.0
+main,13,SDP,1.0,0.0
+main,13,QAOA p=2 transferred,1.0,0.0
+main,13,QAOA p=3 transferred,1.0,0.0
+main,14,SA tuned (ext),1.0,0.0
+main,14,Tabu,1.0,0.0
+main,14,Local search,1.0,0.0
+main,14,Random,1.0,0.0
+main,14,SDP,1.0,0.0
+main,14,QAOA p=2 transferred,1.0,0.0
+main,14,QAOA p=3 transferred,1.0,0.0
+main,15,SA tuned (ext),1.0,0.0
+main,15,Tabu,1.0,0.0
+main,15,Local search,1.0,0.0
+main,15,Random,1.0,0.0
+main,15,SDP,1.0,0.0
+main,15,QAOA p=2 transferred,1.0,0.0
+main,15,QAOA p=3 transferred,1.0,0.0
+main,16,SA tuned (ext),1.0,0.0
+main,16,Tabu,1.0,0.0
+main,16,Local search,1.0,0.0
+main,16,Random,1.0,0.0
+main,16,SDP,1.0,0.0
+main,16,QAOA p=2 transferred,1.0,0.0
+main,16,QAOA p=3 transferred,1.0,0.0
+main,17,SA tuned (ext),1.0,0.0
+main,17,Tabu,1.0,0.0
+main,17,Local search,1.0,0.0
+main,17,Random,1.0,0.0
+main,17,SDP,1.0,0.0
+main,17,QAOA p=2 transferred,1.0,0.0
+main,17,QAOA p=3 transferred,1.0,0.0
+main,18,SA tuned (ext),1.0,0.0
+main,18,Tabu,1.0,0.0
+main,18,Local search,1.0,0.0
+main,18,Random,1.0,0.0
+main,18,SDP,1.0,0.0
+main,18,QAOA p=2 transferred,1.0,0.0
+main,18,QAOA p=3 transferred,1.0,0.0
+main,19,SA tuned (ext),1.0,0.0
+main,19,Tabu,1.0,0.0
+main,19,Local search,1.0,0.0
+main,19,Random,1.0,0.0
+main,19,SDP,1.0,0.0
+main,19,QAOA p=2 transferred,1.0,0.0
+main,19,QAOA p=3 transferred,1.0,0.0
+main,20,SA tuned (ext),1.0,0.0
+main,20,Tabu,1.0,0.0
+main,20,Local search,1.0,0.0
+main,20,Random,1.0,0.0
+main,20,SDP,1.0,0.0
+main,20,QAOA p=2 transferred,1.0,0.0
+main,20,QAOA p=3 transferred,1.0,0.0
+main,21,SA tuned (ext),1.0,0.0
+main,21,Tabu,1.0,0.0
+main,21,Local search,1.0,0.0
+main,21,Random,0.0,0.01159269510779755
+main,21,SDP,1.0,0.0
+main,21,QAOA p=2 transferred,1.0,0.0
+main,21,QAOA p=3 transferred,1.0,0.0
+main,22,SA tuned (ext),1.0,0.0
+main,22,Tabu,1.0,0.0
+main,22,Local search,1.0,0.0
+main,22,Random,0.0,0.011474253099426115
+main,22,SDP,1.0,0.0
+main,22,QAOA p=2 transferred,1.0,0.0
+main,22,QAOA p=3 transferred,1.0,0.0
+main,23,SA tuned (ext),1.0,0.0
+main,23,Tabu,1.0,0.0
+main,23,Local search,1.0,0.0
+main,23,Random,0.0,0.0018786397430662466
+main,23,SDP,1.0,0.0
+main,23,QAOA p=2 transferred,1.0,0.0
+main,23,QAOA p=3 transferred,1.0,0.0
+main,24,SA tuned (ext),1.0,0.0
+main,24,Tabu,1.0,0.0
+main,24,Local search,1.0,0.0
+main,24,Random,1.0,0.0
+main,24,SDP,1.0,0.0
+main,24,QAOA p=2 transferred,1.0,0.0
+main,24,QAOA p=3 transferred,1.0,0.0
+main,25,SA tuned (ext),1.0,0.0
+main,25,Tabu,1.0,0.0
+main,25,Local search,1.0,0.0
+main,25,Random,1.0,0.0
+main,25,SDP,1.0,0.0
+main,25,QAOA p=2 transferred,1.0,0.0
+main,25,QAOA p=3 transferred,1.0,0.0
+main,26,SA tuned (ext),1.0,0.0
+main,26,Tabu,1.0,0.0
+main,26,Local search,1.0,0.0
+main,26,Random,1.0,0.0
+main,26,SDP,1.0,0.0
+main,26,QAOA p=2 transferred,1.0,0.0
+main,26,QAOA p=3 transferred,1.0,0.0
+main,27,SA tuned (ext),1.0,0.0
+main,27,Tabu,1.0,0.0
+main,27,Local search,1.0,0.0
+main,27,Random,1.0,0.0
+main,27,SDP,1.0,0.0
+main,27,QAOA p=2 transferred,1.0,0.0
+main,27,QAOA p=3 transferred,1.0,0.0
+main,28,SA tuned (ext),1.0,0.0
+main,28,Tabu,1.0,0.0
+main,28,Local search,1.0,0.0
+main,28,Random,1.0,0.0
+main,28,SDP,1.0,0.0
+main,28,QAOA p=2 transferred,1.0,0.0
+main,28,QAOA p=3 transferred,1.0,0.0
+main,29,SA tuned (ext),1.0,0.0
+main,29,Tabu,1.0,0.0
+main,29,Local search,1.0,0.0
+main,29,Random,1.0,0.0
+main,29,SDP,1.0,0.0
+main,29,QAOA p=2 transferred,1.0,0.0
+main,29,QAOA p=3 transferred,1.0,0.0
+main,30,SA tuned (ext),1.0,0.0
+main,30,Tabu,1.0,0.0
+main,30,Local search,1.0,0.0
+main,30,Random,1.0,0.0
+main,30,SDP,1.0,0.0
+main,30,QAOA p=2 transferred,1.0,0.0
+main,30,QAOA p=3 transferred,1.0,0.0
+main,31,SA tuned (ext),1.0,0.0
+main,31,Tabu,1.0,0.0
+main,31,Local search,1.0,0.0
+main,31,Random,1.0,0.0
+main,31,SDP,1.0,0.0
+main,31,QAOA p=2 transferred,1.0,0.0
+main,31,QAOA p=3 transferred,1.0,0.0
+main,32,SA tuned (ext),1.0,0.0
+main,32,Tabu,1.0,0.0
+main,32,Local search,1.0,0.0
+main,32,Random,1.0,0.0
+main,32,SDP,1.0,0.0
+main,32,QAOA p=2 transferred,1.0,0.0
+main,32,QAOA p=3 transferred,1.0,0.0
+main,33,SA tuned (ext),1.0,0.0
+main,33,Tabu,1.0,0.0
+main,33,Local search,1.0,0.0
+main,33,Random,1.0,0.0
+main,33,SDP,1.0,0.0
+main,33,QAOA p=2 transferred,1.0,0.0
+main,33,QAOA p=3 transferred,1.0,0.0
+main,34,SA tuned (ext),1.0,0.0
+main,34,Tabu,1.0,0.0
+main,34,Local search,1.0,0.0
+main,34,Random,1.0,0.0
+main,34,SDP,1.0,0.0
+main,34,QAOA p=2 transferred,1.0,0.0
+main,34,QAOA p=3 transferred,1.0,0.0
+main,35,SA tuned (ext),1.0,0.0
+main,35,Tabu,1.0,0.0
+main,35,Local search,1.0,0.0
+main,35,Random,1.0,0.0
+main,35,SDP,1.0,0.0
+main,35,QAOA p=2 transferred,1.0,0.0
+main,35,QAOA p=3 transferred,1.0,0.0
+main,36,SA tuned (ext),1.0,0.0
+main,36,Tabu,1.0,0.0
+main,36,Local search,1.0,0.0
+main,36,Random,1.0,0.0
+main,36,SDP,1.0,0.0
+main,36,QAOA p=2 transferred,1.0,0.0
+main,36,QAOA p=3 transferred,1.0,0.0
+main,37,SA tuned (ext),1.0,0.0
+main,37,Tabu,1.0,0.0
+main,37,Local search,1.0,0.0
+main,37,Random,0.0,0.06612806287144715
+main,37,SDP,1.0,0.0
+main,37,QAOA p=2 transferred,1.0,0.0
+main,37,QAOA p=3 transferred,1.0,0.0
+main,38,SA tuned (ext),1.0,0.0
+main,38,Tabu,1.0,0.0
+main,38,Local search,1.0,0.0
+main,38,Random,1.0,0.0
+main,38,SDP,1.0,0.0
+main,38,QAOA p=2 transferred,1.0,0.0
+main,38,QAOA p=3 transferred,1.0,0.0
+main,39,SA tuned (ext),1.0,0.0
+main,39,Tabu,1.0,0.0
+main,39,Local search,1.0,0.0
+main,39,Random,1.0,0.0
+main,39,SDP,1.0,0.0
+main,39,QAOA p=2 transferred,1.0,0.0
+main,39,QAOA p=3 transferred,1.0,0.0
+main,40,SA tuned (ext),1.0,0.0
+main,40,Tabu,1.0,0.0
+main,40,Local search,1.0,0.0
+main,40,Random,1.0,0.0
+main,40,SDP,1.0,0.0
+main,40,QAOA p=2 transferred,1.0,0.0
+main,40,QAOA p=3 transferred,1.0,0.0
+main,41,SA tuned (ext),1.0,0.0
+main,41,Tabu,1.0,0.0
+main,41,Local search,1.0,0.0
+main,41,Random,1.0,0.0
+main,41,SDP,1.0,0.0
+main,41,QAOA p=2 transferred,1.0,0.0
+main,41,QAOA p=3 transferred,1.0,0.0
+main,42,SA tuned (ext),1.0,0.0
+main,42,Tabu,1.0,0.0
+main,42,Local search,1.0,0.0
+main,42,Random,0.0,0.07208797178776935
+main,42,SDP,1.0,0.0
+main,42,QAOA p=2 transferred,1.0,0.0
+main,42,QAOA p=3 transferred,1.0,0.0
+main,43,SA tuned (ext),1.0,0.0
+main,43,Tabu,1.0,0.0
+main,43,Local search,1.0,0.0
+main,43,Random,1.0,0.0
+main,43,SDP,1.0,0.0
+main,43,QAOA p=2 transferred,1.0,0.0
+main,43,QAOA p=3 transferred,1.0,0.0
+main,44,SA tuned (ext),1.0,0.0
+main,44,Tabu,1.0,0.0
+main,44,Local search,1.0,0.0
+main,44,Random,0.0,0.0595757743338604
+main,44,SDP,1.0,0.0
+main,44,QAOA p=2 transferred,1.0,0.0
+main,44,QAOA p=3 transferred,1.0,0.0
+main,45,SA tuned (ext),1.0,0.0
+main,45,Tabu,1.0,0.0
+main,45,Local search,1.0,0.0
+main,45,Random,1.0,0.0
+main,45,SDP,1.0,0.0
+main,45,QAOA p=2 transferred,1.0,0.0
+main,45,QAOA p=3 transferred,1.0,0.0
+main,46,SA tuned (ext),1.0,0.0
+main,46,Tabu,1.0,0.0
+main,46,Local search,1.0,0.0
+main,46,Random,1.0,0.0
+main,46,SDP,1.0,0.0
+main,46,QAOA p=2 transferred,1.0,0.0
+main,46,QAOA p=3 transferred,1.0,0.0
+main,47,SA tuned (ext),1.0,0.0
+main,47,Tabu,1.0,0.0
+main,47,Local search,1.0,0.0
+main,47,Random,0.0,0.03242394543342701
+main,47,SDP,1.0,0.0
+main,47,QAOA p=2 transferred,1.0,0.0
+main,47,QAOA p=3 transferred,1.0,0.0
+main,48,SA tuned (ext),1.0,0.0
+main,48,Tabu,1.0,0.0
+main,48,Local search,1.0,0.0
+main,48,Random,1.0,0.0
+main,48,SDP,1.0,0.0
+main,48,QAOA p=2 transferred,1.0,0.0
+main,48,QAOA p=3 transferred,1.0,0.0
+main,49,SA tuned (ext),1.0,0.0
+main,49,Tabu,0.0,0.007280844011918372
+main,49,Local search,1.0,0.0
+main,49,Random,0.0,0.00728084401191814
+main,49,SDP,1.0,0.0
+main,49,QAOA p=2 transferred,1.0,0.0
+main,49,QAOA p=3 transferred,1.0,0.0
+main,50,SA tuned (ext),1.0,0.0
+main,50,Tabu,1.0,0.0
+main,50,Local search,1.0,0.0
+main,50,Random,1.0,0.0
+main,50,SDP,1.0,0.0
+main,50,QAOA p=2 transferred,1.0,0.0
+main,50,QAOA p=3 transferred,1.0,0.0
+main,51,SA tuned (ext),1.0,0.0
+main,51,Tabu,1.0,0.0
+main,51,Local search,1.0,0.0
+main,51,Random,1.0,0.0
+main,51,SDP,1.0,0.0
+main,51,QAOA p=2 transferred,1.0,0.0
+main,51,QAOA p=3 transferred,1.0,0.0
+main,52,SA tuned (ext),1.0,0.0
+main,52,Tabu,1.0,0.0
+main,52,Local search,1.0,0.0
+main,52,Random,0.0,0.045849748179328145
+main,52,SDP,1.0,0.0
+main,52,QAOA p=2 transferred,1.0,0.0
+main,52,QAOA p=3 transferred,1.0,0.0
+main,53,SA tuned (ext),1.0,0.0
+main,53,Tabu,1.0,0.0
+main,53,Local search,1.0,0.0
+main,53,Random,1.0,0.0
+main,53,SDP,1.0,0.0
+main,53,QAOA p=2 transferred,1.0,0.0
+main,53,QAOA p=3 transferred,1.0,0.0
+main,54,SA tuned (ext),1.0,0.0
+main,54,Tabu,1.0,0.0
+main,54,Local search,1.0,0.0
+main,54,Random,1.0,0.0
+main,54,SDP,1.0,0.0
+main,54,QAOA p=2 transferred,1.0,0.0
+main,54,QAOA p=3 transferred,1.0,0.0
+main,55,SA tuned (ext),1.0,0.0
+main,55,Tabu,1.0,0.0
+main,55,Local search,1.0,0.0
+main,55,Random,0.0,0.006014078753228157
+main,55,SDP,1.0,0.0
+main,55,QAOA p=2 transferred,1.0,0.0
+main,55,QAOA p=3 transferred,1.0,0.0
+main,56,SA tuned (ext),1.0,0.0
+main,56,Tabu,1.0,0.0
+main,56,Local search,1.0,0.0
+main,56,Random,0.0,0.014017553984979624
+main,56,SDP,0.0,0.014017553984979716
+main,56,QAOA p=2 transferred,1.0,0.0
+main,56,QAOA p=3 transferred,1.0,0.0
+main,57,SA tuned (ext),1.0,0.0
+main,57,Tabu,1.0,0.0
+main,57,Local search,1.0,0.0
+main,57,Random,1.0,0.0
+main,57,SDP,1.0,0.0
+main,57,QAOA p=2 transferred,1.0,0.0
+main,57,QAOA p=3 transferred,1.0,0.0
+main,58,SA tuned (ext),1.0,0.0
+main,58,Tabu,1.0,0.0
+main,58,Local search,1.0,0.0
+main,58,Random,1.0,0.0
+main,58,SDP,1.0,0.0
+main,58,QAOA p=2 transferred,1.0,0.0
+main,58,QAOA p=3 transferred,1.0,0.0
+main,59,SA tuned (ext),1.0,0.0
+main,59,Tabu,1.0,0.0
+main,59,Local search,1.0,0.0
+main,59,Random,1.0,0.0
+main,59,SDP,1.0,0.0
+main,59,QAOA p=2 transferred,1.0,0.0
+main,59,QAOA p=3 transferred,1.0,0.0
+main,60,SA tuned (ext),1.0,0.0
+main,60,Tabu,1.0,0.0
+main,60,Local search,1.0,0.0
+main,60,Random,1.0,0.0
+main,60,SDP,1.0,0.0
+main,60,QAOA p=2 transferred,1.0,0.0
+main,60,QAOA p=3 transferred,1.0,0.0
+main,61,SA tuned (ext),1.0,0.0
+main,61,Tabu,1.0,0.0
+main,61,Local search,1.0,0.0
+main,61,Random,1.0,0.0
+main,61,SDP,1.0,0.0
+main,61,QAOA p=2 transferred,1.0,0.0
+main,61,QAOA p=3 transferred,1.0,0.0
+main,62,SA tuned (ext),1.0,0.0
+main,62,Tabu,1.0,0.0
+main,62,Local search,1.0,0.0
+main,62,Random,1.0,0.0
+main,62,SDP,1.0,0.0
+main,62,QAOA p=2 transferred,1.0,0.0
+main,62,QAOA p=3 transferred,1.0,0.0
+main,63,SA tuned (ext),1.0,0.0
+main,63,Tabu,1.0,0.0
+main,63,Local search,1.0,0.0
+main,63,Random,1.0,0.0
+main,63,SDP,1.0,0.0
+main,63,QAOA p=2 transferred,1.0,0.0
+main,63,QAOA p=3 transferred,1.0,0.0
+main,64,SA tuned (ext),1.0,0.0
+main,64,Tabu,1.0,0.0
+main,64,Local search,1.0,0.0
+main,64,Random,1.0,0.0
+main,64,SDP,1.0,0.0
+main,64,QAOA p=2 transferred,1.0,0.0
+main,64,QAOA p=3 transferred,1.0,0.0
+main,65,SA tuned (ext),1.0,0.0
+main,65,Tabu,1.0,0.0
+main,65,Local search,1.0,0.0
+main,65,Random,1.0,0.0
+main,65,SDP,1.0,0.0
+main,65,QAOA p=2 transferred,1.0,0.0
+main,65,QAOA p=3 transferred,1.0,0.0
+main,66,SA tuned (ext),1.0,0.0
+main,66,Tabu,1.0,0.0
+main,66,Local search,1.0,0.0
+main,66,Random,1.0,0.0
+main,66,SDP,1.0,0.0
+main,66,QAOA p=2 transferred,1.0,0.0
+main,66,QAOA p=3 transferred,1.0,0.0
+main,67,SA tuned (ext),1.0,0.0
+main,67,Tabu,1.0,0.0
+main,67,Local search,1.0,0.0
+main,67,Random,1.0,0.0
+main,67,SDP,1.0,0.0
+main,67,QAOA p=2 transferred,1.0,0.0
+main,67,QAOA p=3 transferred,1.0,0.0
+main,68,SA tuned (ext),1.0,0.0
+main,68,Tabu,1.0,0.0
+main,68,Local search,1.0,0.0
+main,68,Random,1.0,0.0
+main,68,SDP,1.0,0.0
+main,68,QAOA p=2 transferred,1.0,0.0
+main,68,QAOA p=3 transferred,1.0,0.0
+main,69,SA tuned (ext),1.0,0.0
+main,69,Tabu,1.0,0.0
+main,69,Local search,1.0,0.0
+main,69,Random,1.0,0.0
+main,69,SDP,1.0,0.0
+main,69,QAOA p=2 transferred,1.0,0.0
+main,69,QAOA p=3 transferred,1.0,0.0
+main,70,SA tuned (ext),1.0,0.0
+main,70,Tabu,1.0,0.0
+main,70,Local search,1.0,0.0
+main,70,Random,1.0,0.0
+main,70,SDP,1.0,0.0
+main,70,QAOA p=2 transferred,1.0,0.0
+main,70,QAOA p=3 transferred,1.0,0.0
+main,71,SA tuned (ext),1.0,0.0
+main,71,Tabu,1.0,0.0
+main,71,Local search,1.0,0.0
+main,71,Random,1.0,0.0
+main,71,SDP,1.0,0.0
+main,71,QAOA p=2 transferred,1.0,0.0
+main,71,QAOA p=3 transferred,1.0,0.0
+main,72,SA tuned (ext),1.0,0.0
+main,72,Tabu,1.0,0.0
+main,72,Local search,1.0,0.0
+main,72,Random,0.0,0.09045614871541725
+main,72,SDP,1.0,0.0
+main,72,QAOA p=2 transferred,1.0,0.0
+main,72,QAOA p=3 transferred,1.0,0.0
+main,73,SA tuned (ext),1.0,0.0
+main,73,Tabu,1.0,0.0
+main,73,Local search,1.0,0.0
+main,73,Random,1.0,0.0
+main,73,SDP,1.0,0.0
+main,73,QAOA p=2 transferred,1.0,0.0
+main,73,QAOA p=3 transferred,1.0,0.0
+main,74,SA tuned (ext),1.0,0.0
+main,74,Tabu,1.0,0.0
+main,74,Local search,1.0,0.0
+main,74,Random,1.0,0.0
+main,74,SDP,1.0,0.0
+main,74,QAOA p=2 transferred,1.0,0.0
+main,74,QAOA p=3 transferred,1.0,0.0
+main,75,SA tuned (ext),1.0,0.0
+main,75,Tabu,1.0,0.0
+main,75,Local search,1.0,0.0
+main,75,Random,1.0,0.0
+main,75,SDP,1.0,0.0
+main,75,QAOA p=2 transferred,1.0,0.0
+main,75,QAOA p=3 transferred,1.0,0.0
+main,76,SA tuned (ext),1.0,0.0
+main,76,Tabu,1.0,0.0
+main,76,Local search,1.0,0.0
+main,76,Random,1.0,0.0
+main,76,SDP,1.0,0.0
+main,76,QAOA p=2 transferred,1.0,0.0
+main,76,QAOA p=3 transferred,1.0,0.0
+main,77,SA tuned (ext),1.0,0.0
+main,77,Tabu,1.0,0.0
+main,77,Local search,1.0,0.0
+main,77,Random,1.0,0.0
+main,77,SDP,1.0,0.0
+main,77,QAOA p=2 transferred,1.0,0.0
+main,77,QAOA p=3 transferred,1.0,0.0
+main,78,SA tuned (ext),1.0,0.0
+main,78,Tabu,1.0,0.0
+main,78,Local search,1.0,0.0
+main,78,Random,1.0,0.0
+main,78,SDP,1.0,0.0
+main,78,QAOA p=2 transferred,1.0,0.0
+main,78,QAOA p=3 transferred,1.0,0.0
+main,79,SA tuned (ext),1.0,0.0
+main,79,Tabu,1.0,0.0
+main,79,Local search,1.0,0.0
+main,79,Random,1.0,0.0
+main,79,SDP,1.0,0.0
+main,79,QAOA p=2 transferred,1.0,0.0
+main,79,QAOA p=3 transferred,1.0,0.0
+Wishart,0,SA tuned (ext),1.0,0.0
+Wishart,0,Tabu,1.0,0.0
+Wishart,0,Local search,1.0,0.0
+Wishart,0,Random,0.0,0.01717063507649519
+Wishart,0,SDP,1.0,0.0
+Wishart,0,QAOA p=2 transferred,1.0,0.0
+Wishart,0,QAOA p=3 transferred,1.0,0.0
+Wishart,1,SA tuned (ext),1.0,0.0
+Wishart,1,Tabu,0.0,0.017946415114354623
+Wishart,1,Local search,1.0,0.0
+Wishart,1,Random,1.0,0.0
+Wishart,1,SDP,1.0,0.0
+Wishart,1,QAOA p=2 transferred,1.0,0.0
+Wishart,1,QAOA p=3 transferred,1.0,0.0
+Wishart,2,SA tuned (ext),1.0,0.0
+Wishart,2,Tabu,0.0,0.09193514278438385
+Wishart,2,Local search,1.0,0.0
+Wishart,2,Random,1.0,0.0
+Wishart,2,SDP,1.0,0.0
+Wishart,2,QAOA p=2 transferred,1.0,0.0
+Wishart,2,QAOA p=3 transferred,1.0,0.0
+Wishart,3,SA tuned (ext),1.0,0.0
+Wishart,3,Tabu,0.0,0.030784261424072173
+Wishart,3,Local search,1.0,0.0
+Wishart,3,Random,1.0,0.0
+Wishart,3,SDP,1.0,0.0
+Wishart,3,QAOA p=2 transferred,1.0,0.0
+Wishart,3,QAOA p=3 transferred,1.0,0.0
+Wishart,4,SA tuned (ext),1.0,0.0
+Wishart,4,Tabu,1.0,0.0
+Wishart,4,Local search,1.0,0.0
+Wishart,4,Random,1.0,0.0
+Wishart,4,SDP,1.0,0.0
+Wishart,4,QAOA p=2 transferred,1.0,0.0
+Wishart,4,QAOA p=3 transferred,1.0,0.0
+Wishart,5,SA tuned (ext),1.0,0.0
+Wishart,5,Tabu,1.0,0.0
+Wishart,5,Local search,1.0,0.0
+Wishart,5,Random,1.0,0.0
+Wishart,5,SDP,1.0,0.0
+Wishart,5,QAOA p=2 transferred,1.0,0.0
+Wishart,5,QAOA p=3 transferred,1.0,0.0
+Wishart,6,SA tuned (ext),1.0,0.0
+Wishart,6,Tabu,1.0,0.0
+Wishart,6,Local search,1.0,0.0
+Wishart,6,Random,1.0,0.0
+Wishart,6,SDP,1.0,0.0
+Wishart,6,QAOA p=2 transferred,1.0,0.0
+Wishart,6,QAOA p=3 transferred,1.0,0.0
+Wishart,7,SA tuned (ext),1.0,0.0
+Wishart,7,Tabu,0.0,0.05906698077166662
+Wishart,7,Local search,1.0,0.0
+Wishart,7,Random,1.0,0.0
+Wishart,7,SDP,1.0,0.0
+Wishart,7,QAOA p=2 transferred,1.0,0.0
+Wishart,7,QAOA p=3 transferred,1.0,0.0
+Wishart,8,SA tuned (ext),1.0,0.0
+Wishart,8,Tabu,0.0,0.021250668031097188
+Wishart,8,Local search,1.0,0.0
+Wishart,8,Random,1.0,0.0
+Wishart,8,SDP,0.0,0.021250668031096986
+Wishart,8,QAOA p=2 transferred,1.0,0.0
+Wishart,8,QAOA p=3 transferred,1.0,0.0
+Wishart,9,SA tuned (ext),1.0,0.0
+Wishart,9,Tabu,0.0,0.09101816680227594
+Wishart,9,Local search,1.0,0.0
+Wishart,9,Random,1.0,0.0
+Wishart,9,SDP,1.0,0.0
+Wishart,9,QAOA p=2 transferred,1.0,0.0
+Wishart,9,QAOA p=3 transferred,1.0,0.0
+Wishart,10,SA tuned (ext),1.0,0.0
+Wishart,10,Tabu,0.0,0.029776952265643926
+Wishart,10,Local search,1.0,0.0
+Wishart,10,Random,1.0,0.0
+Wishart,10,SDP,1.0,0.0
+Wishart,10,QAOA p=2 transferred,1.0,0.0
+Wishart,10,QAOA p=3 transferred,1.0,0.0
+Wishart,11,SA tuned (ext),1.0,0.0
+Wishart,11,Tabu,0.0,0.0502575113719315
+Wishart,11,Local search,1.0,0.0
+Wishart,11,Random,1.0,0.0
+Wishart,11,SDP,1.0,0.0
+Wishart,11,QAOA p=2 transferred,1.0,0.0
+Wishart,11,QAOA p=3 transferred,1.0,0.0
+Wishart,12,SA tuned (ext),1.0,0.0
+Wishart,12,Tabu,0.0,0.08709850009111021
+Wishart,12,Local search,1.0,0.0
+Wishart,12,Random,0.0,0.02644867898630256
+Wishart,12,SDP,1.0,0.0
+Wishart,12,QAOA p=2 transferred,1.0,0.0
+Wishart,12,QAOA p=3 transferred,1.0,0.0
+Wishart,13,SA tuned (ext),1.0,0.0
+Wishart,13,Tabu,0.0,0.00980190318282035
+Wishart,13,Local search,1.0,0.0
+Wishart,13,Random,1.0,0.0
+Wishart,13,SDP,1.0,0.0
+Wishart,13,QAOA p=2 transferred,1.0,0.0
+Wishart,13,QAOA p=3 transferred,1.0,0.0
+Wishart,14,SA tuned (ext),1.0,0.0
+Wishart,14,Tabu,0.0,0.051421439587025136
+Wishart,14,Local search,1.0,0.0
+Wishart,14,Random,1.0,0.0
+Wishart,14,SDP,1.0,0.0
+Wishart,14,QAOA p=2 transferred,1.0,0.0
+Wishart,14,QAOA p=3 transferred,1.0,0.0
+Wishart,15,SA tuned (ext),1.0,0.0
+Wishart,15,Tabu,1.0,0.0
+Wishart,15,Local search,1.0,0.0
+Wishart,15,Random,1.0,0.0
+Wishart,15,SDP,1.0,0.0
+Wishart,15,QAOA p=2 transferred,1.0,0.0
+Wishart,15,QAOA p=3 transferred,1.0,0.0
+Wishart,16,SA tuned (ext),1.0,0.0
+Wishart,16,Tabu,1.0,0.0
+Wishart,16,Local search,1.0,0.0
+Wishart,16,Random,1.0,0.0
+Wishart,16,SDP,1.0,0.0
+Wishart,16,QAOA p=2 transferred,1.0,0.0
+Wishart,16,QAOA p=3 transferred,1.0,0.0
+Wishart,17,SA tuned (ext),1.0,0.0
+Wishart,17,Tabu,0.0,0.0834735833670774
+Wishart,17,Local search,1.0,0.0
+Wishart,17,Random,1.0,0.0
+Wishart,17,SDP,1.0,0.0
+Wishart,17,QAOA p=2 transferred,1.0,0.0
+Wishart,17,QAOA p=3 transferred,1.0,0.0
+Wishart,18,SA tuned (ext),1.0,0.0
+Wishart,18,Tabu,0.0,0.012057767189193247
+Wishart,18,Local search,1.0,0.0
+Wishart,18,Random,1.0,0.0
+Wishart,18,SDP,1.0,0.0
+Wishart,18,QAOA p=2 transferred,1.0,0.0
+Wishart,18,QAOA p=3 transferred,1.0,0.0
+Wishart,19,SA tuned (ext),1.0,0.0
+Wishart,19,Tabu,1.0,0.0
+Wishart,19,Local search,1.0,0.0
+Wishart,19,Random,1.0,0.0
+Wishart,19,SDP,0.0,0.04808197260631316
+Wishart,19,QAOA p=2 transferred,1.0,0.0
+Wishart,19,QAOA p=3 transferred,1.0,0.0
+Wishart,20,SA tuned (ext),1.0,0.0
+Wishart,20,Tabu,0.0,0.0769637518638012
+Wishart,20,Local search,1.0,0.0
+Wishart,20,Random,1.0,0.0
+Wishart,20,SDP,0.0,0.11517285133708802
+Wishart,20,QAOA p=2 transferred,1.0,0.0
+Wishart,20,QAOA p=3 transferred,1.0,0.0
+Wishart,21,SA tuned (ext),1.0,0.0
+Wishart,21,Tabu,0.0,0.014927842187278247
+Wishart,21,Local search,1.0,0.0
+Wishart,21,Random,1.0,0.0
+Wishart,21,SDP,1.0,0.0
+Wishart,21,QAOA p=2 transferred,1.0,0.0
+Wishart,21,QAOA p=3 transferred,1.0,0.0
+Wishart,22,SA tuned (ext),0.0,0.005106418949495359
+Wishart,22,Tabu,0.0,0.018767771899295474
+Wishart,22,Local search,1.0,0.0
+Wishart,22,Random,1.0,0.0
+Wishart,22,SDP,0.0,0.018767771899295654
+Wishart,22,QAOA p=2 transferred,1.0,0.0
+Wishart,22,QAOA p=3 transferred,1.0,0.0
+Wishart,23,SA tuned (ext),1.0,0.0
+Wishart,23,Tabu,0.0,0.05395742539577727
+Wishart,23,Local search,1.0,0.0
+Wishart,23,Random,1.0,0.0
+Wishart,23,SDP,1.0,0.0
+Wishart,23,QAOA p=2 transferred,1.0,0.0
+Wishart,23,QAOA p=3 transferred,1.0,0.0
+Wishart,24,SA tuned (ext),1.0,0.0
+Wishart,24,Tabu,0.0,0.1088646972784975
+Wishart,24,Local search,1.0,0.0
+Wishart,24,Random,1.0,0.0
+Wishart,24,SDP,1.0,0.0
+Wishart,24,QAOA p=2 transferred,1.0,0.0
+Wishart,24,QAOA p=3 transferred,1.0,0.0
+Wishart,25,SA tuned (ext),1.0,0.0
+Wishart,25,Tabu,0.0,0.02335226068417915
+Wishart,25,Local search,1.0,0.0
+Wishart,25,Random,1.0,0.0
+Wishart,25,SDP,1.0,0.0
+Wishart,25,QAOA p=2 transferred,1.0,0.0
+Wishart,25,QAOA p=3 transferred,1.0,0.0
+Wishart,26,SA tuned (ext),1.0,0.0
+Wishart,26,Tabu,0.0,0.060994473865961955
+Wishart,26,Local search,1.0,0.0
+Wishart,26,Random,1.0,0.0
+Wishart,26,SDP,1.0,0.0
+Wishart,26,QAOA p=2 transferred,1.0,0.0
+Wishart,26,QAOA p=3 transferred,1.0,0.0
+Wishart,27,SA tuned (ext),1.0,0.0
+Wishart,27,Tabu,1.0,0.0
+Wishart,27,Local search,1.0,0.0
+Wishart,27,Random,1.0,0.0
+Wishart,27,SDP,0.0,0.05445016088167008
+Wishart,27,QAOA p=2 transferred,1.0,0.0
+Wishart,27,QAOA p=3 transferred,1.0,0.0
+Wishart,28,SA tuned (ext),1.0,0.0
+Wishart,28,Tabu,0.0,0.06350166488869033
+Wishart,28,Local search,1.0,0.0
+Wishart,28,Random,0.0,0.055408317089705596
+Wishart,28,SDP,1.0,0.0
+Wishart,28,QAOA p=2 transferred,1.0,0.0
+Wishart,28,QAOA p=3 transferred,1.0,0.0
+Wishart,29,SA tuned (ext),1.0,0.0
+Wishart,29,Tabu,0.0,0.07609100525216822
+Wishart,29,Local search,1.0,0.0
+Wishart,29,Random,1.0,0.0
+Wishart,29,SDP,0.0,0.09057806901583197
+Wishart,29,QAOA p=2 transferred,1.0,0.0
+Wishart,29,QAOA p=3 transferred,1.0,0.0
+Wishart,30,SA tuned (ext),1.0,0.0
+Wishart,30,Tabu,0.0,0.035559924713688816
+Wishart,30,Local search,1.0,0.0
+Wishart,30,Random,1.0,0.0
+Wishart,30,SDP,1.0,0.0
+Wishart,30,QAOA p=2 transferred,1.0,0.0
+Wishart,30,QAOA p=3 transferred,1.0,0.0
+Wishart,31,SA tuned (ext),1.0,0.0
+Wishart,31,Tabu,0.0,0.00010789392015032503
+Wishart,31,Local search,1.0,0.0
+Wishart,31,Random,1.0,0.0
+Wishart,31,SDP,0.0,0.0001078939201508979
+Wishart,31,QAOA p=2 transferred,1.0,0.0
+Wishart,31,QAOA p=3 transferred,1.0,0.0
+Wishart,32,SA tuned (ext),1.0,0.0
+Wishart,32,Tabu,1.0,0.0
+Wishart,32,Local search,1.0,0.0
+Wishart,32,Random,1.0,0.0
+Wishart,32,SDP,0.0,0.07385483869995352
+Wishart,32,QAOA p=2 transferred,1.0,0.0
+Wishart,32,QAOA p=3 transferred,1.0,0.0
+Wishart,33,SA tuned (ext),1.0,0.0
+Wishart,33,Tabu,0.0,0.038428363503995214
+Wishart,33,Local search,1.0,0.0
+Wishart,33,Random,1.0,0.0
+Wishart,33,SDP,1.0,0.0
+Wishart,33,QAOA p=2 transferred,1.0,0.0
+Wishart,33,QAOA p=3 transferred,1.0,0.0
+Wishart,34,SA tuned (ext),1.0,0.0
+Wishart,34,Tabu,0.0,0.044062280961000386
+Wishart,34,Local search,1.0,0.0
+Wishart,34,Random,1.0,0.0
+Wishart,34,SDP,1.0,0.0
+Wishart,34,QAOA p=2 transferred,1.0,0.0
+Wishart,34,QAOA p=3 transferred,1.0,0.0
+Wishart,35,SA tuned (ext),1.0,0.0
+Wishart,35,Tabu,0.0,0.0006642020280415308
+Wishart,35,Local search,1.0,0.0
+Wishart,35,Random,1.0,0.0
+Wishart,35,SDP,0.0,0.000664202028041704
+Wishart,35,QAOA p=2 transferred,1.0,0.0
+Wishart,35,QAOA p=3 transferred,1.0,0.0
+Wishart,36,SA tuned (ext),1.0,0.0
+Wishart,36,Tabu,1.0,0.0
+Wishart,36,Local search,1.0,0.0
+Wishart,36,Random,1.0,0.0
+Wishart,36,SDP,0.0,0.08605821889237861
+Wishart,36,QAOA p=2 transferred,1.0,0.0
+Wishart,36,QAOA p=3 transferred,1.0,0.0
+Wishart,37,SA tuned (ext),1.0,0.0
+Wishart,37,Tabu,0.0,0.026781018439251417
+Wishart,37,Local search,1.0,0.0
+Wishart,37,Random,1.0,0.0
+Wishart,37,SDP,1.0,0.0
+Wishart,37,QAOA p=2 transferred,1.0,0.0
+Wishart,37,QAOA p=3 transferred,1.0,0.0
+Wishart,38,SA tuned (ext),1.0,0.0
+Wishart,38,Tabu,0.0,0.00907404959818958
+Wishart,38,Local search,1.0,0.0
+Wishart,38,Random,1.0,0.0
+Wishart,38,SDP,1.0,0.0
+Wishart,38,QAOA p=2 transferred,1.0,0.0
+Wishart,38,QAOA p=3 transferred,1.0,0.0
+Wishart,39,SA tuned (ext),1.0,0.0
+Wishart,39,Tabu,1.0,0.0
+Wishart,39,Local search,1.0,0.0
+Wishart,39,Random,1.0,0.0
+Wishart,39,SDP,1.0,0.0
+Wishart,39,QAOA p=2 transferred,1.0,0.0
+Wishart,39,QAOA p=3 transferred,1.0,0.0
+Wishart,40,SA tuned (ext),1.0,0.0
+Wishart,40,Tabu,1.0,0.0
+Wishart,40,Local search,1.0,0.0
+Wishart,40,Random,1.0,0.0
+Wishart,40,SDP,1.0,0.0
+Wishart,40,QAOA p=2 transferred,1.0,0.0
+Wishart,40,QAOA p=3 transferred,1.0,0.0
+Wishart,41,SA tuned (ext),1.0,0.0
+Wishart,41,Tabu,0.0,0.02328982493968282
+Wishart,41,Local search,1.0,0.0
+Wishart,41,Random,1.0,0.0
+Wishart,41,SDP,0.0,0.04760009155095338
+Wishart,41,QAOA p=2 transferred,1.0,0.0
+Wishart,41,QAOA p=3 transferred,1.0,0.0
+Wishart,42,SA tuned (ext),1.0,0.0
+Wishart,42,Tabu,0.0,0.022296212971647515
+Wishart,42,Local search,1.0,0.0
+Wishart,42,Random,1.0,0.0
+Wishart,42,SDP,0.0,0.015540724075670358
+Wishart,42,QAOA p=2 transferred,1.0,0.0
+Wishart,42,QAOA p=3 transferred,1.0,0.0
+Wishart,43,SA tuned (ext),1.0,0.0
+Wishart,43,Tabu,0.0,0.045593547158947895
+Wishart,43,Local search,1.0,0.0
+Wishart,43,Random,1.0,0.0
+Wishart,43,SDP,1.0,0.0
+Wishart,43,QAOA p=2 transferred,1.0,0.0
+Wishart,43,QAOA p=3 transferred,1.0,0.0
+Wishart,44,SA tuned (ext),1.0,0.0
+Wishart,44,Tabu,1.0,0.0
+Wishart,44,Local search,1.0,0.0
+Wishart,44,Random,1.0,0.0
+Wishart,44,SDP,1.0,0.0
+Wishart,44,QAOA p=2 transferred,1.0,0.0
+Wishart,44,QAOA p=3 transferred,1.0,0.0
+Wishart,45,SA tuned (ext),1.0,0.0
+Wishart,45,Tabu,0.0,0.05280740861550365
+Wishart,45,Local search,1.0,0.0
+Wishart,45,Random,1.0,0.0
+Wishart,45,SDP,1.0,0.0
+Wishart,45,QAOA p=2 transferred,1.0,0.0
+Wishart,45,QAOA p=3 transferred,1.0,0.0
+Wishart,46,SA tuned (ext),1.0,0.0
+Wishart,46,Tabu,0.0,0.11613752939421632
+Wishart,46,Local search,1.0,0.0
+Wishart,46,Random,0.0,0.001108868144411062
+Wishart,46,SDP,1.0,0.0
+Wishart,46,QAOA p=2 transferred,1.0,0.0
+Wishart,46,QAOA p=3 transferred,1.0,0.0
+Wishart,47,SA tuned (ext),1.0,0.0
+Wishart,47,Tabu,1.0,0.0
+Wishart,47,Local search,1.0,0.0
+Wishart,47,Random,1.0,0.0
+Wishart,47,SDP,0.0,0.001518204233552186
+Wishart,47,QAOA p=2 transferred,1.0,0.0
+Wishart,47,QAOA p=3 transferred,1.0,0.0
+Wishart,48,SA tuned (ext),1.0,0.0
+Wishart,48,Tabu,0.0,0.059786381601369835
+Wishart,48,Local search,1.0,0.0
+Wishart,48,Random,0.0,0.059786381601369835
+Wishart,48,SDP,1.0,0.0
+Wishart,48,QAOA p=2 transferred,1.0,0.0
+Wishart,48,QAOA p=3 transferred,1.0,0.0
+Wishart,49,SA tuned (ext),1.0,0.0
+Wishart,49,Tabu,0.0,0.06374637107229345
+Wishart,49,Local search,1.0,0.0
+Wishart,49,Random,1.0,0.0
+Wishart,49,SDP,1.0,0.0
+Wishart,49,QAOA p=2 transferred,1.0,0.0
+Wishart,49,QAOA p=3 transferred,1.0,0.0
+Wishart,50,SA tuned (ext),0.0,0.023571321905975596
+Wishart,50,Tabu,0.0,0.06721115295774364
+Wishart,50,Local search,1.0,0.0
+Wishart,50,Random,1.0,0.0
+Wishart,50,SDP,1.0,0.0
+Wishart,50,QAOA p=2 transferred,1.0,0.0
+Wishart,50,QAOA p=3 transferred,1.0,0.0
+Wishart,51,SA tuned (ext),1.0,0.0
+Wishart,51,Tabu,0.0,0.026272953735957283
+Wishart,51,Local search,1.0,0.0
+Wishart,51,Random,1.0,0.0
+Wishart,51,SDP,1.0,0.0
+Wishart,51,QAOA p=2 transferred,1.0,0.0
+Wishart,51,QAOA p=3 transferred,1.0,0.0
+Wishart,52,SA tuned (ext),1.0,0.0
+Wishart,52,Tabu,0.0,0.013345413397951448
+Wishart,52,Local search,1.0,0.0
+Wishart,52,Random,1.0,0.0
+Wishart,52,SDP,1.0,0.0
+Wishart,52,QAOA p=2 transferred,1.0,0.0
+Wishart,52,QAOA p=3 transferred,1.0,0.0
+Wishart,53,SA tuned (ext),1.0,0.0
+Wishart,53,Tabu,0.0,0.07609896359639609
+Wishart,53,Local search,1.0,0.0
+Wishart,53,Random,1.0,0.0
+Wishart,53,SDP,1.0,0.0
+Wishart,53,QAOA p=2 transferred,1.0,0.0
+Wishart,53,QAOA p=3 transferred,1.0,0.0
+Wishart,54,SA tuned (ext),1.0,0.0
+Wishart,54,Tabu,0.0,0.09555089264186353
+Wishart,54,Local search,1.0,0.0
+Wishart,54,Random,1.0,0.0
+Wishart,54,SDP,1.0,0.0
+Wishart,54,QAOA p=2 transferred,1.0,0.0
+Wishart,54,QAOA p=3 transferred,1.0,0.0
+Wishart,55,SA tuned (ext),1.0,0.0
+Wishart,55,Tabu,0.0,0.10564438205885898
+Wishart,55,Local search,1.0,0.0
+Wishart,55,Random,1.0,0.0
+Wishart,55,SDP,1.0,0.0
+Wishart,55,QAOA p=2 transferred,1.0,0.0
+Wishart,55,QAOA p=3 transferred,1.0,0.0
+Wishart,56,SA tuned (ext),1.0,0.0
+Wishart,56,Tabu,1.0,0.0
+Wishart,56,Local search,1.0,0.0
+Wishart,56,Random,1.0,0.0
+Wishart,56,SDP,1.0,0.0
+Wishart,56,QAOA p=2 transferred,1.0,0.0
+Wishart,56,QAOA p=3 transferred,1.0,0.0
+Wishart,57,SA tuned (ext),1.0,0.0
+Wishart,57,Tabu,1.0,0.0
+Wishart,57,Local search,1.0,0.0
+Wishart,57,Random,1.0,0.0
+Wishart,57,SDP,1.0,0.0
+Wishart,57,QAOA p=2 transferred,1.0,0.0
+Wishart,57,QAOA p=3 transferred,1.0,0.0
+Wishart,58,SA tuned (ext),1.0,0.0
+Wishart,58,Tabu,0.0,0.03259195657293925
+Wishart,58,Local search,1.0,0.0
+Wishart,58,Random,1.0,0.0
+Wishart,58,SDP,1.0,0.0
+Wishart,58,QAOA p=2 transferred,1.0,0.0
+Wishart,58,QAOA p=3 transferred,1.0,0.0
+Wishart,59,SA tuned (ext),1.0,0.0
+Wishart,59,Tabu,0.0,0.010516365812791488
+Wishart,59,Local search,1.0,0.0
+Wishart,59,Random,1.0,0.0
+Wishart,59,SDP,0.0,0.05107195944811121
+Wishart,59,QAOA p=2 transferred,1.0,0.0
+Wishart,59,QAOA p=3 transferred,1.0,0.0
+Wishart,60,SA tuned (ext),1.0,0.0
+Wishart,60,Tabu,1.0,0.0
+Wishart,60,Local search,1.0,0.0
+Wishart,60,Random,0.0,0.041342775571759936
+Wishart,60,SDP,1.0,0.0
+Wishart,60,QAOA p=2 transferred,1.0,0.0
+Wishart,60,QAOA p=3 transferred,1.0,0.0
+Wishart,61,SA tuned (ext),1.0,0.0
+Wishart,61,Tabu,0.0,0.08923061141475316
+Wishart,61,Local search,1.0,0.0
+Wishart,61,Random,1.0,0.0
+Wishart,61,SDP,1.0,0.0
+Wishart,61,QAOA p=2 transferred,1.0,0.0
+Wishart,61,QAOA p=3 transferred,1.0,0.0
+Wishart,62,SA tuned (ext),1.0,0.0
+Wishart,62,Tabu,0.0,0.0716586622316796
+Wishart,62,Local search,1.0,0.0
+Wishart,62,Random,1.0,0.0
+Wishart,62,SDP,1.0,0.0
+Wishart,62,QAOA p=2 transferred,1.0,0.0
+Wishart,62,QAOA p=3 transferred,1.0,0.0
+Wishart,63,SA tuned (ext),1.0,0.0
+Wishart,63,Tabu,1.0,0.0
+Wishart,63,Local search,1.0,0.0
+Wishart,63,Random,0.0,0.012280633695211653
+Wishart,63,SDP,0.0,0.012281279516332151
+Wishart,63,QAOA p=2 transferred,1.0,0.0
+Wishart,63,QAOA p=3 transferred,1.0,0.0
+Wishart,64,SA tuned (ext),1.0,0.0
+Wishart,64,Tabu,0.0,0.00017692878927556846
+Wishart,64,Local search,1.0,0.0
+Wishart,64,Random,1.0,0.0
+Wishart,64,SDP,1.0,0.0
+Wishart,64,QAOA p=2 transferred,1.0,0.0
+Wishart,64,QAOA p=3 transferred,1.0,0.0
+Wishart,65,SA tuned (ext),1.0,0.0
+Wishart,65,Tabu,0.0,0.028864496115965286
+Wishart,65,Local search,1.0,0.0
+Wishart,65,Random,0.0,0.028864496115965286
+Wishart,65,SDP,1.0,0.0
+Wishart,65,QAOA p=2 transferred,1.0,0.0
+Wishart,65,QAOA p=3 transferred,1.0,0.0
+Wishart,66,SA tuned (ext),1.0,0.0
+Wishart,66,Tabu,0.0,0.003437602627640123
+Wishart,66,Local search,1.0,0.0
+Wishart,66,Random,1.0,0.0
+Wishart,66,SDP,1.0,0.0
+Wishart,66,QAOA p=2 transferred,1.0,0.0
+Wishart,66,QAOA p=3 transferred,1.0,0.0
+Wishart,67,SA tuned (ext),1.0,0.0
+Wishart,67,Tabu,0.0,0.05119951254684625
+Wishart,67,Local search,1.0,0.0
+Wishart,67,Random,0.0,0.018848646456400827
+Wishart,67,SDP,1.0,0.0
+Wishart,67,QAOA p=2 transferred,1.0,0.0
+Wishart,67,QAOA p=3 transferred,1.0,0.0
+Wishart,68,SA tuned (ext),1.0,0.0
+Wishart,68,Tabu,0.0,0.06351953121211378
+Wishart,68,Local search,1.0,0.0
+Wishart,68,Random,1.0,0.0
+Wishart,68,SDP,1.0,0.0
+Wishart,68,QAOA p=2 transferred,1.0,0.0
+Wishart,68,QAOA p=3 transferred,1.0,0.0
+Wishart,69,SA tuned (ext),1.0,0.0
+Wishart,69,Tabu,0.0,0.002113511971791248
+Wishart,69,Local search,1.0,0.0
+Wishart,69,Random,1.0,0.0
+Wishart,69,SDP,1.0,0.0
+Wishart,69,QAOA p=2 transferred,1.0,0.0
+Wishart,69,QAOA p=3 transferred,1.0,0.0
+Wishart,70,SA tuned (ext),1.0,0.0
+Wishart,70,Tabu,0.0,0.12000655929068706
+Wishart,70,Local search,1.0,0.0
+Wishart,70,Random,1.0,0.0
+Wishart,70,SDP,1.0,0.0
+Wishart,70,QAOA p=2 transferred,1.0,0.0
+Wishart,70,QAOA p=3 transferred,1.0,0.0
+Wishart,71,SA tuned (ext),1.0,0.0
+Wishart,71,Tabu,0.0,0.08104065898229104
+Wishart,71,Local search,1.0,0.0
+Wishart,71,Random,1.0,0.0
+Wishart,71,SDP,1.0,0.0
+Wishart,71,QAOA p=2 transferred,1.0,0.0
+Wishart,71,QAOA p=3 transferred,1.0,0.0
+Wishart,72,SA tuned (ext),1.0,0.0
+Wishart,72,Tabu,0.0,0.0702685888895842
+Wishart,72,Local search,1.0,0.0
+Wishart,72,Random,1.0,0.0
+Wishart,72,SDP,1.0,0.0
+Wishart,72,QAOA p=2 transferred,1.0,0.0
+Wishart,72,QAOA p=3 transferred,1.0,0.0
+Wishart,73,SA tuned (ext),1.0,0.0
+Wishart,73,Tabu,1.0,0.0
+Wishart,73,Local search,1.0,0.0
+Wishart,73,Random,0.0,0.061390152059716
+Wishart,73,SDP,1.0,0.0
+Wishart,73,QAOA p=2 transferred,1.0,0.0
+Wishart,73,QAOA p=3 transferred,1.0,0.0
+Wishart,74,SA tuned (ext),1.0,0.0
+Wishart,74,Tabu,0.0,0.0013469679268696625
+Wishart,74,Local search,1.0,0.0
+Wishart,74,Random,1.0,0.0
+Wishart,74,SDP,1.0,0.0
+Wishart,74,QAOA p=2 transferred,1.0,0.0
+Wishart,74,QAOA p=3 transferred,1.0,0.0
+Wishart,75,SA tuned (ext),1.0,0.0
+Wishart,75,Tabu,1.0,0.0
+Wishart,75,Local search,1.0,0.0
+Wishart,75,Random,1.0,0.0
+Wishart,75,SDP,1.0,0.0
+Wishart,75,QAOA p=2 transferred,1.0,0.0
+Wishart,75,QAOA p=3 transferred,1.0,0.0
+Wishart,76,SA tuned (ext),1.0,0.0
+Wishart,76,Tabu,1.0,0.0
+Wishart,76,Local search,1.0,0.0
+Wishart,76,Random,1.0,0.0
+Wishart,76,SDP,1.0,0.0
+Wishart,76,QAOA p=2 transferred,1.0,0.0
+Wishart,76,QAOA p=3 transferred,1.0,0.0
+Wishart,77,SA tuned (ext),1.0,0.0
+Wishart,77,Tabu,0.0,0.08667931908159511
+Wishart,77,Local search,1.0,0.0
+Wishart,77,Random,1.0,0.0
+Wishart,77,SDP,0.0,0.03359543374238532
+Wishart,77,QAOA p=2 transferred,1.0,0.0
+Wishart,77,QAOA p=3 transferred,1.0,0.0
+Wishart,78,SA tuned (ext),1.0,0.0
+Wishart,78,Tabu,0.0,0.04335923891378952
+Wishart,78,Local search,1.0,0.0
+Wishart,78,Random,0.0,0.04335923891378952
+Wishart,78,SDP,1.0,0.0
+Wishart,78,QAOA p=2 transferred,1.0,0.0
+Wishart,78,QAOA p=3 transferred,1.0,0.0
+Wishart,79,SA tuned (ext),1.0,0.0
+Wishart,79,Tabu,0.0,0.12838632001583639
+Wishart,79,Local search,1.0,0.0
+Wishart,79,Random,1.0,0.0
+Wishart,79,SDP,0.0,0.031855098376355175
+Wishart,79,QAOA p=2 transferred,1.0,0.0
+Wishart,79,QAOA p=3 transferred,1.0,0.0

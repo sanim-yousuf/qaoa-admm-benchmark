@@ -1,0 +1,32 @@
+check,family,n,value,pass
+matrix diagonal = QUBO cost,ADMM,4,4.440892098500626e-16,True
+matrix diagonal = QUBO cost,ADMM,6,1.7763568394002505e-15,True
+matrix diagonal = QUBO cost,ADMM,8,5.329070518200751e-15,True
+matrix diagonal = QUBO cost,ADMM,12,4.263256414560601e-14,True
+matrix diagonal = QUBO cost,ADMM,16,6.394884621840902e-14,True
+cost layer = exp(-i gamma H),ADMM,4,0.0,True
+p=2 ansatz = fast simulator,ADMM,4,1.1102230246251565e-16,True
+scaled diagonal (no Pauli build) = Qiskit,ADMM,4,0.0,True
+cost layer = exp(-i gamma H),ADMM,8,-2.220446049250313e-16,True
+p=2 ansatz = fast simulator,ADMM,8,2.7755575615628914e-17,True
+scaled diagonal (no Pauli build) = Qiskit,ADMM,8,0.0,True
+cost layer = exp(-i gamma H),ADMM,12,0.0,True
+p=2 ansatz = fast simulator,ADMM,12,1.0733601507606494e-17,True
+scaled diagonal (no Pauli build) = Qiskit,ADMM,12,0.0,True
+matrix diagonal = QUBO cost,MaxCut,4,0.0,True
+matrix diagonal = QUBO cost,MaxCut,6,0.0,True
+matrix diagonal = QUBO cost,MaxCut,8,0.0,True
+matrix diagonal = QUBO cost,MaxCut,12,0.0,True
+matrix diagonal = QUBO cost,MaxCut,16,0.0,True
+cost layer = exp(-i gamma H),MaxCut,4,0.0,True
+p=2 ansatz = fast simulator,MaxCut,4,6.938893903907228e-17,True
+scaled diagonal (no Pauli build) = Qiskit,MaxCut,4,0.0,True
+cost layer = exp(-i gamma H),MaxCut,8,-8.881784197001252e-16,True
+p=2 ansatz = fast simulator,MaxCut,8,1.5612511283791264e-17,True
+scaled diagonal (no Pauli build) = Qiskit,MaxCut,8,0.0,True
+cost layer = exp(-i gamma H),MaxCut,12,-2.220446049250313e-16,True
+p=2 ansatz = fast simulator,MaxCut,12,2.8189256484623115e-18,True
+scaled diagonal (no Pauli build) = Qiskit,MaxCut,12,0.0,True
+sampled mean = exact mean (bit order),ADMM,8,0.4600674171704549,True
+fast sampler mean = exact mean,ADMM,8,0.03027267559927283,True
+chunked enumeration = direct enumeration,ADMM,16,5.684341886080802e-14,True

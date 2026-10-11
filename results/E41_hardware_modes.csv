@@ -1,0 +1,121 @@
+family,seed,mode,eta,hit_768
+main,0,none,0.43031519245575456,1.0
+main,0,dd,0.4597564086225943,1.0
+main,0,twirl,0.3830597523543208,1.0
+main,0,dd_twirl,0.3794512655634396,1.0
+main,1,none,0.4191111013383326,0.4
+main,1,dd,0.4367452557041528,1.0
+main,1,twirl,0.3902172459332842,0.8
+main,1,dd_twirl,0.38984243142779834,0.8
+main,2,none,0.4456860987758281,0.4
+main,2,dd,0.46585350537704834,0.6
+main,2,twirl,0.4058403673884454,0.4
+main,2,dd_twirl,0.3743710740457377,0.8
+main,3,none,0.4654823621284441,1.0
+main,3,dd,0.4754449270969057,1.0
+main,3,twirl,0.389878675097545,0.8
+main,3,dd_twirl,0.3730910729581693,0.6
+main,4,none,0.5008155787682217,0.6
+main,4,dd,0.5205388030574915,1.0
+main,4,twirl,0.39956368733891273,0.6
+main,4,dd_twirl,0.4045573013812068,1.0
+main,5,none,0.4756801593537148,1.0
+main,5,dd,0.48106882666557677,1.0
+main,5,twirl,0.38621485977131975,0.8
+main,5,dd_twirl,0.3691112288549632,0.8
+main,6,none,0.38043147350171475,1.0
+main,6,dd,0.4038739101744209,1.0
+main,6,twirl,0.34242906147443475,1.0
+main,6,dd_twirl,0.344317806846387,1.0
+main,7,none,0.4736810353402041,1.0
+main,7,dd,0.46089583872115014,0.6
+main,7,twirl,0.4136997070984244,0.8
+main,7,dd_twirl,0.4178874616257015,0.8
+main,8,none,0.3865476164123055,1.0
+main,8,dd,0.4104227279630551,0.8
+main,8,twirl,0.3200875747718023,0.8
+main,8,dd_twirl,0.3094483688976159,0.4
+main,9,none,0.45297513924485416,0.8
+main,9,dd,0.5273604910006735,1.0
+main,9,twirl,0.3543734953817695,0.6
+main,9,dd_twirl,0.35963535251356643,0.6
+Wishart,0,none,0.3912784346452304,0.4
+Wishart,0,dd_twirl,0.27154146129859497,0.2
+Wishart,1,none,0.3950299824380667,0.8
+Wishart,1,dd_twirl,0.21716029183894114,0.6
+Wishart,2,none,0.2939212602065711,0.8
+Wishart,2,dd_twirl,0.2036020170853725,0.4
+Wishart,3,none,0.334870431311911,0.6
+Wishart,3,dd_twirl,0.253825327242086,0.4
+Wishart,4,none,0.36351578822415376,0.8
+Wishart,4,dd_twirl,0.26094119070236804,0.4
+Wishart,5,none,0.37993698158960604,0.8
+Wishart,5,dd_twirl,0.2153305169211289,0.2
+Wishart,6,none,0.3747556460598961,0.8
+Wishart,6,dd_twirl,0.25423010873412155,0.2
+Wishart,7,none,0.34346964426694915,0.4
+Wishart,7,dd_twirl,0.23176799074503363,0.6
+Wishart,8,none,0.37901131397261906,0.2
+Wishart,8,dd_twirl,0.21758744973079142,0.8
+Wishart,9,none,0.3114025386375464,0.6
+Wishart,9,dd_twirl,0.2086374074230138,0.2
+Wishart,0,classical: Tabu (restarts),,0.8
+Wishart,0,classical: PT,,0.4
+Wishart,0,classical: SDP + LS,,1.0
+Wishart,0,classical: SA tuned (ext),,0.6
+Wishart,0,classical: Local search,,0.8
+Wishart,0,classical: Random,,0.2
+Wishart,1,classical: Tabu (restarts),,0.6
+Wishart,1,classical: PT,,0.8
+Wishart,1,classical: SDP + LS,,0.2
+Wishart,1,classical: SA tuned (ext),,0.8
+Wishart,1,classical: Local search,,0.4
+Wishart,1,classical: Random,,0.0
+Wishart,2,classical: Tabu (restarts),,1.0
+Wishart,2,classical: PT,,0.6
+Wishart,2,classical: SDP + LS,,1.0
+Wishart,2,classical: SA tuned (ext),,0.2
+Wishart,2,classical: Local search,,0.6
+Wishart,2,classical: Random,,0.2
+Wishart,3,classical: Tabu (restarts),,0.8
+Wishart,3,classical: PT,,0.4
+Wishart,3,classical: SDP + LS,,1.0
+Wishart,3,classical: SA tuned (ext),,0.4
+Wishart,3,classical: Local search,,0.6
+Wishart,3,classical: Random,,0.0
+Wishart,4,classical: Tabu (restarts),,0.8
+Wishart,4,classical: PT,,0.6
+Wishart,4,classical: SDP + LS,,1.0
+Wishart,4,classical: SA tuned (ext),,0.8
+Wishart,4,classical: Local search,,0.8
+Wishart,4,classical: Random,,0.2
+Wishart,5,classical: Tabu (restarts),,1.0
+Wishart,5,classical: PT,,0.8
+Wishart,5,classical: SDP + LS,,1.0
+Wishart,5,classical: SA tuned (ext),,0.4
+Wishart,5,classical: Local search,,0.6
+Wishart,5,classical: Random,,0.0
+Wishart,6,classical: Tabu (restarts),,1.0
+Wishart,6,classical: PT,,0.6
+Wishart,6,classical: SDP + LS,,1.0
+Wishart,6,classical: SA tuned (ext),,0.4
+Wishart,6,classical: Local search,,0.8
+Wishart,6,classical: Random,,0.4
+Wishart,7,classical: Tabu (restarts),,0.4
+Wishart,7,classical: PT,,0.0
+Wishart,7,classical: SDP + LS,,1.0
+Wishart,7,classical: SA tuned (ext),,0.6
+Wishart,7,classical: Local search,,0.6
+Wishart,7,classical: Random,,0.4
+Wishart,8,classical: Tabu (restarts),,0.8
+Wishart,8,classical: PT,,0.2
+Wishart,8,classical: SDP + LS,,0.0
+Wishart,8,classical: SA tuned (ext),,0.6
+Wishart,8,classical: Local search,,0.2
+Wishart,8,classical: Random,,0.4
+Wishart,9,classical: Tabu (restarts),,0.6
+Wishart,9,classical: PT,,1.0
+Wishart,9,classical: SDP + LS,,1.0
+Wishart,9,classical: SA tuned (ext),,0.6
+Wishart,9,classical: Local search,,0.8
+Wishart,9,classical: Random,,0.2

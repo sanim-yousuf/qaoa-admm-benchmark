@@ -1,0 +1,39 @@
+experiment,setting,size,QAOA protocol,budget,seeds,scoring
+S10 main comparison,ADMM-embedded,"n=12, K=12","p=1,2,3; COBYLA; 23 evaluations x 32 shots + 32-shot read-out",768/iteration,80,best-sample (primary); read-out (secondary)
+S10 transferred / warm-start / unnormalized arms,ADMM-embedded,"n=12, K=12",p=2 (transferred also p=3),768/iteration,80,best-sample; read-out
+S10 multi-start,ADMM-embedded,"n=12, K=12",p=2; 4 restarts x (11 evaluations x 16 shots + 16-shot read-out),768/iteration,80,best-sample; pooled read-out (64)
+S10 budget control,ADMM-embedded,"n=12, K=12",p=2; 11 evaluations x 16 shots + 16-shot read-out,192/iteration,80,best-sample; read-out
+S10b transfer from smaller n,ADMM-embedded,"n=12, K=12","p=2; angles trained at n=6, 8",768/iteration,80,best-sample
+S11 shared trajectory,exact-trajectory subproblems,"n=12, K=12",as S10,768/subproblem,40,best-sample; read-out
+S12 mechanism decomposition,standalone first subproblem,n=12,p=2,768,80,best-sample; read-out
+S13 optimizer ablation,standalone first subproblem,n=12,"p=2; COBYLA, Nelder-Mead, SPSA",768,80,best-sample; read-out
+S14 size scaling (fixed fraction),ADMM-embedded,"n=[6, 8, 10, 12, 14, 16], K=8",p=2; COBYLA; 16 shots/evaluation,18.75% of space,15,best-sample
+S14b SDP extension,standalone first subproblem,"n=[16, 18, 20, 22]",SDP + rounding,"18.75%, at most 1024",10,best rounding; bound
+S15 noise,ADMM-embedded,"n=12, K=5",p=2; COBYLA; transferred,768/iteration,12,best-sample
+S16 budget sweep,ADMM-embedded,"n=12, K=8",p=2; COBYLA; 32 shots/evaluation,5% to 45% of space,30,best-sample; read-out
+S17 MaxCut,standalone,n=12 (6 to 16),"p=1,2,3; multi-start; transferred",768,40,best-sample; approximation ratio
+S18 density,standalone first subproblem,n=12,p=2; COBYLA and transferred,768,20,best-sample
+S19 SA schedules,standalone first subproblem,n=12,four schedules,768,40,best
+S20 Hamiltonian defect,standalone first subproblem,n=12,p=2; normalized and unnormalized,768,80,best-sample; read-out
+S21 landscape mitigation,standalone first subproblem,n=12,"CVaR, ramp, multi-start; MaxCut warm start",768,80,best-sample; level selected on held-out seeds
+S22 hardware n=8,standalone first subproblem,n=8,p=2; random and transferred angles,4096 shots,5,mean gap; TVD
+R25 stronger baselines,ADMM-embedded,"n=12, K=12","SA restarts, tuned SA, tabu, local search, QAOA from transferred angles",768/iteration,80,best-sample
+R26 fixed-budget scaling,standalone subproblem k=1; ADMM-embedded,"n=[12, 14, 16, 18, 20, 22, 24]; embedded n=[16, 20], K=8","transferred p=2,3; optimized p=2 (n<=20)",768 (fixed),20 (10 for n>20),success probability; best-sample
+R27 penalty sweep,ADMM-embedded,"n=12, K=12, rho=[0.5, 1.0, 1.5, 2.0, 3.0, 4.0]",transferred p=2; optimized p=2,768/iteration,80,problem-level optimum found
+R28 general mixed-binary family,ADMM-embedded,"n=12 binary, 16 continuous, 8 constraints, box",transferred p=2; optimized p=2,768/iteration,40,problem-level optimum found
+R29 hardware n=12,standalone first subproblem,n=12,p=2; transferred and random angles (normalized),4096 shots; 768-shot blocks,10,best-sample; mean gap; retention
+H31 landscape diagnostics,second ADMM subproblem; reduced problem,"n=[12, 16]",none,exhaustive,80 (20 at n=16); general family 10,local minima; basin of the optimum
+H32-H33 Wishart planted family,ADMM-embedded,"n=12, K=12, rho=[2.0, 1.0]","optimized p=2; transferred (main and family angles) p=2,3",768/iteration,80,best-sample; problem optimum
+"H33 main family, same arms",ADMM-embedded,"n=12, K=12, rho=[2.0, 1.0]","transferred p=2,3; SA (extended tuning), tabu, LS, SDP",768/iteration,80,best-sample; problem optimum
+H34 direct QUBO,reduced problem solved directly,"n=12, both families","transferred p=2,3",K x 768 per instance,80,problem optimum
+"H35 shared trajectory, all baselines",exact-trajectory subproblems,"n=12, both families",transferred; optimized p=2,768/subproblem,80,best-sample; McNemar; TOST on Pr[opt]
+"H37 SA tuning, extended grid",held-out subproblems,"n=12, both families",125 configurations,768,36 subproblems x 3,mean gap
+"E36 tuning of tabu with restarts, PT, and SA on a wide grid",held-out subproblems,"n=12, both families (SA: planted)",25 / 100 / 100 configurations,768,36 subproblems x 3,mean gap
+E37 stronger solvers,ADMM-embedded; shared trajectory; direct F,"n=12, both families","tabu with restarts, PT, SDP + LS; SA (wide grid) on the planted family",768/subproblem; K x 768 on F,80,Pr[opt] (instance level); problem optimum
+E38 angles trained at n=16,held-out subproblems,n=16,p=2,exact,18 subproblems,mean expected gap
+E39 time to solution,second ADMM subproblem,"n=[12, 14, 16, 18, 20], both families",transferred p=2 (n=12 and n=16 angles; exact q),budget per run chosen on held-out instances; 1024 runs,20,TTS99 and its scaling
+E40 hardware n=12 re-analysis,standalone first subproblem,n=12,p=2 transferred,4096 shots,10,probability of the optimum; TTS99
+"E41 hardware: suppression arms, second submission, planted family",standalone first subproblem,"n=12, both families",p=2 transferred,4096 shots,10,retention; 768-shot blocks; TTS99
+"E42 hardware ADMM, moving trajectories",ADMM-embedded,"n=12 planted, K=6",p=2 transferred,768/iteration,3,problem optimum; bitstring changes
+"E43 general family, extended",ADMM-embedded,"n=12, rho=[0.5, 1.0, 2.0, 4.0]",transferred p=2; ADMM with restarts,768/iteration,80,problem optimum
+E43 general family with planted couplings,ADMM-embedded,"n=12, rho=[0.5, 1.0, 2.0, 4.0]",transferred p=2 (planted angles); all heuristics,768/iteration,80,problem optimum; Pr[opt]

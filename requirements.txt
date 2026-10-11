@@ -1,0 +1,12 @@
+# Pinned in every notebook version:
+qiskit==2.5.2
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.49.0
+# NumPy, SciPy, CVXPY, SCS, NetworkX, pandas, and matplotlib were the versions of the
+# Kaggle Python image at each execution; they were not recorded.
+numpy
+scipy
+cvxpy
+networkx
+pandas
+matplotlib

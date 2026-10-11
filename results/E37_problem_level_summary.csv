@@ -1,0 +1,73 @@
+family,setting,arm,mbo_opt_found
+Wishart,ADMM rho=1,Exact,1.0
+Wishart,ADMM rho=1,Local search,1.0
+Wishart,ADMM rho=1,PT,1.0
+Wishart,ADMM rho=1,QAOA p=2,0.975
+Wishart,ADMM rho=1,QAOA p=2 transferred,1.0
+Wishart,ADMM rho=1,QAOA p=2 transferred (main-family angles),1.0
+Wishart,ADMM rho=1,QAOA p=3 transferred,1.0
+Wishart,ADMM rho=1,Random,0.8875
+Wishart,ADMM rho=1,SA,0.975
+Wishart,ADMM rho=1,SA tuned (ext),1.0
+Wishart,ADMM rho=1,SDP,0.8875
+Wishart,ADMM rho=1,SDP + LS,0.9625
+Wishart,ADMM rho=1,Tabu,0.9625
+Wishart,ADMM rho=1,Tabu (restarts),1.0
+Wishart,ADMM rho=2,Exact,0.9125
+Wishart,ADMM rho=2,Local search,0.95
+Wishart,ADMM rho=2,PT,0.9875
+Wishart,ADMM rho=2,QAOA p=2,0.9625
+Wishart,ADMM rho=2,QAOA p=2 transferred,0.9375
+Wishart,ADMM rho=2,QAOA p=2 transferred (main-family angles),0.975
+Wishart,ADMM rho=2,QAOA p=3 transferred,0.9375
+Wishart,ADMM rho=2,Random,0.875
+Wishart,ADMM rho=2,SA,1.0
+Wishart,ADMM rho=2,SA tuned (ext),1.0
+Wishart,ADMM rho=2,SDP,0.75
+Wishart,ADMM rho=2,SDP + LS,0.875
+Wishart,ADMM rho=2,Tabu,0.9375
+Wishart,ADMM rho=2,Tabu (restarts),0.975
+main,ADMM rho=1,Exact,1.0
+main,ADMM rho=1,Local search,1.0
+main,ADMM rho=1,PT,1.0
+main,ADMM rho=1,QAOA p=2 transferred,1.0
+main,ADMM rho=1,QAOA p=3 transferred,1.0
+main,ADMM rho=1,Random,0.875
+main,ADMM rho=1,SA,1.0
+main,ADMM rho=1,SA tuned (ext),1.0
+main,ADMM rho=1,SDP,0.9875
+main,ADMM rho=1,SDP + LS,1.0
+main,ADMM rho=1,Tabu,1.0
+main,ADMM rho=1,Tabu (restarts),1.0
+main,ADMM rho=2,Exact,0.5
+main,ADMM rho=2,Local search,0.5
+main,ADMM rho=2,PT,0.5
+main,ADMM rho=2,QAOA p=2 transferred,0.5
+main,ADMM rho=2,QAOA p=3 transferred,0.5
+main,ADMM rho=2,Random,0.75
+main,ADMM rho=2,SA,0.55
+main,ADMM rho=2,SA tuned (ext),0.5
+main,ADMM rho=2,SDP,0.4875
+main,ADMM rho=2,SDP + LS,0.5
+main,ADMM rho=2,Tabu,0.5125
+main,ADMM rho=2,Tabu (restarts),0.5
+Wishart,direct QUBO,Local search,1.0
+Wishart,direct QUBO,PT,0.9875
+Wishart,direct QUBO,QAOA p=2 transferred,1.0
+Wishart,direct QUBO,QAOA p=3 transferred,1.0
+Wishart,direct QUBO,Random,0.8625
+Wishart,direct QUBO,SA tuned (ext),0.975
+Wishart,direct QUBO,SDP,0.7875
+Wishart,direct QUBO,SDP + LS,0.9125
+Wishart,direct QUBO,Tabu,0.2625
+Wishart,direct QUBO,Tabu (restarts),1.0
+main,direct QUBO,Local search,1.0
+main,direct QUBO,PT,1.0
+main,direct QUBO,QAOA p=2 transferred,1.0
+main,direct QUBO,QAOA p=3 transferred,1.0
+main,direct QUBO,Random,0.825
+main,direct QUBO,SA tuned (ext),1.0
+main,direct QUBO,SDP,0.975
+main,direct QUBO,SDP + LS,1.0
+main,direct QUBO,Tabu,0.9875
+main,direct QUBO,Tabu (restarts),1.0

@@ -1,0 +1,29 @@
+family,arm,admm_rho,n,direct,admm,a_only,b_only,P
+main,Local search,2.0,80,1.0,0.5,40,0,1.8189894035458565e-12
+main,Local search,1.0,80,1.0,1.0,0,0,1.0
+main,QAOA p=2 transferred,2.0,80,1.0,0.5,40,0,1.8189894035458565e-12
+main,QAOA p=2 transferred,1.0,80,1.0,1.0,0,0,1.0
+main,QAOA p=3 transferred,2.0,80,1.0,0.5,40,0,1.8189894035458565e-12
+main,QAOA p=3 transferred,1.0,80,1.0,1.0,0,0,1.0
+main,Random,2.0,80,0.825,0.75,15,9,0.30745625495910645
+main,Random,1.0,80,0.825,0.875,8,12,0.5034446716308594
+main,SA tuned (ext),2.0,80,1.0,0.5,40,0,1.8189894035458565e-12
+main,SA tuned (ext),1.0,80,1.0,1.0,0,0,1.0
+main,SDP,2.0,80,0.975,0.4875,39,0,3.637978807091713e-12
+main,SDP,1.0,80,0.975,0.9875,0,1,1.0
+main,Tabu,2.0,80,0.9875,0.5125,38,0,7.275957614183426e-12
+main,Tabu,1.0,80,0.9875,1.0,0,1,1.0
+Wishart,Local search,2.0,80,1.0,0.95,4,0,0.125
+Wishart,Local search,1.0,80,1.0,1.0,0,0,1.0
+Wishart,QAOA p=2 transferred,2.0,80,1.0,0.9375,5,0,0.0625
+Wishart,QAOA p=2 transferred,1.0,80,1.0,1.0,0,0,1.0
+Wishart,QAOA p=3 transferred,2.0,80,1.0,0.9375,5,0,0.0625
+Wishart,QAOA p=3 transferred,1.0,80,1.0,1.0,0,0,1.0
+Wishart,Random,2.0,80,0.8625,0.875,7,8,1.0
+Wishart,Random,1.0,80,0.8625,0.8875,7,9,0.803619384765625
+Wishart,SA tuned (ext),2.0,80,0.975,1.0,0,2,0.5
+Wishart,SA tuned (ext),1.0,80,0.975,1.0,0,2,0.5
+Wishart,SDP,2.0,80,0.7875,0.75,9,6,0.6072387695312499
+Wishart,SDP,1.0,80,0.7875,0.8875,0,8,0.0078125
+Wishart,Tabu,2.0,80,0.2625,0.9375,2,56,1.1879386363489175e-14
+Wishart,Tabu,1.0,80,0.2625,0.9625,1,57,4.0939474033052647e-16

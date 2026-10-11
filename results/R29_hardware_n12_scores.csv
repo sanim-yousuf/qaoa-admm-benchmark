@@ -1,0 +1,151 @@
+seed,angles,condition,hit,gap_unif,mean_gap_rel
+0,transferred,noiseless,1.0,0.0,0.11890631691070024
+0,transferred,device simulation,1.0,0.0,0.3341446654976149
+0,transferred,"hardware suppressed, raw",1.0,0.0,0.7630543069863718
+0,transferred,"hardware suppressed, mitigated",,,0.7670764765414488
+0,transferred,"hardware unsuppressed, raw",1.0,0.0,0.611398723485535
+0,transferred,"hardware unsuppressed, mitigated",,,0.6112404676877405
+0,classical,Random,0.2,0.026806073562780565,
+0,classical,SA,1.0,0.0,
+0,classical,SA tuned,1.0,0.0,
+0,random,noiseless,1.0,0.0,0.4713339822951983
+0,random,device simulation,1.0,0.0,0.6134779485245314
+0,random,"hardware suppressed, raw",1.0,0.0,0.8599511748264408
+0,random,"hardware suppressed, mitigated",,,0.8635325949964145
+0,random,"hardware unsuppressed, raw",1.0,0.0,0.6606857056200578
+0,random,"hardware unsuppressed, mitigated",,,0.6619815169825299
+1,transferred,noiseless,1.0,0.0,0.2532269732215135
+1,transferred,device simulation,1.0,0.0,0.42358116646403565
+1,transferred,"hardware suppressed, raw",0.6,0.015458392861697682,0.7480606349255772
+1,transferred,"hardware suppressed, mitigated",,,0.7514496888122373
+1,transferred,"hardware unsuppressed, raw",0.8,0.007729196430848841,0.7896305501464813
+1,transferred,"hardware unsuppressed, mitigated",,,0.7916706669194152
+1,classical,Random,0.0,0.08131951306473,
+1,classical,SA,1.0,0.0,
+1,classical,SA tuned,1.0,0.0,
+1,random,noiseless,0.0,0.1992889493505552,1.2731504353611334
+1,random,device simulation,0.0,0.19814692600439077,1.1804716795745
+1,random,"hardware suppressed, raw",0.0,0.1022415623830655,1.067460117163741
+1,random,"hardware suppressed, mitigated",,,1.0675735970294595
+1,random,"hardware unsuppressed, raw",0.0,0.09520983106578604,0.9757766319186049
+1,random,"hardware unsuppressed, mitigated",,,0.9757387826992683
+2,transferred,noiseless,1.0,0.0,0.29696050199756324
+2,transferred,device simulation,1.0,0.0,0.4713872541462839
+2,transferred,"hardware suppressed, raw",0.6,0.019093433731470415,0.8114236821353726
+2,transferred,"hardware suppressed, mitigated",,,0.8129147277848905
+2,transferred,"hardware unsuppressed, raw",1.0,0.0,0.6631893277649343
+2,transferred,"hardware unsuppressed, mitigated",,,0.6607257096882975
+2,classical,Random,0.0,0.06318052407756558,
+2,classical,SA,1.0,0.0,
+2,classical,SA tuned,1.0,0.0,
+2,random,noiseless,0.6,0.016383200575539915,0.9497347266318539
+2,random,device simulation,0.4,0.04539147937328255,0.9556818865509495
+2,random,"hardware suppressed, raw",0.2,0.05979850688451569,0.9860426357279662
+2,random,"hardware suppressed, mitigated",,,0.9864358045207985
+2,random,"hardware unsuppressed, raw",0.2,0.05387216256697187,0.8297949874204201
+2,random,"hardware unsuppressed, mitigated",,,0.8306769696907096
+3,transferred,noiseless,1.0,0.0,0.1289190360899088
+3,transferred,device simulation,1.0,0.0,0.3300649578422542
+3,transferred,"hardware suppressed, raw",0.8,0.00046539106508076343,0.7388288842045352
+3,transferred,"hardware suppressed, mitigated",,,0.7411247088332232
+3,transferred,"hardware unsuppressed, raw",0.8,0.00046539106508076343,0.6426308654950177
+3,transferred,"hardware unsuppressed, mitigated",,,0.6425544826655124
+3,classical,Random,0.0,0.06931779262045432,
+3,classical,SA,0.6,0.0009307821301615269,
+3,classical,SA tuned,0.8,0.00046539106508076343,
+3,random,noiseless,0.0,0.01819964105113398,0.7393573699639715
+3,random,device simulation,0.0,0.02550736514206231,0.8415942138358775
+3,random,"hardware suppressed, raw",0.0,0.014704081824582275,0.9603127000985497
+3,random,"hardware suppressed, mitigated",,,0.9606171180401164
+3,random,"hardware unsuppressed, raw",0.6,0.006221677372071581,0.8822063207745774
+3,random,"hardware unsuppressed, mitigated",,,0.8828625932989178
+4,transferred,noiseless,1.0,0.0,0.11341563068935853
+4,transferred,device simulation,1.0,0.0,0.3120009080058119
+4,transferred,"hardware suppressed, raw",0.8,0.002725897353478716,0.7113020953180765
+4,transferred,"hardware suppressed, mitigated",,,0.7150610461981456
+4,transferred,"hardware unsuppressed, raw",0.6,0.0072311219542208465,0.5978655721787844
+4,transferred,"hardware unsuppressed, mitigated",,,0.5991636692386445
+4,classical,Random,0.0,0.04324716987442205,
+4,classical,SA,1.0,0.0,
+4,classical,SA tuned,1.0,0.0,
+4,random,noiseless,1.0,0.0,0.7378164690738017
+4,random,device simulation,1.0,0.0,0.8038889925253291
+4,random,"hardware suppressed, raw",0.2,0.03137576778987753,0.928580020211303
+4,random,"hardware suppressed, mitigated",,,0.9314411517009794
+4,random,"hardware unsuppressed, raw",1.0,0.0,0.7872948001123644
+4,random,"hardware unsuppressed, mitigated",,,0.7909894803194836
+5,transferred,noiseless,1.0,0.0,0.2763692382462511
+5,transferred,device simulation,1.0,0.0,0.4486763074613738
+5,transferred,"hardware suppressed, raw",0.8,0.011394744731504213,0.7993184264346739
+5,transferred,"hardware suppressed, mitigated",,,0.8041539758934906
+5,transferred,"hardware unsuppressed, raw",1.0,0.0,0.6849899844738825
+5,transferred,"hardware unsuppressed, mitigated",,,0.6877752301663044
+5,classical,Random,0.0,0.14647441099855035,
+5,classical,SA,1.0,0.0,
+5,classical,SA tuned,1.0,0.0,
+5,random,noiseless,0.2,0.1293993031531758,1.0527233515812908
+5,random,device simulation,0.0,0.155614582995045,1.0373499092282203
+5,random,"hardware suppressed, raw",0.2,0.10659280974212718,0.9997786080479862
+5,random,"hardware suppressed, mitigated",,,1.0018598337108544
+5,random,"hardware unsuppressed, raw",0.0,0.1209600251996324,0.9923723482681992
+5,random,"hardware unsuppressed, mitigated",,,0.9948781064560679
+6,transferred,noiseless,1.0,0.0,0.3540188794150495
+6,transferred,device simulation,1.0,0.0,0.5434021582059807
+6,transferred,"hardware suppressed, raw",1.0,0.0,0.8417686150838055
+6,transferred,"hardware suppressed, mitigated",,,0.8461672540590434
+6,transferred,"hardware unsuppressed, raw",1.0,0.0,0.7846127634400052
+6,transferred,"hardware unsuppressed, mitigated",,,0.7873063961651033
+6,classical,Random,0.0,0.18049521580156785,
+6,classical,SA,1.0,0.0,
+6,classical,SA tuned,1.0,0.0,
+6,random,noiseless,0.4,0.07825750538008246,0.9894029163077109
+6,random,device simulation,0.2,0.15309193760564593,0.9949540406434909
+6,random,"hardware suppressed, raw",0.0,0.14023731489691127,1.0002073635028919
+6,random,"hardware suppressed, mitigated",,,1.003375892693185
+6,random,"hardware unsuppressed, raw",0.0,0.11915790372501875,1.0052344220345237
+6,random,"hardware unsuppressed, mitigated",,,1.0088658106060275
+7,transferred,noiseless,1.0,0.0,0.23807452569896786
+7,transferred,device simulation,1.0,0.0,0.4019448562225665
+7,transferred,"hardware suppressed, raw",0.2,0.026331104579848684,0.7615665685169326
+7,transferred,"hardware suppressed, mitigated",,,0.7673277858973787
+7,transferred,"hardware unsuppressed, raw",0.6,0.010289421712428193,0.7001809868698098
+7,transferred,"hardware unsuppressed, mitigated",,,0.7035857892301921
+7,classical,Random,0.0,0.07980921890702006,
+7,classical,SA,1.0,0.0,
+7,classical,SA tuned,1.0,0.0,
+7,random,noiseless,0.2,0.04365227936192548,0.9887200761878546
+7,random,device simulation,0.8,0.010913500564759213,0.9884841785498073
+7,random,"hardware suppressed, raw",0.0,0.07073104867127993,0.9973802504930205
+7,random,"hardware suppressed, mitigated",,,1.0007675585452505
+7,random,"hardware unsuppressed, raw",0.0,0.069704212713933,0.8802093829534656
+7,random,"hardware unsuppressed, mitigated",,,0.8841691467515859
+8,transferred,noiseless,1.0,0.0,0.346851011407276
+8,transferred,device simulation,1.0,0.0,0.5439277269725128
+8,transferred,"hardware suppressed, raw",0.4,0.060099633127175964,0.8383224052693112
+8,transferred,"hardware suppressed, mitigated",,,0.8392123678390507
+8,transferred,"hardware unsuppressed, raw",0.8,0.017340742353737726,0.7682291151906537
+8,transferred,"hardware unsuppressed, mitigated",,,0.7669489177879565
+8,classical,Random,0.0,0.14831584054439623,
+8,classical,SA,1.0,0.0,
+8,classical,SA tuned,1.0,0.0,
+8,random,noiseless,0.0,0.15251189797827314,0.9610885948781632
+8,random,device simulation,0.0,0.11206132648006842,0.9624813294314681
+8,random,"hardware suppressed, raw",0.6,0.054159522023514,0.9908059664167629
+8,random,"hardware suppressed, mitigated",,,0.9912899246026994
+8,random,"hardware unsuppressed, raw",0.2,0.10679073565072787,0.9491114815420951
+8,random,"hardware unsuppressed, mitigated",,,0.9493694132464103
+9,transferred,noiseless,1.0,0.0,0.326549955544587
+9,transferred,device simulation,1.0,0.0,0.4856713578983696
+9,transferred,"hardware suppressed, raw",0.8,0.013365607018429537,0.7907861212021038
+9,transferred,"hardware suppressed, mitigated",,,0.7942994513521224
+9,transferred,"hardware unsuppressed, raw",0.2,0.02207205303601678,0.7374042050169697
+9,transferred,"hardware unsuppressed, mitigated",,,0.7389423981407403
+9,classical,Random,0.2,0.06678877802151824,
+9,classical,SA,0.8,0.002902148672529081,
+9,classical,SA tuned,1.0,0.0,
+9,random,noiseless,0.0,0.28968065688703215,1.6469207667287677
+9,random,device simulation,0.0,0.1408939071760393,1.3433395268181871
+9,random,"hardware suppressed, raw",0.4,0.06666827451263407,1.0718024788070215
+9,random,"hardware suppressed, mitigated",,,1.0689673241289008
+9,random,"hardware unsuppressed, raw",0.0,0.0948470356357169,1.0669082068270919
+9,random,"hardware unsuppressed, mitigated",,,1.0642843173490428

@@ -1,0 +1,481 @@
+family,seed,arm,mbo_opt_found,mbo_gap_best_unif
+main,0,Tabu (restarts),1.0,0.0
+main,0,PT,1.0,0.0
+main,0,SDP + LS,1.0,0.0
+main,1,Tabu (restarts),1.0,0.0
+main,1,PT,1.0,0.0
+main,1,SDP + LS,1.0,0.0
+main,2,Tabu (restarts),1.0,0.0
+main,2,PT,1.0,0.0
+main,2,SDP + LS,1.0,0.0
+main,3,Tabu (restarts),1.0,0.0
+main,3,PT,1.0,0.0
+main,3,SDP + LS,1.0,0.0
+main,4,Tabu (restarts),1.0,0.0
+main,4,PT,1.0,0.0
+main,4,SDP + LS,1.0,0.0
+main,5,Tabu (restarts),1.0,0.0
+main,5,PT,1.0,0.0
+main,5,SDP + LS,1.0,0.0
+main,6,Tabu (restarts),1.0,0.0
+main,6,PT,1.0,0.0
+main,6,SDP + LS,1.0,0.0
+main,7,Tabu (restarts),1.0,0.0
+main,7,PT,1.0,0.0
+main,7,SDP + LS,1.0,0.0
+main,8,Tabu (restarts),1.0,0.0
+main,8,PT,1.0,0.0
+main,8,SDP + LS,1.0,0.0
+main,9,Tabu (restarts),1.0,0.0
+main,9,PT,1.0,0.0
+main,9,SDP + LS,1.0,0.0
+main,10,Tabu (restarts),1.0,0.0
+main,10,PT,1.0,0.0
+main,10,SDP + LS,1.0,0.0
+main,11,Tabu (restarts),1.0,0.0
+main,11,PT,1.0,0.0
+main,11,SDP + LS,1.0,0.0
+main,12,Tabu (restarts),1.0,0.0
+main,12,PT,1.0,0.0
+main,12,SDP + LS,1.0,0.0
+main,13,Tabu (restarts),1.0,0.0
+main,13,PT,1.0,0.0
+main,13,SDP + LS,1.0,0.0
+main,14,Tabu (restarts),1.0,0.0
+main,14,PT,1.0,0.0
+main,14,SDP + LS,1.0,0.0
+main,15,Tabu (restarts),1.0,0.0
+main,15,PT,1.0,0.0
+main,15,SDP + LS,1.0,0.0
+main,16,Tabu (restarts),1.0,0.0
+main,16,PT,1.0,0.0
+main,16,SDP + LS,1.0,0.0
+main,17,Tabu (restarts),1.0,0.0
+main,17,PT,1.0,0.0
+main,17,SDP + LS,1.0,0.0
+main,18,Tabu (restarts),1.0,0.0
+main,18,PT,1.0,0.0
+main,18,SDP + LS,1.0,0.0
+main,19,Tabu (restarts),1.0,0.0
+main,19,PT,1.0,0.0
+main,19,SDP + LS,1.0,0.0
+main,20,Tabu (restarts),1.0,0.0
+main,20,PT,1.0,0.0
+main,20,SDP + LS,1.0,0.0
+main,21,Tabu (restarts),1.0,0.0
+main,21,PT,1.0,0.0
+main,21,SDP + LS,1.0,0.0
+main,22,Tabu (restarts),1.0,0.0
+main,22,PT,1.0,0.0
+main,22,SDP + LS,1.0,0.0
+main,23,Tabu (restarts),1.0,0.0
+main,23,PT,1.0,0.0
+main,23,SDP + LS,1.0,0.0
+main,24,Tabu (restarts),1.0,0.0
+main,24,PT,1.0,0.0
+main,24,SDP + LS,1.0,0.0
+main,25,Tabu (restarts),1.0,0.0
+main,25,PT,1.0,0.0
+main,25,SDP + LS,1.0,0.0
+main,26,Tabu (restarts),1.0,0.0
+main,26,PT,1.0,0.0
+main,26,SDP + LS,1.0,0.0
+main,27,Tabu (restarts),1.0,0.0
+main,27,PT,1.0,0.0
+main,27,SDP + LS,1.0,0.0
+main,28,Tabu (restarts),1.0,0.0
+main,28,PT,1.0,0.0
+main,28,SDP + LS,1.0,0.0
+main,29,Tabu (restarts),1.0,0.0
+main,29,PT,1.0,0.0
+main,29,SDP + LS,1.0,0.0
+main,30,Tabu (restarts),1.0,0.0
+main,30,PT,1.0,0.0
+main,30,SDP + LS,1.0,0.0
+main,31,Tabu (restarts),1.0,0.0
+main,31,PT,1.0,0.0
+main,31,SDP + LS,1.0,0.0
+main,32,Tabu (restarts),1.0,0.0
+main,32,PT,1.0,0.0
+main,32,SDP + LS,1.0,0.0
+main,33,Tabu (restarts),1.0,0.0
+main,33,PT,1.0,0.0
+main,33,SDP + LS,1.0,0.0
+main,34,Tabu (restarts),1.0,0.0
+main,34,PT,1.0,0.0
+main,34,SDP + LS,1.0,0.0
+main,35,Tabu (restarts),1.0,0.0
+main,35,PT,1.0,0.0
+main,35,SDP + LS,1.0,0.0
+main,36,Tabu (restarts),1.0,0.0
+main,36,PT,1.0,0.0
+main,36,SDP + LS,1.0,0.0
+main,37,Tabu (restarts),1.0,0.0
+main,37,PT,1.0,0.0
+main,37,SDP + LS,1.0,0.0
+main,38,Tabu (restarts),1.0,0.0
+main,38,PT,1.0,0.0
+main,38,SDP + LS,1.0,0.0
+main,39,Tabu (restarts),1.0,0.0
+main,39,PT,1.0,0.0
+main,39,SDP + LS,1.0,0.0
+main,40,Tabu (restarts),1.0,0.0
+main,40,PT,1.0,0.0
+main,40,SDP + LS,1.0,0.0
+main,41,Tabu (restarts),1.0,0.0
+main,41,PT,1.0,0.0
+main,41,SDP + LS,1.0,0.0
+main,42,Tabu (restarts),1.0,0.0
+main,42,PT,1.0,0.0
+main,42,SDP + LS,1.0,0.0
+main,43,Tabu (restarts),1.0,0.0
+main,43,PT,1.0,0.0
+main,43,SDP + LS,1.0,0.0
+main,44,Tabu (restarts),1.0,0.0
+main,44,PT,1.0,0.0
+main,44,SDP + LS,1.0,0.0
+main,45,Tabu (restarts),1.0,0.0
+main,45,PT,1.0,0.0
+main,45,SDP + LS,1.0,0.0
+main,46,Tabu (restarts),1.0,0.0
+main,46,PT,1.0,0.0
+main,46,SDP + LS,1.0,0.0
+main,47,Tabu (restarts),1.0,0.0
+main,47,PT,1.0,0.0
+main,47,SDP + LS,1.0,0.0
+main,48,Tabu (restarts),1.0,0.0
+main,48,PT,1.0,0.0
+main,48,SDP + LS,1.0,0.0
+main,49,Tabu (restarts),1.0,0.0
+main,49,PT,1.0,0.0
+main,49,SDP + LS,1.0,0.0
+main,50,Tabu (restarts),1.0,0.0
+main,50,PT,1.0,0.0
+main,50,SDP + LS,1.0,0.0
+main,51,Tabu (restarts),1.0,0.0
+main,51,PT,1.0,0.0
+main,51,SDP + LS,1.0,0.0
+main,52,Tabu (restarts),1.0,0.0
+main,52,PT,1.0,0.0
+main,52,SDP + LS,1.0,0.0
+main,53,Tabu (restarts),1.0,0.0
+main,53,PT,1.0,0.0
+main,53,SDP + LS,1.0,0.0
+main,54,Tabu (restarts),1.0,0.0
+main,54,PT,1.0,0.0
+main,54,SDP + LS,1.0,0.0
+main,55,Tabu (restarts),1.0,0.0
+main,55,PT,1.0,0.0
+main,55,SDP + LS,1.0,0.0
+main,56,Tabu (restarts),1.0,0.0
+main,56,PT,1.0,0.0
+main,56,SDP + LS,1.0,0.0
+main,57,Tabu (restarts),1.0,0.0
+main,57,PT,1.0,0.0
+main,57,SDP + LS,1.0,0.0
+main,58,Tabu (restarts),1.0,0.0
+main,58,PT,1.0,0.0
+main,58,SDP + LS,1.0,0.0
+main,59,Tabu (restarts),1.0,0.0
+main,59,PT,1.0,0.0
+main,59,SDP + LS,1.0,0.0
+main,60,Tabu (restarts),1.0,0.0
+main,60,PT,1.0,0.0
+main,60,SDP + LS,1.0,0.0
+main,61,Tabu (restarts),1.0,0.0
+main,61,PT,1.0,0.0
+main,61,SDP + LS,1.0,0.0
+main,62,Tabu (restarts),1.0,0.0
+main,62,PT,1.0,0.0
+main,62,SDP + LS,1.0,0.0
+main,63,Tabu (restarts),1.0,0.0
+main,63,PT,1.0,0.0
+main,63,SDP + LS,1.0,0.0
+main,64,Tabu (restarts),1.0,0.0
+main,64,PT,1.0,0.0
+main,64,SDP + LS,1.0,0.0
+main,65,Tabu (restarts),1.0,0.0
+main,65,PT,1.0,0.0
+main,65,SDP + LS,1.0,0.0
+main,66,Tabu (restarts),1.0,0.0
+main,66,PT,1.0,0.0
+main,66,SDP + LS,1.0,0.0
+main,67,Tabu (restarts),1.0,0.0
+main,67,PT,1.0,0.0
+main,67,SDP + LS,1.0,0.0
+main,68,Tabu (restarts),1.0,0.0
+main,68,PT,1.0,0.0
+main,68,SDP + LS,1.0,0.0
+main,69,Tabu (restarts),1.0,0.0
+main,69,PT,1.0,0.0
+main,69,SDP + LS,1.0,0.0
+main,70,Tabu (restarts),1.0,0.0
+main,70,PT,1.0,0.0
+main,70,SDP + LS,1.0,0.0
+main,71,Tabu (restarts),1.0,0.0
+main,71,PT,1.0,0.0
+main,71,SDP + LS,1.0,0.0
+main,72,Tabu (restarts),1.0,0.0
+main,72,PT,1.0,0.0
+main,72,SDP + LS,1.0,0.0
+main,73,Tabu (restarts),1.0,0.0
+main,73,PT,1.0,0.0
+main,73,SDP + LS,1.0,0.0
+main,74,Tabu (restarts),1.0,0.0
+main,74,PT,1.0,0.0
+main,74,SDP + LS,1.0,0.0
+main,75,Tabu (restarts),1.0,0.0
+main,75,PT,1.0,0.0
+main,75,SDP + LS,1.0,0.0
+main,76,Tabu (restarts),1.0,0.0
+main,76,PT,1.0,0.0
+main,76,SDP + LS,1.0,0.0
+main,77,Tabu (restarts),1.0,0.0
+main,77,PT,1.0,0.0
+main,77,SDP + LS,1.0,0.0
+main,78,Tabu (restarts),1.0,0.0
+main,78,PT,1.0,0.0
+main,78,SDP + LS,1.0,0.0
+main,79,Tabu (restarts),1.0,0.0
+main,79,PT,1.0,0.0
+main,79,SDP + LS,1.0,0.0
+Wishart,0,Tabu (restarts),1.0,0.0
+Wishart,0,PT,1.0,0.0
+Wishart,0,SDP + LS,1.0,0.0
+Wishart,1,Tabu (restarts),1.0,0.0
+Wishart,1,PT,1.0,0.0
+Wishart,1,SDP + LS,1.0,0.0
+Wishart,2,Tabu (restarts),1.0,0.0
+Wishart,2,PT,1.0,0.0
+Wishart,2,SDP + LS,1.0,0.0
+Wishart,3,Tabu (restarts),1.0,0.0
+Wishart,3,PT,1.0,0.0
+Wishart,3,SDP + LS,1.0,0.0
+Wishart,4,Tabu (restarts),1.0,0.0
+Wishart,4,PT,1.0,0.0
+Wishart,4,SDP + LS,1.0,0.0
+Wishart,5,Tabu (restarts),1.0,0.0
+Wishart,5,PT,1.0,0.0
+Wishart,5,SDP + LS,1.0,0.0
+Wishart,6,Tabu (restarts),1.0,0.0
+Wishart,6,PT,1.0,0.0
+Wishart,6,SDP + LS,1.0,0.0
+Wishart,7,Tabu (restarts),1.0,0.0
+Wishart,7,PT,1.0,0.0
+Wishart,7,SDP + LS,1.0,0.0
+Wishart,8,Tabu (restarts),1.0,0.0
+Wishart,8,PT,1.0,0.0
+Wishart,8,SDP + LS,1.0,0.0
+Wishart,9,Tabu (restarts),1.0,0.0
+Wishart,9,PT,1.0,0.0
+Wishart,9,SDP + LS,1.0,0.0
+Wishart,10,Tabu (restarts),1.0,0.0
+Wishart,10,PT,1.0,0.0
+Wishart,10,SDP + LS,1.0,0.0
+Wishart,11,Tabu (restarts),1.0,0.0
+Wishart,11,PT,1.0,0.0
+Wishart,11,SDP + LS,1.0,0.0
+Wishart,12,Tabu (restarts),1.0,0.0
+Wishart,12,PT,1.0,0.0
+Wishart,12,SDP + LS,1.0,0.0
+Wishart,13,Tabu (restarts),1.0,0.0
+Wishart,13,PT,1.0,0.0
+Wishart,13,SDP + LS,1.0,0.0
+Wishart,14,Tabu (restarts),1.0,0.0
+Wishart,14,PT,1.0,0.0
+Wishart,14,SDP + LS,1.0,0.0
+Wishart,15,Tabu (restarts),1.0,0.0
+Wishart,15,PT,0.0,0.024198867615949186
+Wishart,15,SDP + LS,1.0,0.0
+Wishart,16,Tabu (restarts),1.0,0.0
+Wishart,16,PT,1.0,0.0
+Wishart,16,SDP + LS,1.0,0.0
+Wishart,17,Tabu (restarts),1.0,0.0
+Wishart,17,PT,1.0,0.0
+Wishart,17,SDP + LS,1.0,0.0
+Wishart,18,Tabu (restarts),1.0,0.0
+Wishart,18,PT,1.0,0.0
+Wishart,18,SDP + LS,1.0,0.0
+Wishart,19,Tabu (restarts),1.0,0.0
+Wishart,19,PT,1.0,0.0
+Wishart,19,SDP + LS,0.0,0.04808197260631316
+Wishart,20,Tabu (restarts),1.0,0.0
+Wishart,20,PT,1.0,0.0
+Wishart,20,SDP + LS,0.0,0.06087721034928312
+Wishart,21,Tabu (restarts),1.0,0.0
+Wishart,21,PT,1.0,0.0
+Wishart,21,SDP + LS,1.0,0.0
+Wishart,22,Tabu (restarts),1.0,0.0
+Wishart,22,PT,1.0,0.0
+Wishart,22,SDP + LS,1.0,0.0
+Wishart,23,Tabu (restarts),1.0,0.0
+Wishart,23,PT,1.0,0.0
+Wishart,23,SDP + LS,1.0,0.0
+Wishart,24,Tabu (restarts),1.0,0.0
+Wishart,24,PT,1.0,0.0
+Wishart,24,SDP + LS,1.0,0.0
+Wishart,25,Tabu (restarts),1.0,0.0
+Wishart,25,PT,1.0,0.0
+Wishart,25,SDP + LS,1.0,0.0
+Wishart,26,Tabu (restarts),1.0,0.0
+Wishart,26,PT,1.0,0.0
+Wishart,26,SDP + LS,1.0,0.0
+Wishart,27,Tabu (restarts),1.0,0.0
+Wishart,27,PT,1.0,0.0
+Wishart,27,SDP + LS,0.0,0.054450160881670026
+Wishart,28,Tabu (restarts),1.0,0.0
+Wishart,28,PT,1.0,0.0
+Wishart,28,SDP + LS,1.0,0.0
+Wishart,29,Tabu (restarts),1.0,0.0
+Wishart,29,PT,1.0,0.0
+Wishart,29,SDP + LS,1.0,0.0
+Wishart,30,Tabu (restarts),1.0,0.0
+Wishart,30,PT,1.0,0.0
+Wishart,30,SDP + LS,1.0,0.0
+Wishart,31,Tabu (restarts),1.0,0.0
+Wishart,31,PT,1.0,0.0
+Wishart,31,SDP + LS,1.0,0.0
+Wishart,32,Tabu (restarts),1.0,0.0
+Wishart,32,PT,1.0,0.0
+Wishart,32,SDP + LS,1.0,0.0
+Wishart,33,Tabu (restarts),1.0,0.0
+Wishart,33,PT,1.0,0.0
+Wishart,33,SDP + LS,1.0,0.0
+Wishart,34,Tabu (restarts),1.0,0.0
+Wishart,34,PT,1.0,0.0
+Wishart,34,SDP + LS,1.0,0.0
+Wishart,35,Tabu (restarts),1.0,0.0
+Wishart,35,PT,1.0,0.0
+Wishart,35,SDP + LS,1.0,0.0
+Wishart,36,Tabu (restarts),1.0,0.0
+Wishart,36,PT,1.0,0.0
+Wishart,36,SDP + LS,0.0,0.006216531298526729
+Wishart,37,Tabu (restarts),1.0,0.0
+Wishart,37,PT,1.0,0.0
+Wishart,37,SDP + LS,1.0,0.0
+Wishart,38,Tabu (restarts),1.0,0.0
+Wishart,38,PT,1.0,0.0
+Wishart,38,SDP + LS,1.0,0.0
+Wishart,39,Tabu (restarts),1.0,0.0
+Wishart,39,PT,1.0,0.0
+Wishart,39,SDP + LS,1.0,0.0
+Wishart,40,Tabu (restarts),1.0,0.0
+Wishart,40,PT,1.0,0.0
+Wishart,40,SDP + LS,1.0,0.0
+Wishart,41,Tabu (restarts),1.0,0.0
+Wishart,41,PT,1.0,0.0
+Wishart,41,SDP + LS,0.0,0.045317274336676844
+Wishart,42,Tabu (restarts),1.0,0.0
+Wishart,42,PT,1.0,0.0
+Wishart,42,SDP + LS,1.0,0.0
+Wishart,43,Tabu (restarts),1.0,0.0
+Wishart,43,PT,1.0,0.0
+Wishart,43,SDP + LS,1.0,0.0
+Wishart,44,Tabu (restarts),1.0,0.0
+Wishart,44,PT,1.0,0.0
+Wishart,44,SDP + LS,1.0,0.0
+Wishart,45,Tabu (restarts),1.0,0.0
+Wishart,45,PT,1.0,0.0
+Wishart,45,SDP + LS,1.0,0.0
+Wishart,46,Tabu (restarts),1.0,0.0
+Wishart,46,PT,1.0,0.0
+Wishart,46,SDP + LS,1.0,0.0
+Wishart,47,Tabu (restarts),1.0,0.0
+Wishart,47,PT,1.0,0.0
+Wishart,47,SDP + LS,1.0,0.0
+Wishart,48,Tabu (restarts),1.0,0.0
+Wishart,48,PT,1.0,0.0
+Wishart,48,SDP + LS,1.0,0.0
+Wishart,49,Tabu (restarts),1.0,0.0
+Wishart,49,PT,1.0,0.0
+Wishart,49,SDP + LS,1.0,0.0
+Wishart,50,Tabu (restarts),1.0,0.0
+Wishart,50,PT,1.0,0.0
+Wishart,50,SDP + LS,1.0,0.0
+Wishart,51,Tabu (restarts),1.0,0.0
+Wishart,51,PT,1.0,0.0
+Wishart,51,SDP + LS,1.0,0.0
+Wishart,52,Tabu (restarts),1.0,0.0
+Wishart,52,PT,1.0,0.0
+Wishart,52,SDP + LS,1.0,0.0
+Wishart,53,Tabu (restarts),1.0,0.0
+Wishart,53,PT,1.0,0.0
+Wishart,53,SDP + LS,1.0,0.0
+Wishart,54,Tabu (restarts),1.0,0.0
+Wishart,54,PT,1.0,0.0
+Wishart,54,SDP + LS,1.0,0.0
+Wishart,55,Tabu (restarts),1.0,0.0
+Wishart,55,PT,1.0,0.0
+Wishart,55,SDP + LS,1.0,0.0
+Wishart,56,Tabu (restarts),1.0,0.0
+Wishart,56,PT,1.0,0.0
+Wishart,56,SDP + LS,1.0,0.0
+Wishart,57,Tabu (restarts),1.0,0.0
+Wishart,57,PT,1.0,0.0
+Wishart,57,SDP + LS,1.0,0.0
+Wishart,58,Tabu (restarts),1.0,0.0
+Wishart,58,PT,1.0,0.0
+Wishart,58,SDP + LS,1.0,0.0
+Wishart,59,Tabu (restarts),1.0,0.0
+Wishart,59,PT,1.0,0.0
+Wishart,59,SDP + LS,1.0,0.0
+Wishart,60,Tabu (restarts),1.0,0.0
+Wishart,60,PT,1.0,0.0
+Wishart,60,SDP + LS,1.0,0.0
+Wishart,61,Tabu (restarts),1.0,0.0
+Wishart,61,PT,1.0,0.0
+Wishart,61,SDP + LS,1.0,0.0
+Wishart,62,Tabu (restarts),1.0,0.0
+Wishart,62,PT,1.0,0.0
+Wishart,62,SDP + LS,1.0,0.0
+Wishart,63,Tabu (restarts),1.0,0.0
+Wishart,63,PT,1.0,0.0
+Wishart,63,SDP + LS,0.0,0.012280633695211653
+Wishart,64,Tabu (restarts),1.0,0.0
+Wishart,64,PT,1.0,0.0
+Wishart,64,SDP + LS,1.0,0.0
+Wishart,65,Tabu (restarts),1.0,0.0
+Wishart,65,PT,1.0,0.0
+Wishart,65,SDP + LS,1.0,0.0
+Wishart,66,Tabu (restarts),1.0,0.0
+Wishart,66,PT,1.0,0.0
+Wishart,66,SDP + LS,1.0,0.0
+Wishart,67,Tabu (restarts),1.0,0.0
+Wishart,67,PT,1.0,0.0
+Wishart,67,SDP + LS,1.0,0.0
+Wishart,68,Tabu (restarts),1.0,0.0
+Wishart,68,PT,1.0,0.0
+Wishart,68,SDP + LS,1.0,0.0
+Wishart,69,Tabu (restarts),1.0,0.0
+Wishart,69,PT,1.0,0.0
+Wishart,69,SDP + LS,1.0,0.0
+Wishart,70,Tabu (restarts),1.0,0.0
+Wishart,70,PT,1.0,0.0
+Wishart,70,SDP + LS,1.0,0.0
+Wishart,71,Tabu (restarts),1.0,0.0
+Wishart,71,PT,1.0,0.0
+Wishart,71,SDP + LS,1.0,0.0
+Wishart,72,Tabu (restarts),1.0,0.0
+Wishart,72,PT,1.0,0.0
+Wishart,72,SDP + LS,1.0,0.0
+Wishart,73,Tabu (restarts),1.0,0.0
+Wishart,73,PT,1.0,0.0
+Wishart,73,SDP + LS,1.0,0.0
+Wishart,74,Tabu (restarts),1.0,0.0
+Wishart,74,PT,1.0,0.0
+Wishart,74,SDP + LS,1.0,0.0
+Wishart,75,Tabu (restarts),1.0,0.0
+Wishart,75,PT,1.0,0.0
+Wishart,75,SDP + LS,1.0,0.0
+Wishart,76,Tabu (restarts),1.0,0.0
+Wishart,76,PT,1.0,0.0
+Wishart,76,SDP + LS,1.0,0.0
+Wishart,77,Tabu (restarts),1.0,0.0
+Wishart,77,PT,1.0,0.0
+Wishart,77,SDP + LS,1.0,0.0
+Wishart,78,Tabu (restarts),1.0,0.0
+Wishart,78,PT,1.0,0.0
+Wishart,78,SDP + LS,1.0,0.0
+Wishart,79,Tabu (restarts),1.0,0.0
+Wishart,79,PT,1.0,0.0
+Wishart,79,SDP + LS,0.0,0.031855098376355175
